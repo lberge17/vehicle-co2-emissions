@@ -26552,8 +26552,8 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2019.0,NISSAN,LEAF (40 kWh),MID-SIZE,,,A1,B,,21.0,,,0.0,110.0,,,,8.0,,,16.8,18.7,1.9,2.4,2.1,243.0
 2019.0,NISSAN,LEAF S PLUS,MID-SIZE,,,A1,B,,21.5,,,0.0,160.0,,,,11.0,,,17.8,19.5,2.0,2.4,2.2,363.0
 2019.0,NISSAN,LEAF SV/SL PLUS,MID-SIZE,,,A1,B,,22.1,,,0.0,160.0,,,,11.0,,,18.3,20.0,2.1,2.5,2.2,349.0
-2019.0,SMART EQ,fortwo cabriolet,TWO-SEATER,,,A1,B,,23.1,,,0.0,60.0,,,,3.0,,,18.7,20.7,2.1,2.6,2.3,92.0
-2019.0,SMART EQ,fortwo coupe,TWO-SEATER,,,A1,B,,22.3,,,0.0,60.0,,,,3.0,,,16.9,19.3,1.9,2.5,2.2,93.0
+2019.0,SMART,fortwo cabriolet,TWO-SEATER,,,A1,B,,23.1,,,0.0,60.0,,,,3.0,,,18.7,20.7,2.1,2.6,2.3,92.0
+2019.0,SMART,fortwo coupe,TWO-SEATER,,,A1,B,,22.3,,,0.0,60.0,,,,3.0,,,16.9,19.3,1.9,2.5,2.2,93.0
 2019.0,TESLA,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,16.5,,,0.0,211.0,,,,3.7,,,14.8,15.6,1.7,1.9,1.7,151.0
 2019.0,TESLA,Model 3 STANDARD Range Plus,MID-SIZE,,,A1,B,,16.8,,,0.0,211.0,,,,8.5,,,14.9,15.8,1.7,1.9,1.8,386.0
 2019.0,TESLA,Model 3 Mid Range,MID-SIZE,,,A1,B,,17.9,,,0.0,211.0,,,,10.0,,,16.4,17.1,1.8,2.0,1.9,425.0
@@ -26702,12 +26702,12 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2022.0,KIA,Niro EV,STATION WAGON: SMALL,,,A1,B,,20.6,,,0.0,150.0,,,,9.5,,,17.0,18.6,1.9,2.3,2.1,385.0
 2022.0,KIA,Soul EV (120 Ah),STATION WAGON: SMALL,,,A1,B,,20.4,,,0.0,150.0,,,,6.0,,,15.6,17.8,1.8,2.3,2.0,248.0
 2022.0,KIA,Soul EV (180 Ah),STATION WAGON: SMALL,,,A1,B,,21.0,,,0.0,150.0,,,,9.5,,,16.9,18.7,1.9,2.4,2.1,383.0
-2022.0,Lucid,"Air Dream P AWD (19"" Wheels)",FULL-SIZE,,,A1,B,,18.3,,,0.0,829.0,,,,13.0,,,18.0,18.1,2.0,2.1,2.0,758.0
-2022.0,Lucid,"Air Dream P AWD (21"" Wheels)",FULL-SIZE,,,A1,B,,18.8,,,0.0,829.0,,,,13.0,,,19.0,18.9,2.1,2.1,2.1,726.0
-2022.0,Lucid,"Air Dream R AWD (19"" Wheels)",FULL-SIZE,,,A1,B,,16.7,,,0.0,696.0,,,,13.0,,,16.7,16.7,1.9,1.9,1.9,837.0
-2022.0,Lucid,"Air Dream R AWD (21"" Wheels)",FULL-SIZE,,,A1,B,,18.0,,,0.0,696.0,,,,13.0,,,18.2,18.1,2.0,2.0,2.0,774.0
-2022.0,Lucid,"Air Grand Touring AWD (19"" Wheels)",FULL-SIZE,,,A1,B,,15.8,,,0.0,611.0,,,,13.0,,,16.1,16.0,1.8,1.8,1.8,830.0
-2022.0,Lucid,"Air Grand Touring AWD (21"" Wheels)",FULL-SIZE,,,A1,B,,17.1,,,0.0,611.0,,,,13.0,,,17.4,17.3,2.0,1.9,1.9,755.0
+2022.0,LUCID,"Air Dream P AWD (19"" Wheels)",FULL-SIZE,,,A1,B,,18.3,,,0.0,829.0,,,,13.0,,,18.0,18.1,2.0,2.1,2.0,758.0
+2022.0,LUCID,"Air Dream P AWD (21"" Wheels)",FULL-SIZE,,,A1,B,,18.8,,,0.0,829.0,,,,13.0,,,19.0,18.9,2.1,2.1,2.1,726.0
+2022.0,LUCID,"Air Dream R AWD (19"" Wheels)",FULL-SIZE,,,A1,B,,16.7,,,0.0,696.0,,,,13.0,,,16.7,16.7,1.9,1.9,1.9,837.0
+2022.0,LUCID,"Air Dream R AWD (21"" Wheels)",FULL-SIZE,,,A1,B,,18.0,,,0.0,696.0,,,,13.0,,,18.2,18.1,2.0,2.0,2.0,774.0
+2022.0,LUCID,"Air Grand Touring AWD (19"" Wheels)",FULL-SIZE,,,A1,B,,15.8,,,0.0,611.0,,,,13.0,,,16.1,16.0,1.8,1.8,1.8,830.0
+2022.0,LUCID,"Air Grand Touring AWD (21"" Wheels)",FULL-SIZE,,,A1,B,,17.1,,,0.0,611.0,,,,13.0,,,17.4,17.3,2.0,1.9,1.9,755.0
 2022.0,MAZDA,MX-30,MID-SIZE,,,A1,B,,24.6,,,0.0,107.0,,,,5.3,,,21.4,22.8,2.4,2.8,2.6,161.0
 2022.0,MERCEDES-BENZ,EQB 350 4MATIC SUV,SUV: SMALL,,,A1,B,,22.4,,,0.0,215.0,,,,7.5,,,21.1,21.7,2.4,2.5,2.5,365.0
 2022.0,MERCEDES-BENZ,EQS 580 4MATIC Sedan,FULL-SIZE,,,A1,B,,21.1,,,0.0,385.0,,,,11.25,,,23.0,22.4,2.6,2.4,2.5,547.0
@@ -26727,8 +26727,8 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2022.0,PORSCHE,Taycan Turbo Cross Turismo,MID-SIZE,,,A2,B,,29.2,,,0.0,460.0,,,,10.5,,,29.1,29.1,3.3,3.3,3.3,328.0
 2022.0,PORSCHE,Taycan Turbo S,COMPACT,,,A2,B,,29.5,,,0.0,460.0,,,,10.5,,,30.2,29.9,3.4,3.3,3.4,323.0
 2022.0,PORSCHE,Taycan Turbo S Cross Turismo,MID-SIZE,,,A2,B,,28.7,,,0.0,460.0,,,,10.5,,,28.5,28.6,3.2,3.2,3.2,325.0
-2022.0,Rivian,R1S,SUV: STANDARD,,,A1,B,,32.1,,,0.0,650.0,,,,13.0,,,28.7,30.2,3.2,3.6,3.4,509.0
-2022.0,Rivian,R1T,PICKUP TRUCK - STANDARD,,,A1,B,,31.9,,,0.0,650.0,,,,13.0,,,28.2,29.9,3.2,3.6,3.4,505.0
+2022.0,RIVIAN,R1S,SUV: STANDARD,,,A1,B,,32.1,,,0.0,650.0,,,,13.0,,,28.7,30.2,3.2,3.6,3.4,509.0
+2022.0,RIVIAN,R1T,PICKUP TRUCK - STANDARD,,,A1,B,,31.9,,,0.0,650.0,,,,13.0,,,28.2,29.9,3.2,3.6,3.4,505.0
 2022.0,TESLA,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,19.5,,,0.0,191.0,,,,3.7,,,17.8,18.6,2.0,2.2,2.1,146.0
 2022.0,TESLA,Model 3 RWD,MID-SIZE,,,A1,B,,16.6,,,0.0,191.0,,,,8.5,,,15.2,15.8,1.7,1.9,1.8,438.0
 2022.0,TESLA,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,16.6,,,0.0,293.0,,,,10.0,,,15.6,16.0,1.8,1.9,1.8,576.0
