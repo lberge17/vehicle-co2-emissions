@@ -1324,7 +1324,7 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2021.0,FORD,Shelby GT500 Mustang,SUBCOMPACT,5.2,8.0,AM7,Z,19.9,12.8,16.7,17.0,393.0,,,,,,,,,,,,,
 2021.0,FORD,T-150 Wagon FFV,VAN: PASSENGER,3.5,6.0,AS10,X,16.2,12.4,14.5,19.0,341.0,,,,,,,,,,,,,
 2021.0,FORD,T-150 Wagon FFV,VAN: PASSENGER,3.5,6.0,AS10,E,21.6,16.4,19.3,15.0,321.0,,,,,,,,,,,,,
-2021.0,FORD,T-150 Wagon FFV 4WD,Van: Passengre,3.5,6.0,AS10,X,16.8,13.0,15.1,19.0,354.0,,,,,,,,,,,,,
+2021.0,FORD,T-150 Wagon FFV 4WD,VAN: PASSENGER,3.5,6.0,AS10,X,16.8,13.0,15.1,19.0,354.0,,,,,,,,,,,,,
 2021.0,FORD,T-150 Wagon FFV 4WD,VAN: PASSENGER,3.5,6.0,AS10,E,22.3,17.0,19.9,14.0,331.0,,,,,,,,,,,,,
 2021.0,FORD,Transit Connect Van,SPECIAL PURPOSE VEHICLE,2.0,4.0,AS8,X,9.8,8.8,9.3,30.0,217.0,,,,,,,,,,,,,
 2021.0,FORD,Transit Connect Van FFV,SPECIAL PURPOSE VEHICLE,2.0,4.0,AS8,X,9.8,8.8,9.3,30.0,217.0,,,,,,,,,,,,,
