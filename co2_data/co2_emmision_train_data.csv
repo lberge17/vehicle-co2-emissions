@@ -8228,7 +8228,7 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2015.0,SCION,tC,COMPACT,2.5,4.0,M6,X,10.2,7.7,9.0,31.0,207.0,,,,,,,,,,,,,
 2015.0,SCION,xB,STATION WAGON - SMALL,2.4,4.0,AS4,X,10.9,8.5,9.8,29.0,225.0,,,,,,,,,,,,,
 2015.0,SCION,xB,STATION WAGON - SMALL,2.4,4.0,M5,X,10.8,8.5,9.8,29.0,225.0,,,,,,,,,,,,,
-2015.0,SMATR,FORTWO CABRIOLET,TWO-SEATER,1.0,3.0,AM5,Z,6.8,6.2,6.5,43.0,150.0,,,,,,,,,,,,,
+2015.0,SMART,FORTWO CABRIOLET,TWO-SEATER,1.0,3.0,AM5,Z,6.8,6.2,6.5,43.0,150.0,,,,,,,,,,,,,
 2015.0,SMART,FORTWO COUPE,TWO-SEATER,1.0,3.0,AM5,Z,6.8,6.2,6.5,43.0,150.0,,,,,,,,,,,,,
 2015.0,SUBARU,BRZ,MINICOMPACT,2.0,4.0,AS6,Z,9.6,7.0,8.4,34.0,193.0,,,,,,,,,,,,,
 2015.0,SUBARU,BRZ,MINICOMPACT,2.0,4.0,M6,Z,10.9,7.9,9.6,29.0,221.0,,,,,,,,,,,,,
@@ -12508,7 +12508,7 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2013.0,SCION,xD,SUBCOMPACT,1.8,4.0,A4,X,8.8,7.1,8.0,35.0,184.0,,,,,,,,,,,,,
 2013.0,SCION,xD,SUBCOMPACT,1.8,4.0,M5,X,8.6,7.1,7.9,36.0,182.0,,,,,,,,,,,,,
 2013.0,SMART,FORTWO CABRIOLET,TWO-SEATER,1.0,3.0,AM5,Z,6.9,5.7,6.4,44.0,147.0,,,,,,,,,,,,,
-2013.0,SMATR,FORTWO COUPE,TWO-SEATER,1.0,3.0,AM5,Z,6.9,5.7,6.4,44.0,147.0,,,,,,,,,,,,,
+2013.0,SMART,FORTWO COUPE,TWO-SEATER,1.0,3.0,AM5,Z,6.9,5.7,6.4,44.0,147.0,,,,,,,,,,,,,
 2013.0,SRT,VIPER,TWO-SEATER,8.4,10.0,M6,Z,20.0,13.0,16.9,17.0,389.0,,,,,,,,,,,,,
 2013.0,SRT,VIPER GTS,TWO-SEATER,8.4,10.0,M6,Z,20.0,13.0,16.9,17.0,389.0,,,,,,,,,,,,,
 2013.0,SUBARU,BRZ,MINICOMPACT,2.0,4.0,AS6,Z,9.6,7.1,8.5,33.0,196.0,,,,,,,,,,,,,
@@ -26440,35 +26440,35 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2013.0,FORD,Focus Electric,COMPACT,,,A1,B,,21.1,,,0.0,107.0,,,,4.0,,,19.0,20.0,2.1,2.4,2.2,122.0
 2013.0,MITSUBISHI,i-MiEV,SUBCOMPACT,,,A1,B,,21.4,,,0.0,49.0,,,,7.0,,,16.9,18.7,1.9,2.4,2.1,100.0
 2013.0,NISSAN,LEAF,MID-SIZE,,,A1,B,,23.0,,,0.0,80.0,,,,7.0,,,19.3,21.1,2.2,2.6,2.4,117.0
-2013.0,smart,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
-2013.0,smart,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
-2013.0,Tesla,Model S (40 kWh),FULL-SIZE,,,A1,B,,21.9,,,0.0,225.0,,,,6.0,,,22.4,22.2,2.5,2.5,2.5,224.0
-2013.0,Tesla,Model S (60 kWh),FULL-SIZE,,,A1,B,,21.7,,,0.0,225.0,,,,10.0,,,22.2,21.9,2.5,2.4,2.5,335.0
-2013.0,Tesla,Model S (85 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,270.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,426.0
-2013.0,Tesla,Model S Performance,FULL-SIZE,,,A1,B,,23.2,,,0.0,310.0,,,,12.0,,,23.9,23.6,2.7,2.6,2.6,426.0
+2013.0,SMART,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
+2013.0,SMART,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
+2013.0,TESLA,Model S (40 kWh),FULL-SIZE,,,A1,B,,21.9,,,0.0,225.0,,,,6.0,,,22.4,22.2,2.5,2.5,2.5,224.0
+2013.0,TESLA,Model S (60 kWh),FULL-SIZE,,,A1,B,,21.7,,,0.0,225.0,,,,10.0,,,22.2,21.9,2.5,2.4,2.5,335.0
+2013.0,TESLA,Model S (85 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,270.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,426.0
+2013.0,TESLA,Model S Performance,FULL-SIZE,,,A1,B,,23.2,,,0.0,310.0,,,,12.0,,,23.9,23.6,2.7,2.6,2.6,426.0
 2014.0,CHEVROLET,Spark EV,SUBCOMPACT,,,A1,B,,19.6,,,0.0,104.0,,,,7.0,,,16.0,17.8,1.8,2.2,2.0,131.0
 2014.0,FORD,Focus Electric,COMPACT,,,A1,B,,21.1,,,0.0,107.0,,,,4.0,,,19.0,20.0,2.1,2.4,2.2,122.0
 2014.0,MITSUBISHI,i-MiEV,SUBCOMPACT,,,A1,B,,21.4,,,0.0,49.0,,,,7.0,,,16.9,18.7,1.9,2.4,2.1,100.0
 2014.0,NISSAN,LEAF,MID-SIZE,,,A1,B,,20.8,,,0.0,80.0,,,,5.0,,,16.5,18.4,1.9,2.3,2.1,135.0
-2014.0,smart,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
-2014.0,smart,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
-2014.0,Tesla,Model S (60 kWh),FULL-SIZE,,,A1,B,,21.7,,,0.0,225.0,,,,10.0,,,22.2,21.9,2.5,2.4,2.5,335.0
-2014.0,Tesla,Model S (85 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,270.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,426.0
-2014.0,Tesla,Model S Performance,FULL-SIZE,,,A1,B,,23.2,,,0.0,310.0,,,,12.0,,,23.9,23.6,2.7,2.6,2.6,426.0
+2014.0,SMART,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
+2014.0,SMART,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
+2014.0,TESLA,Model S (60 kWh),FULL-SIZE,,,A1,B,,21.7,,,0.0,225.0,,,,10.0,,,22.2,21.9,2.5,2.4,2.5,335.0
+2014.0,TESLA,Model S (85 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,270.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,426.0
+2014.0,TESLA,Model S Performance,FULL-SIZE,,,A1,B,,23.2,,,0.0,310.0,,,,12.0,,,23.9,23.6,2.7,2.6,2.6,426.0
 2015.0,BMW,i3,SUBCOMPACT,,,A1,B,,18.8,,,0.0,125.0,,,,4.0,,,15.2,16.8,1.7,2.1,1.9,130.0
 2015.0,CHEVROLET,Spark EV,SUBCOMPACT,,,A1,B,,19.6,,,0.0,104.0,,,,7.0,,,16.0,17.8,1.8,2.2,2.0,131.0
 2015.0,FORD,Focus Electric,COMPACT,,,A1,B,,21.1,,,0.0,107.0,,,,4.0,,,19.0,20.0,2.1,2.4,2.2,122.0
 2015.0,KIA,Soul EV,STATION WAGON: SMALL,,,A1,B,,22.7,,,0.0,81.0,,,,4.0,,,17.5,19.9,2.0,2.6,2.2,149.0
 2015.0,MITSUBISHI,i-MiEV,SUBCOMPACT,,,A1,B,,21.4,,,0.0,49.0,,,,7.0,,,16.9,18.7,1.9,2.4,2.1,100.0
 2015.0,NISSAN,LEAF,MID-SIZE,,,A1,B,,20.8,,,0.0,80.0,,,,5.0,,,16.5,18.4,1.9,2.3,2.1,135.0
-2015.0,smart,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
-2015.0,smart,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
-2015.0,Tesla,Model S (60 kWh),FULL-SIZE,,,A1,B,,21.7,,,0.0,285.0,,,,10.0,,,22.2,21.9,2.5,2.4,2.5,335.0
-2015.0,Tesla,Model S (70 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,285.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,377.0
-2015.0,Tesal,Model S (85/90 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,285.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,426.0
-2015.0,Tesla,Model S 70D,FULL-SIZE,,,A1,B,,20.6,,,0.0,280.0,,,,12.0,,,20.8,20.7,2.3,2.3,2.3,386.0
-2015.0,Tesla,Model S 85D/90D,FULL-SIZE,,,A1,B,,19.8,,,0.0,280.0,,,,12.0,,,22.0,21.0,2.5,2.2,2.4,435.0
-2015.0,Tesla,Model S P85D/P90D,FULL-SIZE,,,A1,B,,21.5,,,0.0,515.0,,,,12.0,,,23.4,22.5,2.6,2.4,2.5,407.0
+2015.0,SMART,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
+2015.0,SMART,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
+2015.0,TESLA,Model S (60 kWh),FULL-SIZE,,,A1,B,,21.7,,,0.0,285.0,,,,10.0,,,22.2,21.9,2.5,2.4,2.5,335.0
+2015.0,TESLA,Model S (70 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,285.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,377.0
+2015.0,TESLA,Model S (85/90 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,285.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,426.0
+2015.0,TESLA,Model S 70D,FULL-SIZE,,,A1,B,,20.6,,,0.0,280.0,,,,12.0,,,20.8,20.7,2.3,2.3,2.3,386.0
+2015.0,TESLA,Model S 85D/90D,FULL-SIZE,,,A1,B,,19.8,,,0.0,280.0,,,,12.0,,,22.0,21.0,2.5,2.2,2.4,435.0
+2015.0,TESLA,Model S P85D/P90D,FULL-SIZE,,,A1,B,,21.5,,,0.0,515.0,,,,12.0,,,23.4,22.5,2.6,2.4,2.5,407.0
 2016.0,BMW,i3,SUBCOMPACT,,,A1,B,,18.8,,,0.0,125.0,,,,4.0,,,15.2,16.8,1.7,2.1,1.9,130.0
 2016.0,CHEVROLET,Spark EV,SUBCOMPACT,,,A1,B,,19.6,,,0.0,104.0,,,,7.0,,,16.0,17.8,1.8,2.2,2.0,131.0
 2016.0,FORD,Focus Electric,COMPACT,,,A1,B,,21.1,,,0.0,107.0,,,,4.0,,,19.0,20.0,2.1,2.4,2.2,122.0
@@ -26476,26 +26476,26 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2016.0,MITSUBISHI,i-MiEV,SUBCOMPACT,,,A1,B,,21.4,,,0.0,49.0,,,,7.0,,,16.9,18.7,1.9,2.4,2.1,100.0
 2016.0,NISSAN,LEAF (24 kWh),MID-SIZE,,,A1,B,,20.8,,,0.0,80.0,,,,5.0,,,16.5,18.4,1.9,2.3,2.1,135.0
 2016.0,NISSAN,LEAF (30 kWh),MID-SIZE,,,A1,B,,20.7,,,0.0,80.0,,,,6.0,,,17.0,18.6,1.9,2.3,2.1,172.0
-2016.0,smart,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
-2016.0,smart,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
-2016.0,Tesla,Model S (60 kWh pre- 6/16),FULL-SIZE,,,A1,B,,21.7,,,0.0,285.0,,,,10.0,,,22.2,21.9,2.5,2.4,2.5,335.0
-2016.0,Tesla,Model S (60 kWh),FULL-SIZE,,,A1,B,,20.7,,,0.0,285.0,,,,10.0,,,21.5,21.1,2.4,2.3,2.4,338.0
-2016.0,Tesla,Model S (70 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,285.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,377.0
-2016.0,Tesla,Model S (75 kWh),FULL-SIZE,,,A1,B,,21.0,,,0.0,285.0,,,,12.0,,,21.5,21.3,2.4,2.4,2.4,401.0
-2016.0,Tesla,Model S (85/90 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,285.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,426.0
-2016.0,Tesla,Model S 60D,FULL-SIZE,,,A1,B,,19.6,,,0.0,386.0,,,,10.0,,,20.6,20.2,2.3,2.2,2.3,351.0
-2016.0,Tesla,Model S 70D,FULL-SIZE,,,A1,B,,20.6,,,0.0,386.0,,,,12.0,,,20.8,20.7,2.3,2.3,2.3,386.0
-2016.0,Tesla,Model S 75D,FULL-SIZE,,,A1,B,,19.9,,,0.0,386.0,,,,12.0,,,20.6,20.3,2.3,2.2,2.3,417.0
-2016.0,Tesla,Model S 85D/90D,FULL-SIZE,,,A1,B,,19.8,,,0.0,386.0,,,,12.0,,,22.0,21.0,2.5,2.2,2.4,435.0
-2016.0,Tesla,Model S 90D (Refresh),FULL-SIZE,,,A1,B,,19.7,,,0.0,386.0,,,,12.0,,,20.8,20.3,2.3,2.2,2.3,473.0
-2016.0,Tesla,Model S P85D/P90D,FULL-SIZE,,,A1,B,,21.5,,,0.0,568.0,,,,12.0,,,23.4,22.5,2.6,2.4,2.5,407.0
-2016.0,Tesla,Model S P90D (Refresh),FULL-SIZE,,,A1,B,,21.0,,,0.0,568.0,,,,12.0,,,22.9,22.1,2.6,2.4,2.5,435.0
-2016.0,Tesla,Model S P100D,FULL-SIZE,,,A1,B,,20.0,,,0.0,568.0,,,,12.0,,,22.6,21.5,2.5,2.3,2.4,507.0
-2016.0,Tesla ,Model X 60D,SUV: STANDARD,,,A1,B,,22.2,,,0.0,386.0,,,,10.0,,,23.0,22.6,2.6,2.5,2.5,322.0
-2016.0,Tesla,Model X 75D,SUV: STANDARD,,,A1,B,,21.9,,,0.0,386.0,,,,12.0,,,23.0,22.5,2.6,2.5,2.5,383.0
-2016.0,Tesla,Model X 90D,SUV: STANDARD,,,A1,B,,22.2,,,0.0,386.0,,,,12.0,,,23.2,22.7,2.6,2.5,2.6,414.0
-2016.0,Tesla,Model X P90D,SUV: STANDARD,,,A1,B,,23.3,,,0.0,568.0,,,,12.0,,,23.6,23.5,2.7,2.6,2.6,402.0
-2016.0,Tesla,Model X P100D,SUV: STANDARD,,,A1,B,,22.9,,,0.0,568.0,,,,12.0,,,25.7,24.4,2.9,2.6,2.7,465.0
+2016.0,SMART,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
+2016.0,SMART,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.5,,,0.0,35.0,,,,8.0,,,17.2,19.6,1.9,2.5,2.2,109.0
+2016.0,TESLA,Model S (60 kWh pre- 6/16),FULL-SIZE,,,A1,B,,21.7,,,0.0,285.0,,,,10.0,,,22.2,21.9,2.5,2.4,2.5,335.0
+2016.0,TESLA,Model S (60 kWh),FULL-SIZE,,,A1,B,,20.7,,,0.0,285.0,,,,10.0,,,21.5,21.1,2.4,2.3,2.4,338.0
+2016.0,TESLA,Model S (70 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,285.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,377.0
+2016.0,TESLA,Model S (75 kWh),FULL-SIZE,,,A1,B,,21.0,,,0.0,285.0,,,,12.0,,,21.5,21.3,2.4,2.4,2.4,401.0
+2016.0,TESLA,Model S (85/90 kWh),FULL-SIZE,,,A1,B,,23.2,,,0.0,285.0,,,,12.0,,,23.8,23.6,2.7,2.6,2.6,426.0
+2016.0,TESLA,Model S 60D,FULL-SIZE,,,A1,B,,19.6,,,0.0,386.0,,,,10.0,,,20.6,20.2,2.3,2.2,2.3,351.0
+2016.0,TESLA,Model S 70D,FULL-SIZE,,,A1,B,,20.6,,,0.0,386.0,,,,12.0,,,20.8,20.7,2.3,2.3,2.3,386.0
+2016.0,TESLA,Model S 75D,FULL-SIZE,,,A1,B,,19.9,,,0.0,386.0,,,,12.0,,,20.6,20.3,2.3,2.2,2.3,417.0
+2016.0,TESLA,Model S 85D/90D,FULL-SIZE,,,A1,B,,19.8,,,0.0,386.0,,,,12.0,,,22.0,21.0,2.5,2.2,2.4,435.0
+2016.0,TESLA,Model S 90D (Refresh),FULL-SIZE,,,A1,B,,19.7,,,0.0,386.0,,,,12.0,,,20.8,20.3,2.3,2.2,2.3,473.0
+2016.0,TESLA,Model S P85D/P90D,FULL-SIZE,,,A1,B,,21.5,,,0.0,568.0,,,,12.0,,,23.4,22.5,2.6,2.4,2.5,407.0
+2016.0,TESLA,Model S P90D (Refresh),FULL-SIZE,,,A1,B,,21.0,,,0.0,568.0,,,,12.0,,,22.9,22.1,2.6,2.4,2.5,435.0
+2016.0,TESLA,Model S P100D,FULL-SIZE,,,A1,B,,20.0,,,0.0,568.0,,,,12.0,,,22.6,21.5,2.5,2.3,2.4,507.0
+2016.0,TESLA ,Model X 60D,SUV: STANDARD,,,A1,B,,22.2,,,0.0,386.0,,,,10.0,,,23.0,22.6,2.6,2.5,2.5,322.0
+2016.0,TESLA,Model X 75D,SUV: STANDARD,,,A1,B,,21.9,,,0.0,386.0,,,,12.0,,,23.0,22.5,2.6,2.5,2.5,383.0
+2016.0,TESLA,Model X 90D,SUV: STANDARD,,,A1,B,,22.2,,,0.0,386.0,,,,12.0,,,23.2,22.7,2.6,2.5,2.6,414.0
+2016.0,TESLA,Model X P90D,SUV: STANDARD,,,A1,B,,23.3,,,0.0,568.0,,,,12.0,,,23.6,23.5,2.7,2.6,2.6,402.0
+2016.0,TESLA,Model X P100D,SUV: STANDARD,,,A1,B,,22.9,,,0.0,568.0,,,,12.0,,,25.7,24.4,2.9,2.6,2.7,465.0
 2017.0,BMW,i3 (60 Ah),SUBCOMPACT,,,A1,B,,18.8,,,0.0,125.0,,,,4.0,,,15.2,16.8,1.7,2.1,1.9,130.0
 2017.0,BMW,i3 (94 Ah),SUBCOMPACT,,,A1,B,,19.7,,,0.0,125.0,,,,5.0,,,16.2,17.8,1.8,2.2,2.0,183.0
 2017.0,CHEVROLET,Bolt EV,STATION WAGON: SMALL,,,A1,B,,19.0,,,0.0,150.0,,,,9.3,,,16.4,17.6,1.8,2.1,2.0,383.0
@@ -26504,20 +26504,20 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2017.0,KIA,Soul EV,STATION WAGON: SMALL,,,A1,B,,23.0,,,0.0,81.0,,,,4.0,,,17.4,19.9,2.0,2.6,2.2,150.0
 2017.0,MITSUBISHI,i-MiEV,SUBCOMPACT,,,A1,B,,20.5,,,0.0,49.0,,,,7.0,,,16.9,18.7,1.9,2.3,2.1,100.0
 2017.0,NISSAN,LEAF,MID-SIZE,,,A1,B,,20.7,,,0.0,80.0,,,,6.0,,,17.0,18.6,1.9,2.3,2.1,172.0
-2017.0,Tesla,Model S (60 kWh),FULL-SIZE,,,A1,B,,20.7,,,0.0,285.0,,,,10.0,,,21.5,21.1,2.4,2.3,2.4,338.0
-2017.0,Tesla,Model S (75 kWh),FULL-SIZE,,,A1,B,,21.0,,,0.0,285.0,,,,12.0,,,21.5,21.3,2.4,2.4,2.4,401.0
-2017.0,Tesla,Model S 60D,FULL-SIZE,,,A1,B,,19.6,,,0.0,386.0,,,,10.0,,,20.6,20.2,2.3,2.2,2.3,351.0
-2017.0,Tesla,Model S 75D,FULL-SIZE,,,A1,B,,19.9,,,0.0,386.0,,,,12.0,,,20.6,20.3,2.3,2.2,2.3,417.0
-2017.0,Tesla,Model S 90D,FULL-SIZE,,,A1,B,,19.7,,,0.0,386.0,,,,12.0,,,20.6,20.2,2.3,2.2,2.3,473.0
-2017.0,Tesla,Model S 100D,FULL-SIZE,,,A1,B,,20.5,,,0.0,386.0,,,,12.0,,,20.7,20.6,2.3,2.3,2.3,539.0
-2017.0,Tesla,Model S P90D,FULL-SIZE,,,A1,B,,20.9,,,0.0,568.0,,,,12.0,,,22.8,22.0,2.6,2.3,2.5,435.0
-2017.0,Tesla ,Model S P100D,FULL-SIZE,,,A1,B,,20.0,,,0.0,568.0,,,,12.0,,,22.6,21.5,2.5,2.3,2.4,507.0
-2017.0,Tesla ,Model X 60D,SUV: STANDARD,,,A1,B,,22.2,,,0.0,386.0,,,,10.0,,,23.0,22.6,2.6,2.5,2.5,322.0
-2017.0,Tesla ,Model X 75D,SUV: STANDARD,,,A1,B,,21.9,,,0.0,386.0,,,,12.0,,,23.0,22.5,2.6,2.5,2.5,383.0
-2017.0,Tesla ,Model X 90D,SUV: STANDARD,,,A1,B,,22.2,,,0.0,386.0,,,,12.0,,,23.2,22.7,2.6,2.5,2.6,414.0
-2017.0,Tesla ,Model X 100D,SUV: STANDARD,,,A1,B,,23.7,,,0.0,386.0,,,,12.0,,,24.3,24.0,2.7,2.7,2.7,475.0
-2017.0,Tesla ,Model X P90D,SUV: STANDARD,,,A1,B,,23.3,,,0.0,568.0,,,,12.0,,,23.6,23.5,2.7,2.6,2.6,402.0
-2017.0,Tesla ,Model X P100D,SUV: STANDARD,,,A1,B,,22.9,,,0.0,568.0,,,,12.0,,,25.7,24.4,2.9,2.6,2.7,465.0
+2017.0,TESLA,Model S (60 kWh),FULL-SIZE,,,A1,B,,20.7,,,0.0,285.0,,,,10.0,,,21.5,21.1,2.4,2.3,2.4,338.0
+2017.0,TESLA,Model S (75 kWh),FULL-SIZE,,,A1,B,,21.0,,,0.0,285.0,,,,12.0,,,21.5,21.3,2.4,2.4,2.4,401.0
+2017.0,TESLA,Model S 60D,FULL-SIZE,,,A1,B,,19.6,,,0.0,386.0,,,,10.0,,,20.6,20.2,2.3,2.2,2.3,351.0
+2017.0,TESLA,Model S 75D,FULL-SIZE,,,A1,B,,19.9,,,0.0,386.0,,,,12.0,,,20.6,20.3,2.3,2.2,2.3,417.0
+2017.0,TESLA,Model S 90D,FULL-SIZE,,,A1,B,,19.7,,,0.0,386.0,,,,12.0,,,20.6,20.2,2.3,2.2,2.3,473.0
+2017.0,TESLA,Model S 100D,FULL-SIZE,,,A1,B,,20.5,,,0.0,386.0,,,,12.0,,,20.7,20.6,2.3,2.3,2.3,539.0
+2017.0,TESLA,Model S P90D,FULL-SIZE,,,A1,B,,20.9,,,0.0,568.0,,,,12.0,,,22.8,22.0,2.6,2.3,2.5,435.0
+2017.0,TESLA ,Model S P100D,FULL-SIZE,,,A1,B,,20.0,,,0.0,568.0,,,,12.0,,,22.6,21.5,2.5,2.3,2.4,507.0
+2017.0,TESLA ,Model X 60D,SUV: STANDARD,,,A1,B,,22.2,,,0.0,386.0,,,,10.0,,,23.0,22.6,2.6,2.5,2.5,322.0
+2017.0,TESLA ,Model X 75D,SUV: STANDARD,,,A1,B,,21.9,,,0.0,386.0,,,,12.0,,,23.0,22.5,2.6,2.5,2.5,383.0
+2017.0,TESLA ,Model X 90D,SUV: STANDARD,,,A1,B,,22.2,,,0.0,386.0,,,,12.0,,,23.2,22.7,2.6,2.5,2.6,414.0
+2017.0,TESLA ,Model X 100D,SUV: STANDARD,,,A1,B,,23.7,,,0.0,386.0,,,,12.0,,,24.3,24.0,2.7,2.7,2.7,475.0
+2017.0,TESLA ,Model X P90D,SUV: STANDARD,,,A1,B,,23.3,,,0.0,568.0,,,,12.0,,,23.6,23.5,2.7,2.6,2.6,402.0
+2017.0,TESLA ,Model X P100D,SUV: STANDARD,,,A1,B,,22.9,,,0.0,568.0,,,,12.0,,,25.7,24.4,2.9,2.6,2.7,465.0
 2017.0,VOLKSWAGEN,e-Golf,COMPACT,,,A1,B,,18.6,,,0.0,100.0,,,,5.3,,,16.8,17.4,1.9,2.1,2.0,201.0
 2018.0,BMW,i3,SUBCOMPACT,,,A1,B,,19.7,,,0.0,125.0,,,,5.0,,,16.2,17.8,1.8,2.2,2.0,183.0
 2018.0,BMW,i3s,SUBCOMPACT,,,A1,B,,21.1,,,0.0,135.0,,,,5.0,,,17.1,18.9,1.9,2.4,2.1,172.0
@@ -26526,19 +26526,19 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2018.0,Hyundai,IONIQ Electric,MID-SIZE,,,A1,B,,17.4,,,0.0,88.0,,,,4.0,,,13.7,15.5,1.6,1.9,1.7,200.0
 2018.0,KIA,Soul EV,STATION WAGON: SMALL,,,A1,B,,22.4,,,0.0,81.0,,,,5.0,,,16.8,19.3,1.9,2.5,2.2,179.0
 2018.0,NISSAN,LEAF,MID-SIZE,,,A1,B,,21.1,,,0.0,110.0,,,,8.0,,,16.9,18.8,1.9,2.4,2.1,242.0
-2018.0,smart,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,23.1,,,0.0,60.0,,,,3.0,,,18.7,20.7,2.1,2.6,2.3,92.0
-2018.0,smart,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.3,,,0.0,60.0,,,,3.0,,,16.9,19.3,1.9,2.5,2.2,93.0
-2018.0,Tesla,Model 3 Mid Range,MID-SIZE,,,A1,B,,17.9,,,0.0,202.0,,,,10.0,,,16.4,17.1,1.8,2.0,1.9,418.0
-2018.0,Tesla,Model 3 Long Range,MID-SIZE,,,A1,B,,17.0,,,0.0,202.0,,,,10.0,,,15.3,16.1,1.7,1.9,1.8,499.0
-2018.0,Tesla,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,18.7,,,0.0,335.0,,,,10.0,,,17.4,18.0,2.0,2.1,2.0,499.0
-2018.0,Tesla,Model 3 Long Range AWD Performance,MID-SIZE,,,A1,B,,18.7,,,0.0,358.0,,,,10.0,,,17.4,18.0,2.0,2.1,2.0,499.0
-2018.0,Tesla,Model S (75 kWh),FULL-SIZE,,,A1,B,,21.0,,,0.0,285.0,,,,12.0,,,21.5,21.3,2.4,2.4,2.4,401.0
-2018.0,Tesla,Model S 75D,FULL-SIZE,,,A1,B,,19.9,,,0.0,386.0,,,,12.0,,,20.6,20.3,2.3,2.2,2.3,417.0
-2018.0,Tesla,Model S 100D,FULL-SIZE,,,A1,B,,20.5,,,0.0,386.0,,,,12.0,,,20.7,20.6,2.3,2.3,2.3,539.0
-2018.0,Tesla,Model S P100D,FULL-SIZE,,,A1,B,,20.0,,,0.0,568.0,,,,12.0,,,22.6,21.5,2.5,2.3,2.4,507.0
-2018.0,Tesla,Model X 75D,SUV: STANDARD,,,A1,B,,21.9,,,0.0,386.0,,,,12.0,,,23.0,22.5,2.6,2.5,2.5,383.0
-2018.0,Tesla,Model X 100D,SUV: STANDARD,,,A1,B,,23.7,,,0.0,386.0,,,,12.0,,,24.3,24.0,2.7,2.7,2.7,475.0
-2018.0,Tesla,Model X P100D,SUV: STANDARD,,,A1,B,,23.6,,,0.0,568.0,,,,12.0,,,25.4,24.6,2.8,2.7,2.8,465.0
+2018.0,SMART,fortwo electric drive cabriolet,TWO-SEATER,,,A1,B,,23.1,,,0.0,60.0,,,,3.0,,,18.7,20.7,2.1,2.6,2.3,92.0
+2018.0,SMART,fortwo electric drive coupe,TWO-SEATER,,,A1,B,,22.3,,,0.0,60.0,,,,3.0,,,16.9,19.3,1.9,2.5,2.2,93.0
+2018.0,TESLA,Model 3 Mid Range,MID-SIZE,,,A1,B,,17.9,,,0.0,202.0,,,,10.0,,,16.4,17.1,1.8,2.0,1.9,418.0
+2018.0,TESLA,Model 3 Long Range,MID-SIZE,,,A1,B,,17.0,,,0.0,202.0,,,,10.0,,,15.3,16.1,1.7,1.9,1.8,499.0
+2018.0,TESLA,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,18.7,,,0.0,335.0,,,,10.0,,,17.4,18.0,2.0,2.1,2.0,499.0
+2018.0,TESLA,Model 3 Long Range AWD Performance,MID-SIZE,,,A1,B,,18.7,,,0.0,358.0,,,,10.0,,,17.4,18.0,2.0,2.1,2.0,499.0
+2018.0,TESLA,Model S (75 kWh),FULL-SIZE,,,A1,B,,21.0,,,0.0,285.0,,,,12.0,,,21.5,21.3,2.4,2.4,2.4,401.0
+2018.0,TESLA,Model S 75D,FULL-SIZE,,,A1,B,,19.9,,,0.0,386.0,,,,12.0,,,20.6,20.3,2.3,2.2,2.3,417.0
+2018.0,TESLA,Model S 100D,FULL-SIZE,,,A1,B,,20.5,,,0.0,386.0,,,,12.0,,,20.7,20.6,2.3,2.3,2.3,539.0
+2018.0,TESLA,Model S P100D,FULL-SIZE,,,A1,B,,20.0,,,0.0,568.0,,,,12.0,,,22.6,21.5,2.5,2.3,2.4,507.0
+2018.0,TESLA,Model X 75D,SUV: STANDARD,,,A1,B,,21.9,,,0.0,386.0,,,,12.0,,,23.0,22.5,2.6,2.5,2.5,383.0
+2018.0,TESLA,Model X 100D,SUV: STANDARD,,,A1,B,,23.7,,,0.0,386.0,,,,12.0,,,24.3,24.0,2.7,2.7,2.7,475.0
+2018.0,TESLA,Model X P100D,SUV: STANDARD,,,A1,B,,23.6,,,0.0,568.0,,,,12.0,,,25.4,24.6,2.8,2.7,2.8,465.0
 2018.0,VOLKSWAGEN,e-Golf,COMPACT,,,A1,B,,18.6,,,0.0,100.0,,,,5.3,,,16.8,17.4,1.9,2.1,2.0,201.0
 2019.0,AUDI,e-tron 55 quattro,SUV: STANDARD,,,A1,B,,28.5,,,0.0,300.0,,,,10.0,,,28.0,28.3,3.2,3.2,3.2,329.0
 2019.0,BMW,i3 (120 Ah),SUBCOMPACT,,,A1,B,,20.6,,,0.0,125.0,,,,7.0,,,16.8,18.5,1.9,2.3,2.1,246.0
@@ -26552,28 +26552,28 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2019.0,NISSAN,LEAF (40 kWh),MID-SIZE,,,A1,B,,21.0,,,0.0,110.0,,,,8.0,,,16.8,18.7,1.9,2.4,2.1,243.0
 2019.0,NISSAN,LEAF S PLUS,MID-SIZE,,,A1,B,,21.5,,,0.0,160.0,,,,11.0,,,17.8,19.5,2.0,2.4,2.2,363.0
 2019.0,NISSAN,LEAF SV/SL PLUS,MID-SIZE,,,A1,B,,22.1,,,0.0,160.0,,,,11.0,,,18.3,20.0,2.1,2.5,2.2,349.0
-2019.0,smart EQ,fortwo cabriolet,TWO-SEATER,,,A1,B,,23.1,,,0.0,60.0,,,,3.0,,,18.7,20.7,2.1,2.6,2.3,92.0
-2019.0,smart EQ,fortwo coupe,TWO-SEATER,,,A1,B,,22.3,,,0.0,60.0,,,,3.0,,,16.9,19.3,1.9,2.5,2.2,93.0
-2019.0,Tesla,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,16.5,,,0.0,211.0,,,,3.7,,,14.8,15.6,1.7,1.9,1.7,151.0
-2019.0,Tesla,Model 3 STANDARD Range Plus,MID-SIZE,,,A1,B,,16.8,,,0.0,211.0,,,,8.5,,,14.9,15.8,1.7,1.9,1.8,386.0
-2019.0,Tesla,Model 3 Mid Range,MID-SIZE,,,A1,B,,17.9,,,0.0,211.0,,,,10.0,,,16.4,17.1,1.8,2.0,1.9,425.0
-2019.0,Tesla,Model 3 Long Range,MID-SIZE,,,A1,B,,17.0,,,0.0,211.0,,,,10.0,,,15.3,16.1,1.7,1.9,1.8,499.0
-2019.0,Tesla,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,18.7,,,0.0,335.0,,,,10.0,,,17.4,18.0,2.0,2.1,2.0,499.0
-2019.0,Tesla,Model 3 Long Range AWD Performance,MID-SIZE,,,A1,B,,18.7,,,0.0,358.0,,,,10.0,,,17.4,18.0,2.0,2.1,2.0,499.0
-2019.0,Tesla,Model S 75D,FULL-SIZE,,,A1,B,,19.9,,,0.0,386.0,,,,12.0,,,20.6,20.3,2.3,2.2,2.3,417.0
-2019.0,Tesla,Model S 100D,FULL-SIZE,,,A1,B,,20.5,,,0.0,386.0,,,,12.0,,,20.7,20.6,2.3,2.3,2.3,539.0
-2019.0,Tesla,Model S P100D,FULL-SIZE,,,A1,B,,20.0,,,0.0,568.0,,,,12.0,,,22.6,21.5,2.5,2.3,2.4,507.0
-2019.0,Tesla,Model S STANDARD Range,FULL-SIZE,,,A1,B,,20.0,,,0.0,398.0,,,,9.0,,,18.5,19.2,2.1,2.2,2.2,459.0
-2019.0,Tesla,Model S Long Range,FULL-SIZE,,,A1,B,,19.5,,,0.0,398.0,,,,12.0,,,18.2,18.8,2.0,2.2,2.1,595.0
-2019.0,Tesla,"Model S Performance (19"" Wheels)",FULL-SIZE,,,A1,B,,20.2,,,0.0,580.0,,,,12.0,,,20.1,20.2,2.3,2.3,2.3,555.0
-2019.0,Tesla,"Model S Performance (21"" Wheels)",FULL-SIZE,,,A1,B,,21.9,,,0.0,580.0,,,,12.0,,,21.3,21.6,2.4,2.5,2.4,523.0
-2019.0,Tesla,Model X 75D,SUV: STANDARD,,,A1,B,,21.9,,,0.0,386.0,,,,12.0,,,23.0,22.5,2.6,2.5,2.5,383.0
-2019.0,Tesla,Model X 100D,SUV: STANDARD,,,A1,B,,23.7,,,0.0,386.0,,,,12.0,,,24.3,24.0,2.7,2.7,2.7,475.0
-2019.0,Tesla,Model X P100D,SUV: STANDARD,,,A1,B,,23.6,,,0.0,568.0,,,,12.0,,,25.4,24.6,2.8,2.7,2.8,465.0
-2019.0,Tesla,Model X STANDARD Range,SUV: STANDARD,,,A1,B,,21.5,,,0.0,398.0,,,,9.0,,,20.0,20.7,2.2,2.4,2.3,410.0
-2019.0,Tesla,Model X Long Range,SUV: STANDARD,,,A1,B,,22.5,,,0.0,398.0,,,,12.0,,,21.2,21.8,2.4,2.5,2.4,523.0
-2019.0,Tesla,"Model X Performance (20"" Wheels)",SUV: STANDARD,,,A1,B,,23.5,,,0.0,580.0,,,,12.0,,,23.2,23.3,2.6,2.6,2.6,491.0
-2019.0,Tesal,"Model X Performance (22"" Wheels)",SUV: STANDARD,,,A1,B,,27.1,,,0.0,580.0,,,,12.0,,,26.2,26.6,2.9,3.0,3.0,435.0
+2019.0,SMART EQ,fortwo cabriolet,TWO-SEATER,,,A1,B,,23.1,,,0.0,60.0,,,,3.0,,,18.7,20.7,2.1,2.6,2.3,92.0
+2019.0,SMART EQ,fortwo coupe,TWO-SEATER,,,A1,B,,22.3,,,0.0,60.0,,,,3.0,,,16.9,19.3,1.9,2.5,2.2,93.0
+2019.0,TESLA,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,16.5,,,0.0,211.0,,,,3.7,,,14.8,15.6,1.7,1.9,1.7,151.0
+2019.0,TESLA,Model 3 STANDARD Range Plus,MID-SIZE,,,A1,B,,16.8,,,0.0,211.0,,,,8.5,,,14.9,15.8,1.7,1.9,1.8,386.0
+2019.0,TESLA,Model 3 Mid Range,MID-SIZE,,,A1,B,,17.9,,,0.0,211.0,,,,10.0,,,16.4,17.1,1.8,2.0,1.9,425.0
+2019.0,TESLA,Model 3 Long Range,MID-SIZE,,,A1,B,,17.0,,,0.0,211.0,,,,10.0,,,15.3,16.1,1.7,1.9,1.8,499.0
+2019.0,TESLA,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,18.7,,,0.0,335.0,,,,10.0,,,17.4,18.0,2.0,2.1,2.0,499.0
+2019.0,TESLA,Model 3 Long Range AWD Performance,MID-SIZE,,,A1,B,,18.7,,,0.0,358.0,,,,10.0,,,17.4,18.0,2.0,2.1,2.0,499.0
+2019.0,TESLA,Model S 75D,FULL-SIZE,,,A1,B,,19.9,,,0.0,386.0,,,,12.0,,,20.6,20.3,2.3,2.2,2.3,417.0
+2019.0,TESLA,Model S 100D,FULL-SIZE,,,A1,B,,20.5,,,0.0,386.0,,,,12.0,,,20.7,20.6,2.3,2.3,2.3,539.0
+2019.0,TESLA,Model S P100D,FULL-SIZE,,,A1,B,,20.0,,,0.0,568.0,,,,12.0,,,22.6,21.5,2.5,2.3,2.4,507.0
+2019.0,TESLA,Model S STANDARD Range,FULL-SIZE,,,A1,B,,20.0,,,0.0,398.0,,,,9.0,,,18.5,19.2,2.1,2.2,2.2,459.0
+2019.0,TESLA,Model S Long Range,FULL-SIZE,,,A1,B,,19.5,,,0.0,398.0,,,,12.0,,,18.2,18.8,2.0,2.2,2.1,595.0
+2019.0,TESLA,"Model S Performance (19"" Wheels)",FULL-SIZE,,,A1,B,,20.2,,,0.0,580.0,,,,12.0,,,20.1,20.2,2.3,2.3,2.3,555.0
+2019.0,TESLA,"Model S Performance (21"" Wheels)",FULL-SIZE,,,A1,B,,21.9,,,0.0,580.0,,,,12.0,,,21.3,21.6,2.4,2.5,2.4,523.0
+2019.0,TESLA,Model X 75D,SUV: STANDARD,,,A1,B,,21.9,,,0.0,386.0,,,,12.0,,,23.0,22.5,2.6,2.5,2.5,383.0
+2019.0,TESLA,Model X 100D,SUV: STANDARD,,,A1,B,,23.7,,,0.0,386.0,,,,12.0,,,24.3,24.0,2.7,2.7,2.7,475.0
+2019.0,TESLA,Model X P100D,SUV: STANDARD,,,A1,B,,23.6,,,0.0,568.0,,,,12.0,,,25.4,24.6,2.8,2.7,2.8,465.0
+2019.0,TESLA,Model X STANDARD Range,SUV: STANDARD,,,A1,B,,21.5,,,0.0,398.0,,,,9.0,,,20.0,20.7,2.2,2.4,2.3,410.0
+2019.0,TESLA,Model X Long Range,SUV: STANDARD,,,A1,B,,22.5,,,0.0,398.0,,,,12.0,,,21.2,21.8,2.4,2.5,2.4,523.0
+2019.0,TESLA,"Model X Performance (20"" Wheels)",SUV: STANDARD,,,A1,B,,23.5,,,0.0,580.0,,,,12.0,,,23.2,23.3,2.6,2.6,2.6,491.0
+2019.0,TESLA,"Model X Performance (22"" Wheels)",SUV: STANDARD,,,A1,B,,27.1,,,0.0,580.0,,,,12.0,,,26.2,26.6,2.9,3.0,3.0,435.0
 2019.0,VOLKSWAGEN,e-Golf,COMPACT,,,A1,B,,18.6,,,0.0,100.0,,,,5.3,,,16.8,17.4,1.9,2.1,2.0,201.0
 2020.0,AUDI,e-tron Sportback 55 quattro,SUV: STANDARD,,,A1,B,,26.9,,,0.0,300.0,,,,10.0,,,27.6,27.3,3.1,3.0,3.1,351.0
 2020.0,BMW,i3 (120 Ah),SUBCOMPACT,,,A1,B,,20.6,,,0.0,125.0,,,,7.0,,,16.8,18.5,1.9,2.3,2.1,246.0
@@ -26592,28 +26592,28 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2020.0,PORSCHE,Taycan 4S (Performance Battery Plus),COMPACT,,,A2,B,,29.6,,,0.0,360.0,,,,10.5,,,30.9,30.3,3.5,3.3,3.4,327.0
 2020.0,PORSCHE,Taycan Turbo,COMPACT,,,A2,B,,29.5,,,0.0,460.0,,,,10.0,,,30.9,30.2,3.5,3.3,3.4,323.0
 2020.0,PORSCHE,Taycan Turbo S,COMPACT,,,A2,B,,30.7,,,0.0,460.0,,,,10.5,,,31.3,31.0,3.5,3.4,3.5,309.0
-2020.0,Tesla,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,16.5,,,0.0,211.0,,,,3.7,,,14.8,15.6,1.7,1.9,1.7,151.0
-2020.0,Tesla,Model 3 STANDARD Range Plus,MID-SIZE,,,A1,B,,15.9,,,0.0,211.0,,,,8.5,,,14.1,14.9,1.6,1.8,1.7,402.0
-2020.0,Tesla,Model 3 Mid Range,MID-SIZE,,,A1,B,,17.9,,,0.0,211.0,,,,10.0,,,16.4,17.1,1.8,2.0,1.9,425.0
-2020.0,Tesla,Model 3 Long Range,MID-SIZE,,,A1,B,,17.0,,,0.0,211.0,,,,10.0,,,15.3,16.1,1.7,1.9,1.8,531.0
-2020.0,Tesla,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,18.0,,,0.0,335.0,,,,10.0,,,16.9,17.4,1.9,2.0,2.0,518.0
-2020.0,Tesla,"Model 3 Long Range AWD Performance (18"" Wheels)",MID-SIZE,,,A1,B,,18.0,,,0.0,358.0,,,,10.0,,,16.9,17.4,1.9,2.0,2.0,518.0
-2020.0,Tesla,"Model 3 Long Range AWD Performance (19"" Wheels)",MID-SIZE,,,A1,B,,18.7,,,0.0,358.0,,,,10.0,,,17.6,18.1,2.0,2.1,2.0,489.0
-2020.0,Tesla,"Model 3 Long Range AWD Performance (20"" Wheels)",MID-SIZE,,,A1,B,,19.6,,,0.0,358.0,,,,10.0,,,17.8,18.6,2.0,2.2,2.1,481.0
-2020.0,Tesla,Model S STANDARD Range,FULL-SIZE,,,A1,B,,20.0,,,0.0,398.0,,,,9.0,,,18.5,19.2,2.1,2.2,2.2,462.0
-2020.0,Tesla,Model S Long Range,FULL-SIZE,,,A1,B,,19.5,,,0.0,398.0,,,,12.0,,,18.2,18.8,2.0,2.2,2.1,600.0
-2020.0,Tesla,Model S Long Range Plus (pre-15/6/20),FULL-SIZE,,,A1,B,,18.9,,,0.0,398.0,,,,12.0,,,17.2,18.0,1.9,2.1,2.0,629.0
-2020.0,Tesla,Model S Long Range Plus,FULL-SIZE,,,A1,B,,18.8,,,0.0,398.0,,,,12.0,,,17.3,17.9,1.9,2.1,2.0,647.0
-2020.0,Tesla,"Model S Performance (19"" Wheels)",FULL-SIZE,,,A1,B,,20.2,,,0.0,580.0,,,,12.0,,,20.1,20.2,2.3,2.3,2.3,560.0
-2020.0,Tesla,"Model S Performance (21"" Wheels)",FULL-SIZE,,,A1,B,,21.9,,,0.0,580.0,,,,12.0,,,21.3,21.6,2.4,2.5,2.4,525.0
-2020.0,Tesla,Model X STANDARD Range,SUV: STANDARD,,,A1,B,,21.5,,,0.0,398.0,,,,9.0,,,20.0,20.7,2.2,2.4,2.3,415.0
-2020.0,Tesla,Model X Long Range,SUV: STANDARD,,,A1,B,,22.5,,,0.0,398.0,,,,12.0,,,21.2,21.8,2.4,2.5,2.4,528.0
-2020.0,Tesla,Model X Long Range Plus,SUV: STANDARD,,,A1,B,,20.8,,,0.0,398.0,,,,12.0,,,19.3,20.0,2.2,2.3,2.2,565.0
-2020.0,Tesla,"Model X Performance (20"" Wheels)",SUV: STANDARD,,,A1,B,,23.5,,,0.0,580.0,,,,12.0,,,23.2,23.3,2.6,2.6,2.6,491.0
-2020.0,Tesla,"Model X Performance (22"" Wheels)",SUV: STANDARD,,,A1,B,,27.1,,,0.0,580.0,,,,12.0,,,26.2,26.6,2.9,3.0,3.0,438.0
-2020.0,Tesla,Model Y Long Range AWD,SUV: SMALL,,,A1,B,,18.3,,,0.0,358.0,,,,10.0,,,16.5,17.3,1.9,2.1,1.9,509.0
-2020.0,Tesla,Model Y Performance,SUV: SMALL,,,A1,B,,18.7,,,0.0,358.0,,,,10.0,,,16.3,17.4,1.8,2.1,2.0,507.0
-2020.0,Tesla,"Model Y Performance (21"" Wheels)",SUV: SMALL,,,A1,B,,19.8,,,0.0,358.0,,,,10.0,,,18.1,18.9,2.0,2.2,2.1,468.0
+2020.0,TESLA,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,16.5,,,0.0,211.0,,,,3.7,,,14.8,15.6,1.7,1.9,1.7,151.0
+2020.0,TESLA,Model 3 STANDARD Range Plus,MID-SIZE,,,A1,B,,15.9,,,0.0,211.0,,,,8.5,,,14.1,14.9,1.6,1.8,1.7,402.0
+2020.0,TESLA,Model 3 Mid Range,MID-SIZE,,,A1,B,,17.9,,,0.0,211.0,,,,10.0,,,16.4,17.1,1.8,2.0,1.9,425.0
+2020.0,TESLA,Model 3 Long Range,MID-SIZE,,,A1,B,,17.0,,,0.0,211.0,,,,10.0,,,15.3,16.1,1.7,1.9,1.8,531.0
+2020.0,TESLA,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,18.0,,,0.0,335.0,,,,10.0,,,16.9,17.4,1.9,2.0,2.0,518.0
+2020.0,TESLA,"Model 3 Long Range AWD Performance (18"" Wheels)",MID-SIZE,,,A1,B,,18.0,,,0.0,358.0,,,,10.0,,,16.9,17.4,1.9,2.0,2.0,518.0
+2020.0,TESLA,"Model 3 Long Range AWD Performance (19"" Wheels)",MID-SIZE,,,A1,B,,18.7,,,0.0,358.0,,,,10.0,,,17.6,18.1,2.0,2.1,2.0,489.0
+2020.0,TESLA,"Model 3 Long Range AWD Performance (20"" Wheels)",MID-SIZE,,,A1,B,,19.6,,,0.0,358.0,,,,10.0,,,17.8,18.6,2.0,2.2,2.1,481.0
+2020.0,TESLA,Model S STANDARD Range,FULL-SIZE,,,A1,B,,20.0,,,0.0,398.0,,,,9.0,,,18.5,19.2,2.1,2.2,2.2,462.0
+2020.0,TESLA,Model S Long Range,FULL-SIZE,,,A1,B,,19.5,,,0.0,398.0,,,,12.0,,,18.2,18.8,2.0,2.2,2.1,600.0
+2020.0,TESLA,Model S Long Range Plus (pre-15/6/20),FULL-SIZE,,,A1,B,,18.9,,,0.0,398.0,,,,12.0,,,17.2,18.0,1.9,2.1,2.0,629.0
+2020.0,TESLA,Model S Long Range Plus,FULL-SIZE,,,A1,B,,18.8,,,0.0,398.0,,,,12.0,,,17.3,17.9,1.9,2.1,2.0,647.0
+2020.0,TESLA,"Model S Performance (19"" Wheels)",FULL-SIZE,,,A1,B,,20.2,,,0.0,580.0,,,,12.0,,,20.1,20.2,2.3,2.3,2.3,560.0
+2020.0,TESLA,"Model S Performance (21"" Wheels)",FULL-SIZE,,,A1,B,,21.9,,,0.0,580.0,,,,12.0,,,21.3,21.6,2.4,2.5,2.4,525.0
+2020.0,TESLA,Model X STANDARD Range,SUV: STANDARD,,,A1,B,,21.5,,,0.0,398.0,,,,9.0,,,20.0,20.7,2.2,2.4,2.3,415.0
+2020.0,TESLA,Model X Long Range,SUV: STANDARD,,,A1,B,,22.5,,,0.0,398.0,,,,12.0,,,21.2,21.8,2.4,2.5,2.4,528.0
+2020.0,TESLA,Model X Long Range Plus,SUV: STANDARD,,,A1,B,,20.8,,,0.0,398.0,,,,12.0,,,19.3,20.0,2.2,2.3,2.2,565.0
+2020.0,TESLA,"Model X Performance (20"" Wheels)",SUV: STANDARD,,,A1,B,,23.5,,,0.0,580.0,,,,12.0,,,23.2,23.3,2.6,2.6,2.6,491.0
+2020.0,TESLA,"Model X Performance (22"" Wheels)",SUV: STANDARD,,,A1,B,,27.1,,,0.0,580.0,,,,12.0,,,26.2,26.6,2.9,3.0,3.0,438.0
+2020.0,TESLA,Model Y Long Range AWD,SUV: SMALL,,,A1,B,,18.3,,,0.0,358.0,,,,10.0,,,16.5,17.3,1.9,2.1,1.9,509.0
+2020.0,TESLA,Model Y Performance,SUV: SMALL,,,A1,B,,18.7,,,0.0,358.0,,,,10.0,,,16.3,17.4,1.8,2.1,2.0,507.0
+2020.0,TESLA,"Model Y Performance (21"" Wheels)",SUV: SMALL,,,A1,B,,19.8,,,0.0,358.0,,,,10.0,,,18.1,18.9,2.0,2.2,2.1,468.0
 2020.0,VOLKSWAGEN,e-Golf,COMPACT,,,A1,B,,19.9,,,0.0,100.0,,,,5.3,,,17.4,18.6,1.9,2.3,2.1,198.0
 2021.0,AUDI,e-tron 55 quattro,SUV: STANDARD,,,A1,B,,27.0,,,0.0,300.0,,,,10.0,,,26.9,27.0,3.0,3.0,3.0,357.0
 2021.0,AUDI,e-tron Sportback 55 quattro,SUV: STANDARD,,,A1,B,,27.0,,,0.0,300.0,,,,10.0,,,27.6,27.3,3.1,3.0,3.1,351.0
@@ -26644,23 +26644,23 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2021.0,PORSCHE,Taycan Turbo Cross Turismo,MID-SIZE,,,A2,B,,29.2,,,0.0,460.0,,,,10.5,,,29.1,29.1,3.3,3.3,3.3,328.0
 2021.0,PORSCHE,Taycan Turbo S,COMPACT,,,A2,B,,29.5,,,0.0,460.0,,,,10.5,,,30.2,29.9,3.4,3.3,3.4,323.0
 2021.0,PORSCHE,Taycan Turbo S Cross Turismo,MID-SIZE,,,A2,B,,28.7,,,0.0,460.0,,,,10.5,,,28.5,28.6,3.2,3.2,3.2,325.0
-2021.0,Tesla,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,16.0,,,0.0,191.0,,,,3.7,,,14.5,15.2,1.6,1.8,1.7,151.0
-2021.0,Tesla,Model 3 STANDARD Range Plus,MID-SIZE,,,A1,B,,15.7,,,0.0,191.0,,,,8.5,,,13.9,14.8,1.6,1.8,1.7,423.0
-2021.0,Tesla,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,16.5,,,0.0,293.0,,,,10.0,,,14.9,15.6,1.7,1.9,1.8,568.0
-2021.0,Tesla,Model 3 Performance,MID-SIZE,,,A1,B,,19.6,,,0.0,321.0,,,,10.0,,,17.8,18.6,2.0,2.2,2.1,507.0
-2021.0,Tesla,Model S Long Range,FULL-SIZE,,,A1,B,,18.3,,,0.0,494.0,,,,15.0,,,16.9,17.5,1.9,2.1,2.0,652.0
-2021.0,Tesla,Model S Long Range Plus,FULL-SIZE,,,A1,B,,19.3,,,0.0,398.0,,,,12.0,,,18.1,18.6,2.0,2.2,2.1,629.0
-2021.0,Tesla,"Model S Performance (19"" Wheels)",FULL-SIZE,,,A1,B,,19.7,,,0.0,580.0,,,,12.0,,,18.4,19.0,2.1,2.2,2.1,623.0
-2021.0,Tesla,"Model S Performance (21"" Wheels)",FULL-SIZE,,,A1,B,,22.6,,,0.0,580.0,,,,12.0,,,21.3,21.9,2.4,2.5,2.5,538.0
-2021.0,Tesla,"Model S Plaid (19"" Wheels)",FULL-SIZE,,,A1,B,,18.7,,,0.0,750.0,,,,15.0,,,17.6,18.1,2.0,2.1,2.0,637.0
-2021.0,Tesla,"Model S Plaid (21"" Wheels)",FULL-SIZE,,,A1,B,,21.2,,,0.0,750.0,,,,15.0,,,20.4,20.8,2.3,2.4,2.3,560.0
-2021.0,Tesla,Model X Long Range,SUV: STANDARD,,,A1,B,,21.7,,,0.0,494.0,,,,14.0,,,19.7,20.6,2.2,2.4,2.3,560.0
-2021.0,Tesla,Model X Long Range Plus,SUV: STANDARD,,,A1,B,,20.7,,,0.0,398.0,,,,12.0,,,19.3,19.9,2.2,2.3,2.2,597.0
-2021.0,Tesla,"Model X Performance (20"" Wheels)",SUV: STANDARD,,,A1,B,,22.1,,,0.0,580.0,,,,12.0,,,21.0,21.5,2.4,2.5,2.4,549.0
-2021.0,Tesla,"Model X Performance (22"" Wheels)",SUV: STANDARD,,,A1,B,,25.3,,,0.0,580.0,,,,12.0,,,23.7,24.4,2.7,2.8,2.7,483.0
-2021.0,Tesla,Model Y STANDARD Range,SUV: SMALL,,,A1,B,,17.6,,,0.0,211.0,,,,8.0,,,15.0,16.2,1.7,2.0,1.8,393.0
-2021.0,Tesla,Model Y Long Range AWD,SUV: SMALL,,,A1,B,,17.9,,,0.0,270.0,,,,10.0,,,15.9,16.8,1.8,2.0,1.9,525.0
-2021.0,Tesla,Model Y Performance,SUV: SMALL,,,A1,B,,19.8,,,0.0,312.0,,,,10.0,,,18.2,18.9,2.0,2.2,2.1,488.0
+2021.0,TESLA,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,16.0,,,0.0,191.0,,,,3.7,,,14.5,15.2,1.6,1.8,1.7,151.0
+2021.0,TESLA,Model 3 STANDARD Range Plus,MID-SIZE,,,A1,B,,15.7,,,0.0,191.0,,,,8.5,,,13.9,14.8,1.6,1.8,1.7,423.0
+2021.0,TESLA,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,16.5,,,0.0,293.0,,,,10.0,,,14.9,15.6,1.7,1.9,1.8,568.0
+2021.0,TESLA,Model 3 Performance,MID-SIZE,,,A1,B,,19.6,,,0.0,321.0,,,,10.0,,,17.8,18.6,2.0,2.2,2.1,507.0
+2021.0,TESLA,Model S Long Range,FULL-SIZE,,,A1,B,,18.3,,,0.0,494.0,,,,15.0,,,16.9,17.5,1.9,2.1,2.0,652.0
+2021.0,TESLA,Model S Long Range Plus,FULL-SIZE,,,A1,B,,19.3,,,0.0,398.0,,,,12.0,,,18.1,18.6,2.0,2.2,2.1,629.0
+2021.0,TESLA,"Model S Performance (19"" Wheels)",FULL-SIZE,,,A1,B,,19.7,,,0.0,580.0,,,,12.0,,,18.4,19.0,2.1,2.2,2.1,623.0
+2021.0,TESLA,"Model S Performance (21"" Wheels)",FULL-SIZE,,,A1,B,,22.6,,,0.0,580.0,,,,12.0,,,21.3,21.9,2.4,2.5,2.5,538.0
+2021.0,TESLA,"Model S Plaid (19"" Wheels)",FULL-SIZE,,,A1,B,,18.7,,,0.0,750.0,,,,15.0,,,17.6,18.1,2.0,2.1,2.0,637.0
+2021.0,TESLA,"Model S Plaid (21"" Wheels)",FULL-SIZE,,,A1,B,,21.2,,,0.0,750.0,,,,15.0,,,20.4,20.8,2.3,2.4,2.3,560.0
+2021.0,TESLA,Model X Long Range,SUV: STANDARD,,,A1,B,,21.7,,,0.0,494.0,,,,14.0,,,19.7,20.6,2.2,2.4,2.3,560.0
+2021.0,TESLA,Model X Long Range Plus,SUV: STANDARD,,,A1,B,,20.7,,,0.0,398.0,,,,12.0,,,19.3,19.9,2.2,2.3,2.2,597.0
+2021.0,TESLA,"Model X Performance (20"" Wheels)",SUV: STANDARD,,,A1,B,,22.1,,,0.0,580.0,,,,12.0,,,21.0,21.5,2.4,2.5,2.4,549.0
+2021.0,TESLA,"Model X Performance (22"" Wheels)",SUV: STANDARD,,,A1,B,,25.3,,,0.0,580.0,,,,12.0,,,23.7,24.4,2.7,2.8,2.7,483.0
+2021.0,TESLA,Model Y STANDARD Range,SUV: SMALL,,,A1,B,,17.6,,,0.0,211.0,,,,8.0,,,15.0,16.2,1.7,2.0,1.8,393.0
+2021.0,TESLA,Model Y Long Range AWD,SUV: SMALL,,,A1,B,,17.9,,,0.0,270.0,,,,10.0,,,15.9,16.8,1.8,2.0,1.9,525.0
+2021.0,TESLA,Model Y Performance,SUV: SMALL,,,A1,B,,19.8,,,0.0,312.0,,,,10.0,,,18.2,18.9,2.0,2.2,2.1,488.0
 2021.0,VOLKSWAGEN,ID.4 Pro,SUV: SMALL,,,A1,B,,23.4,,,0.0,150.0,,,,7.5,,,20.2,21.7,2.3,2.6,2.4,400.0
 2021.0,VOLKSWAGEN,ID.4 AWD Pro,SUV: SMALL,,,A1,B,,23.9,,,0.0,220.0,,,,7.5,,,21.5,22.5,2.4,2.7,2.5,386.0
 2021.0,VOLVO,XC40 Recharge,SUV: SMALL,,,A1,B,,29.2,,,0.0,300.0,,,,8.0,,,24.5,26.6,2.8,3.3,3.0,335.0
@@ -26729,19 +26729,19 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2022.0,PORSCHE,Taycan Turbo S Cross Turismo,MID-SIZE,,,A2,B,,28.7,,,0.0,460.0,,,,10.5,,,28.5,28.6,3.2,3.2,3.2,325.0
 2022.0,Rivian,R1S,SUV: STANDARD,,,A1,B,,32.1,,,0.0,650.0,,,,13.0,,,28.7,30.2,3.2,3.6,3.4,509.0
 2022.0,Rivian,R1T,PICKUP TRUCK - STANDARD,,,A1,B,,31.9,,,0.0,650.0,,,,13.0,,,28.2,29.9,3.2,3.6,3.4,505.0
-2022.0,Tesla,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,19.5,,,0.0,191.0,,,,3.7,,,17.8,18.6,2.0,2.2,2.1,146.0
-2022.0,Tesla,Model 3 RWD,MID-SIZE,,,A1,B,,16.6,,,0.0,191.0,,,,8.5,,,15.2,15.8,1.7,1.9,1.8,438.0
-2022.0,Tesla,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,16.6,,,0.0,293.0,,,,10.0,,,15.6,16.0,1.8,1.9,1.8,576.0
-2022.0,Tesla,Model 3 Performance,MID-SIZE,,,A1,B,,19.6,,,0.0,321.0,,,,10.0,,,17.8,18.6,2.0,2.2,2.1,507.0
-2022.0,Tesla,Model S,FULL-SIZE,,,A1,B,,18.3,,,0.0,494.0,,,,15.0,,,16.9,17.5,1.9,2.1,2.0,652.0
-2022.0,Tesla,"Model S Plaid (19"" Wheels)",FULL-SIZE,,,A1,B,,18.7,,,0.0,750.0,,,,15.0,,,17.6,18.1,2.0,2.1,2.0,637.0
-2022.0,Tesla,"Model S Plaid (21"" Wheels)",FULL-SIZE,,,A1,B,,21.2,,,0.0,750.0,,,,15.0,,,20.4,20.8,2.3,2.4,2.3,560.0
-2022.0,Tesla,Model X,SUV: STANDARD,,,A1,B,,21.7,,,0.0,494.0,,,,14.0,,,19.7,20.6,2.2,2.4,2.3,560.0
-2022.0,Tesla,"Model X Plaid (20"" Wheels)",SUV: STANDARD,,,A1,B,,22.5,,,0.0,750.0,,,,14.0,,,20.4,21.4,2.3,2.5,2.4,536.0
-2022.0,Tesla,"Model X Plaid (22"" Wheels)",SUV: STANDARD,,,A1,B,,23.8,,,0.0,750.0,,,,14.0,,,22.3,22.9,2.5,2.7,2.6,500.0
-2022.0,Tesla,Model Y AWD,SUV: SMALL,,,A1,B,,18.1,,,0.0,291.0,,,,9.0,,,16.3,17.1,1.8,2.0,1.9,449.0
-2022.0,Tesla,Model Y Long Range AWD,SUV: SMALL,,,A1,B,,17.9,,,0.0,291.0,,,,10.0,,,16.5,17.2,1.9,2.0,1.9,531.0
-2022.0,Tesla,Model Y Performance,SUV: SMALL,,,A1,B,,19.8,,,0.0,312.0,,,,10.0,,,18.2,18.9,2.0,2.2,2.1,488.0
+2022.0,TESLA,Model 3 STANDARD Range,MID-SIZE,,,A1,B,,19.5,,,0.0,191.0,,,,3.7,,,17.8,18.6,2.0,2.2,2.1,146.0
+2022.0,TESLA,Model 3 RWD,MID-SIZE,,,A1,B,,16.6,,,0.0,191.0,,,,8.5,,,15.2,15.8,1.7,1.9,1.8,438.0
+2022.0,TESLA,Model 3 Long Range AWD,MID-SIZE,,,A1,B,,16.6,,,0.0,293.0,,,,10.0,,,15.6,16.0,1.8,1.9,1.8,576.0
+2022.0,TESLA,Model 3 Performance,MID-SIZE,,,A1,B,,19.6,,,0.0,321.0,,,,10.0,,,17.8,18.6,2.0,2.2,2.1,507.0
+2022.0,TESLA,Model S,FULL-SIZE,,,A1,B,,18.3,,,0.0,494.0,,,,15.0,,,16.9,17.5,1.9,2.1,2.0,652.0
+2022.0,TESLA,"Model S Plaid (19"" Wheels)",FULL-SIZE,,,A1,B,,18.7,,,0.0,750.0,,,,15.0,,,17.6,18.1,2.0,2.1,2.0,637.0
+2022.0,TESLA,"Model S Plaid (21"" Wheels)",FULL-SIZE,,,A1,B,,21.2,,,0.0,750.0,,,,15.0,,,20.4,20.8,2.3,2.4,2.3,560.0
+2022.0,TESLA,Model X,SUV: STANDARD,,,A1,B,,21.7,,,0.0,494.0,,,,14.0,,,19.7,20.6,2.2,2.4,2.3,560.0
+2022.0,TESLA,"Model X Plaid (20"" Wheels)",SUV: STANDARD,,,A1,B,,22.5,,,0.0,750.0,,,,14.0,,,20.4,21.4,2.3,2.5,2.4,536.0
+2022.0,TESLA,"Model X Plaid (22"" Wheels)",SUV: STANDARD,,,A1,B,,23.8,,,0.0,750.0,,,,14.0,,,22.3,22.9,2.5,2.7,2.6,500.0
+2022.0,TESLA,Model Y AWD,SUV: SMALL,,,A1,B,,18.1,,,0.0,291.0,,,,9.0,,,16.3,17.1,1.8,2.0,1.9,449.0
+2022.0,TESLA,Model Y Long Range AWD,SUV: SMALL,,,A1,B,,17.9,,,0.0,291.0,,,,10.0,,,16.5,17.2,1.9,2.0,1.9,531.0
+2022.0,TESLA,Model Y Performance,SUV: SMALL,,,A1,B,,19.8,,,0.0,312.0,,,,10.0,,,18.2,18.9,2.0,2.2,2.1,488.0
 2022.0,VOLKSWAGEN,ID.4 Pro,SUV: SMALL,,,A1,B,,22.0,,,0.0,150.0,,,,7.5,,,18.7,20.2,2.1,2.5,2.3,422.0
 2022.0,VOLKSWAGEN,ID.4 AWD Pro,SUV: SMALL,,,A1,B,,23.2,,,0.0,220.0,,,,7.5,,,21.0,22.0,2.4,2.6,2.5,394.0
 2022.0,VOLVO,C40 Recharge Twin,SUV: SMALL,,,A1,B,,26.1,,,0.0,300.0,,,,8.0,,,22.2,23.9,2.5,2.9,2.7,364.0
@@ -26873,7 +26873,7 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 1995.0,CHEVROLET,K2500 4X4 TURBODIESEL,PICKUP TRUCK - STANDARD,6.5,8.0,A4,D,18.2,14.7,16.6,17.0,448.0,,,,,,,,,,,,,
 2015.0,CHEVROLET,CRUZE,MID-SIZE,1.4,4.0,M6,X,9.0,6.2,7.8,36.0,179.0,,,,,,,,,,,,,
 2007.0,PORSCHE,CAYMAN,TWO-SEATER,2.7,6.0,M5,Z,11.5,8.1,10.0,28.0,230.0,,,,,,,,,,,,,
-2020.0,Tesla,"Model X Performance (22"" Wheels)",SUV: STANDARD,,,A1,B,,27.1,,,0.0,580.0,,,,12.0,,,26.2,26.6,2.9,3.0,3.0,438.0
+2020.0,TESLA,"Model X Performance (22"" Wheels)",SUV: STANDARD,,,A1,B,,27.1,,,0.0,580.0,,,,12.0,,,26.2,26.6,2.9,3.0,3.0,438.0
 2013.0,GMC,SAVANA 1500 PASSENGER,VAN - PASSENGER,5.3,8.0,A4,X,18.6,13.9,16.5,17.0,380.0,,,,,,,,,,,,,
 2018.0,SUBARU,WRX AWD,COMPACT,2.0,4.0,AV8,Z,12.6,9.6,11.2,25.0,256.0,,,,,,,,,,,,,
 2005.0,HYUNDAI,SANTA FE,SUV,2.4,4.0,M5,X,13.2,9.6,11.6,24.0,267.0,,,,,,,,,,,,,
@@ -27137,12 +27137,12 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2013.0,MAZDA,CX-9,SUV - SMALL,3.7,6.0,AS6,X,14.3,9.9,12.3,23.0,283.0,,,,,,,,,,,,,
 2018.0,GMC,Sierra 4WD FFV,PICKUP TRUCK - STANDARD,5.3,8.0,A6,X,15.0,10.7,13.1,22.0,307.0,,,,,,,,,,,,,
 2022.0,MINI,Cooper 5 Door,SUBCOMPACT,1.5,3.0,AM7,Z,8.2,6.2,7.3,39.0,170.0,,,,,,,,,,,,,
-2021.0,Tesla,"Model S Performance (19"" Wheels)",FULL-SIZE,,,A1,B,,19.7,,,0.0,580.0,,,,12.0,,,18.4,19.0,2.1,2.2,2.1,623.0
+2021.0,TESLA,"Model S Performance (19"" Wheels)",FULL-SIZE,,,A1,B,,19.7,,,0.0,580.0,,,,12.0,,,18.4,19.0,2.1,2.2,2.1,623.0
 2013.0,FORD,E150 WAGON FFV,VAN - PASSENGER,5.4,8.0,A4,X,19.9,15.1,17.7,16.0,407.0,,,,,,,,,,,,,
 2006.0,NISSAN,PATHFINDER 4X4,SUV,4.0,6.0,A5,X,17.4,12.5,15.2,19.0,350.0,,,,,,,,,,,,,
 2008.0,SUBARU,OUTBACK 2.5XT LTD WAGON,SUV,2.5,4.0,AS5,Z,13.3,9.9,11.8,24.0,271.0,,,,,,,,,,,,,
 2021.0,SUBARU,Crosstrek AWD,SUV: SMALL,2.5,4.0,AV8,X,8.8,7.0,8.0,35.0,188.0,,,,,,,,,,,,,
-2016.0,Tesla,Model S 90D (Refresh),FULL-SIZE,,,A1,B,,19.7,,,0.0,386.0,,,,12.0,,,20.8,20.3,2.3,2.2,2.3,473.0
+2016.0,TESLA,Model S 90D (Refresh),FULL-SIZE,,,A1,B,,19.7,,,0.0,386.0,,,,12.0,,,20.8,20.3,2.3,2.2,2.3,473.0
 2021.0,TOYOTA,Avalon AWD,MID-SIZE,2.5,4.0,AS8,X,9.5,7.0,8.4,34.0,197.0,,,,,,,,,,,,,
 2013.0,RAM,1500 FFV,PICKUP TRUCK - STANDARD,4.7,8.0,A6,X,16.7,12.0,14.6,19.0,336.0,,,,,,,,,,,,,
 2017.0,HONDA,CIVIC HATCHBACK,FULL-SIZE,1.5,4.0,AV7,Z,7.9,6.6,7.3,39.0,170.0,,,,,,,,,,,,,
@@ -27194,7 +27194,7 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2006.0,JEEP,COMMANDER 4X4,SUV,3.7,6.0,A5,X,16.5,12.8,14.8,19.0,340.0,,,,,,,,,,,,,
 2002.0,CHEVROLET,ASTRO PASSENGER,VAN - PASSENGER,4.3,6.0,A4,X,17.0,12.8,15.1,19.0,347.0,,,,,,,,,,,,,
 2004.0,VOLVO,C70 CONVERTIBLE HT TURBO,SUBCOMPACT,2.3,5.0,A5,Z,14.4,10.2,12.5,23.0,288.0,,,,,,,,,,,,,
-2021.0,Tesla,Model S Long Range,FULL-SIZE,,,A1,B,,18.3,,,0.0,494.0,,,,15.0,,,16.9,17.5,1.9,2.1,2.0,652.0
+2021.0,TESLA,Model S Long Range,FULL-SIZE,,,A1,B,,18.3,,,0.0,494.0,,,,15.0,,,16.9,17.5,1.9,2.1,2.0,652.0
 2018.0,CHEVROLET,Camaro,SUBCOMPACT,3.6,6.0,M6,X,14.4,8.4,11.7,24.0,274.0,,,,,,,,,,,,,
 2018.0,TOYOTA,Tacoma 4WD,PICKUP TRUCK - SMALL,3.5,6.0,M6,X,13.8,11.4,12.7,22.0,299.0,,,,,,,,,,,,,
 2011.0,FORD,ESCAPE,SUV,2.5,4.0,M5,X,10.4,8.5,9.5,30.0,219.0,,,,,,,,,,,,,
