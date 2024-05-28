@@ -1,77 +1,77 @@
 Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,Fuel Consumption [Comb (mpg)],CO2 Emissions (g/km)
-2022.0,Acura,ILX,Compact,2.4,4.0,AM8,Z,33.0,200.0
-2022.0,Acura,MDX SH-AWD,SUV: Small,3.5,6.0,AS10,Z,25.0,263.0
-2022.0,Acura,MDX Type S,SUV: Standard,3.0,6.0,AS10,Z,23.0,291.0
-2022.0,Acura,NSX,Two-seater,3.5,6.0,AM9,Z,26.0,256.0
-2022.0,Acura,RDX SH-AWD,SUV: Small,2.0,4.0,AS10,Z,29.0,232.0
-2022.0,Acura,RDX SH-AWD A-SPEC,SUV: Small,2.0,4.0,AS10,Z,27.0,242.0
-2022.0,Acura,TLX SH-AWD,Compact,2.0,4.0,AS10,Z,29.0,230.0
-2022.0,Acura,TLX SH-AWD A-SPEC,Compact,2.0,4.0,AS10,Z,29.0,231.0
-2022.0,Acura,TLX Type S,Compact,3.0,6.0,AS10,Z,26.0,256.0
-2022.0,Acura,TLX Type S (Performance Tire),Compact,3.0,6.0,AS10,Z,25.0,261.0
-2022.0,Alfa Romeo,Giulia,Mid-size,2.0,4.0,A8,Z,32.0,205.0
-2022.0,Alfa Romeo,Giulia AWD,Mid-size,2.0,4.0,A8,Z,31.0,217.0
-2022.0,Alfa Romeo,Giulia Quadrifoglio,Mid-size,2.9,6.0,A8,Z,24.0,271.0
-2022.0,Alfa Romeo,Stelvio,SUV: Small,2.0,4.0,A8,Z,30.0,218.0
-2022.0,Alfa Romeo,Stelvio AWD,SUV: Small,2.0,4.0,A8,Z,29.0,226.0
-2022.0,Alfa Romoe,Stelvio? AWD Quadri!fogli>o,SUV: Small,2.9,6.0,A8,Z,23.0,288.0
-2022.0,Aston Martin,DB11 V8,Minicompact,4.0,8.0,A8,Z,25.0,271.0
-2022.0,Aston Martin,DB11 V12,Minicompact,5.2,12.0,A8,Z,20.0,324.0
-2022.0,Aston Martin,DBS V12,Minicompact,5.2,12.0,A8,Z,20.0,324.0
-2022.0,Aston Martin,DBX V8,SUV: Standard,4.0,8.0,A9,Z,19.0,343.0
-2022.0,Aston Martin,Vantage V8,Two-seater,4.0,8.0,A8,Z,25.0,270.0
-2022.0,Audi,A3 Sedan 40 TFSI quattro,Subcompact,2.0,4.0,AM7,X,37.0,178.0
-2022.0,Audi,A4 Sedan 40 TFSI quattro,Compact,2.0,4.0,AM7,Z,34.0,190.0
-2022.0,Audi,A4 Sedan 45 TFSI quattro,Compact,2.0,4.0,AM7,Z,32.0,205.0
-2022.0,Audi,A4 allroad 45 TFSI quattro,Station wagon: Small,2.0,4.0,AM7,Z,32.0,208.0
-2022.0,Audi,A5 Cabriolet 45 TFSI quattro,Subcompact,2.0,4.0,AM7,Z,31.0,214.0
-2022.0,Audi,A5 Coupe 45 TFSI quattro,Subcompact,2.0,4.0,AM7,Z,32.0,205.0
-2022.0,Audi,A5 Sportback 45 TFSI quattro,Mid-size,2.0,4.0,AM7,Z,32.0,205.0
-2022.0,Audi,A6 Sedan 45 TFSI quattro,Mid-size,2.0,4.0,AM7,Z,32.0,208.0
-2022.0,Audi,A6 Sedan 55 TFSI quattro,Mid-size,3.0,6.0,AM7,Z,29.0,224.0
-2022.0,Audi,A6 allroad 55 TFSI quattro,Station wagon: Mid-size,3.0,6.0,AM7,Z,28.0,234.0
-2022.0,Audi,A7 Sportback 55 TFSI quattro,Mid-size,3.0,6.0,AM7,Z,29.0,224.0
-2022.0,Audi,A8 L Sedan 55 TFSI quattro,Full-size,3.0,6.0,AS8,Z,27.0,248.0
-2022.0,Audi,Q3 40 TFSI quattro,SUV: Small,2.0,4.0,AS8,X,31.0,215.0
-2022.0,Audi,Q3 45 TFSI quattro,SUV: Small,2.0,4.0,AS8,X,28.0,233.0
-2022.0,Audi,Q5 40 TFSI quattro,SUV: Small,2.0,4.0,AM7,Z,30.0,217.0
-2022.0,Audi,Q5 45 TFSI quattro,SUV: Small,2.0,4.0,AM7,Z,30.0,220.0
-2022.0,Audi,Q5 Sportback 45 TFSI quattro,SUV: Small,2.0,4.0,AM7,Z,30.0,220.0
-2022.0,Audi,Q7 45 TFSI quattro,SUV: Standard,2.0,4.0,AS8,Z,26.0,252.0
-2022.0,Auid,Q7 55 TFSI quattro,SUV: Standard,3.0,6.0,AS8,Z,24.0,273.0
-2022.0,Audi,Q8 55 TFSI quattro,SUV: Standard,3.0,6.0,AS8,Z,24.0,273.0
-2022.0,Audi,R8 Coupe Performance,Two-seater,5.2,10.0,AM7,Z,20.0,322.0
-2022.0,Audi,R8 Coupe Performance quattro,Two-seater,5.2,10.0,AM7,Z,18.0,356.0
-2022.0,Audi,R8 Spyder Performance,Two-seater,5.2,10.0,AM7,Z,20.0,322.0
-2022.0,Audi,R8 Spyder Performance quattro,Two-seater,5.2,10.0,AM7,Z,18.0,356.0
-2022.0,Audi,RS 5 Coupe quattro,Subcompact,2.9,6.0,AS8,Z,25.0,267.0
-2022.0,Audi,RS 5 Sportback quattro,Mid-size,2.9,6.0,AS8,Z,25.0,268.0
-2022.0,Audi,RS 6 Avant quattro,Station wagon: Mid-size,4.0,8.0,AS8,Z,21.0,319.0
-2022.0,Audi,RS 7 Sportback quattro,Mid-size,4.0,8.0,AS8,Z,21.0,315.0
-2022.0,Audi,RS Q8 quattro,SUV: Standard,4.0,8.0,AS8,Z,18.0,360.0
-2022.0,Audi,S3 Sedan quattro,Subcompact,2.0,4.0,AM7,Z,32.0,206.0
-2022.0,Audi,S4 Sedan quattro,Compact,3.0,6.0,AS8,Z,29.0,227.0
-2022.0,Audi,S5 Cabriolet quattro,Subcompact,3.0,6.0,AS8,Z,28.0,233.0
-2022.0,Audi,S5 Coupe quattro,Subcompact,3.0,6.0,AS8,Z,29.0,227.0
-2022.0,Audi,S5 Sportback quattro,Mid-size,3.0,6.0,AS8,Z,29.0,227.0
-2022.0,Audi,S6 Sedan quattro,Mid-size,2.9,6.0,AS8,Z,26.0,254.0
-2022.0,Audi,S7 Sportback quattro,Mid-size,2.9,6.0,AS8,Z,26.0,254.0
-2022.0,Audi,S8 Sedan quattro,Full-size,4.0,8.0,AS8,Z,20.0,323.0
-2022.0,Audi,SQ5 quattro,SUV: Small,3.0,6.0,AS8,Z,25.0,262.0
-2022.0,Audi,SQ5 Sportback quattro,SUV: Small,3.0,6.0,AS8,Z,25.0,262.0
-2022.0,Audi,SQ7 quattro,SUV: Standard,4.0,8.0,AS8,Z,20.0,325.0
-2022.0,Audi,SQ8 quattro,SUV: Standard,4.0,8.0,AS8,Z,20.0,325.0
-2022.0,Audi,TT Coupe 45 TFSI quattro,Subcompact,2.0,4.0,AM7,X,30.0,218.0
-2022.0,Audi,TT Roadster 45 TFSI quattro,Two-seater,2.0,4.0,AM7,X,30.0,218.0
-2022.0,Audi,TTS Coupe quattro,Subcompact,2.0,4.0,AM7,Z,31.0,209.0
-2022.0,Bentley,Bentayga,SUV: Standard,4.0,8.0,AS8,Z,21.0,309.0
-2022.0,Bentley,Bentayga Speed,SUV: Standard,6.0,12.0,AS8,Z,17.0,383.0
-2022.0,Bentley,Continental GT,Subcompatc,4.0,8.0,AM8,Z,23.0,287.0
-2022.0,Bentley,Continental GT Speed,Subcompact,6.0,12.0,AM8,Z,17.0,379.0
-2022.0,Bentley,Continental GT Convertible,Minicompact,4.0,8.0,AM8,Z,23.0,294.0
-2022.0,Bentley,Continental GT Convertible Speed,Minicompact,6.0,12.0,AM8,Z,17.0,395.0
-2022.0,Bentley,Flying Spur,Mid-size,4.0,8.0,AM8,Z,21.0,323.0
-2022.0,Bentley,Flying Spur,Mid-size,6.0,12.0,AM8,Z,18.0,373.0
+2022.0,ACURA,ILX,Compact,2.4,4.0,AM8,Z,33.0,200.0
+2022.0,ACURA,MDX SH-AWD,SUV: Small,3.5,6.0,AS10,Z,25.0,263.0
+2022.0,ACURA,MDX Type S,SUV: Standard,3.0,6.0,AS10,Z,23.0,291.0
+2022.0,ACURA,NSX,TWO-SEATER,3.5,6.0,AM9,Z,26.0,256.0
+2022.0,ACURA,RDX SH-AWD,SUV: Small,2.0,4.0,AS10,Z,29.0,232.0
+2022.0,ACURA,RDX SH-AWD A-SPEC,SUV: Small,2.0,4.0,AS10,Z,27.0,242.0
+2022.0,ACURA,TLX SH-AWD,Compact,2.0,4.0,AS10,Z,29.0,230.0
+2022.0,ACURA,TLX SH-AWD A-SPEC,Compact,2.0,4.0,AS10,Z,29.0,231.0
+2022.0,ACURA,TLX Type S,Compact,3.0,6.0,AS10,Z,26.0,256.0
+2022.0,ACURA,TLX Type S (Performance Tire),Compact,3.0,6.0,AS10,Z,25.0,261.0
+2022.0,ALFA ROMEO,Giulia,Mid-size,2.0,4.0,A8,Z,32.0,205.0
+2022.0,ALFA ROMEO,Giulia AWD,Mid-size,2.0,4.0,A8,Z,31.0,217.0
+2022.0,ALFA ROMEO,Giulia Quadrifoglio,Mid-size,2.9,6.0,A8,Z,24.0,271.0
+2022.0,ALFA ROMEO,Stelvio,SUV: Small,2.0,4.0,A8,Z,30.0,218.0
+2022.0,ALFA ROMEO,Stelvio AWD,SUV: Small,2.0,4.0,A8,Z,29.0,226.0
+2022.0,ALFA ROMEO,Stelvio AWD Quadrifoglio,SUV: Small,2.9,6.0,A8,Z,23.0,288.0
+2022.0,ASTON MARTIN,DB11 V8,MINICOMPACT,4.0,8.0,A8,Z,25.0,271.0
+2022.0,ASTON MARTIN,DB11 V12,MINICOMPACT,5.2,12.0,A8,Z,20.0,324.0
+2022.0,ASTON MARTIN,DBS V12,MINICOMPACT,5.2,12.0,A8,Z,20.0,324.0
+2022.0,ASTON MARTIN,DBX V8,SUV: Standard,4.0,8.0,A9,Z,19.0,343.0
+2022.0,ASTON MARTIN,Vantage V8,TWO-SEATER,4.0,8.0,A8,Z,25.0,270.0
+2022.0,AUDI,A3 Sedan 40 TFSI quattro,Subcompact,2.0,4.0,AM7,X,37.0,178.0
+2022.0,AUDI,A4 Sedan 40 TFSI quattro,Compact,2.0,4.0,AM7,Z,34.0,190.0
+2022.0,AUDI,A4 Sedan 45 TFSI quattro,Compact,2.0,4.0,AM7,Z,32.0,205.0
+2022.0,AUDI,A4 allroad 45 TFSI quattro,Station wagon: Small,2.0,4.0,AM7,Z,32.0,208.0
+2022.0,AUDI,A5 Cabriolet 45 TFSI quattro,Subcompact,2.0,4.0,AM7,Z,31.0,214.0
+2022.0,AUDI,A5 Coupe 45 TFSI quattro,Subcompact,2.0,4.0,AM7,Z,32.0,205.0
+2022.0,AUDI,A5 Sportback 45 TFSI quattro,Mid-size,2.0,4.0,AM7,Z,32.0,205.0
+2022.0,AUDI,A6 Sedan 45 TFSI quattro,Mid-size,2.0,4.0,AM7,Z,32.0,208.0
+2022.0,AUDI,A6 Sedan 55 TFSI quattro,Mid-size,3.0,6.0,AM7,Z,29.0,224.0
+2022.0,AUDI,A6 allroad 55 TFSI quattro,Station wagon: Mid-size,3.0,6.0,AM7,Z,28.0,234.0
+2022.0,AUDI,A7 Sportback 55 TFSI quattro,Mid-size,3.0,6.0,AM7,Z,29.0,224.0
+2022.0,AUDI,A8 L Sedan 55 TFSI quattro,Full-size,3.0,6.0,AS8,Z,27.0,248.0
+2022.0,AUDI,Q3 40 TFSI quattro,SUV: Small,2.0,4.0,AS8,X,31.0,215.0
+2022.0,AUDI,Q3 45 TFSI quattro,SUV: Small,2.0,4.0,AS8,X,28.0,233.0
+2022.0,AUDI,Q5 40 TFSI quattro,SUV: Small,2.0,4.0,AM7,Z,30.0,217.0
+2022.0,AUDI,Q5 45 TFSI quattro,SUV: Small,2.0,4.0,AM7,Z,30.0,220.0
+2022.0,AUDI,Q5 Sportback 45 TFSI quattro,SUV: Small,2.0,4.0,AM7,Z,30.0,220.0
+2022.0,AUDI,Q7 45 TFSI quattro,SUV: Standard,2.0,4.0,AS8,Z,26.0,252.0
+2022.0,AUDI,Q7 55 TFSI quattro,SUV: Standard,3.0,6.0,AS8,Z,24.0,273.0
+2022.0,AUDI,Q8 55 TFSI quattro,SUV: Standard,3.0,6.0,AS8,Z,24.0,273.0
+2022.0,AUDI,R8 Coupe Performance,TWO-SEATER,5.2,10.0,AM7,Z,20.0,322.0
+2022.0,AUDI,R8 Coupe Performance quattro,TWO-SEATER,5.2,10.0,AM7,Z,18.0,356.0
+2022.0,AUDI,R8 Spyder Performance,TWO-SEATER,5.2,10.0,AM7,Z,20.0,322.0
+2022.0,AUDI,R8 Spyder Performance quattro,TWO-SEATER,5.2,10.0,AM7,Z,18.0,356.0
+2022.0,AUDI,RS 5 Coupe quattro,Subcompact,2.9,6.0,AS8,Z,25.0,267.0
+2022.0,AUDI,RS 5 Sportback quattro,Mid-size,2.9,6.0,AS8,Z,25.0,268.0
+2022.0,AUDI,RS 6 Avant quattro,Station wagon: Mid-size,4.0,8.0,AS8,Z,21.0,319.0
+2022.0,AUDI,RS 7 Sportback quattro,Mid-size,4.0,8.0,AS8,Z,21.0,315.0
+2022.0,AUDI,RS Q8 quattro,SUV: Standard,4.0,8.0,AS8,Z,18.0,360.0
+2022.0,AUDI,S3 Sedan quattro,Subcompact,2.0,4.0,AM7,Z,32.0,206.0
+2022.0,AUDI,S4 Sedan quattro,Compact,3.0,6.0,AS8,Z,29.0,227.0
+2022.0,AUDI,S5 Cabriolet quattro,Subcompact,3.0,6.0,AS8,Z,28.0,233.0
+2022.0,AUDI,S5 Coupe quattro,Subcompact,3.0,6.0,AS8,Z,29.0,227.0
+2022.0,AUDI,S5 Sportback quattro,Mid-size,3.0,6.0,AS8,Z,29.0,227.0
+2022.0,AUDI,S6 Sedan quattro,Mid-size,2.9,6.0,AS8,Z,26.0,254.0
+2022.0,AUDI,S7 Sportback quattro,Mid-size,2.9,6.0,AS8,Z,26.0,254.0
+2022.0,AUDI,S8 Sedan quattro,Full-size,4.0,8.0,AS8,Z,20.0,323.0
+2022.0,AUDI,SQ5 quattro,SUV: Small,3.0,6.0,AS8,Z,25.0,262.0
+2022.0,AUDI,SQ5 Sportback quattro,SUV: Small,3.0,6.0,AS8,Z,25.0,262.0
+2022.0,AUDI,SQ7 quattro,SUV: Standard,4.0,8.0,AS8,Z,20.0,325.0
+2022.0,AUDI,SQ8 quattro,SUV: Standard,4.0,8.0,AS8,Z,20.0,325.0
+2022.0,AUDI,TT Coupe 45 TFSI quattro,Subcompact,2.0,4.0,AM7,X,30.0,218.0
+2022.0,AUDI,TT Roadster 45 TFSI quattro,TWO-SEATER,2.0,4.0,AM7,X,30.0,218.0
+2022.0,AUDI,TTS Coupe quattro,Subcompact,2.0,4.0,AM7,Z,31.0,209.0
+2022.0,BENTLEY,Bentayga,SUV: Standard,4.0,8.0,AS8,Z,21.0,309.0
+2022.0,BENTLEY,Bentayga Speed,SUV: Standard,6.0,12.0,AS8,Z,17.0,383.0
+2022.0,BENTLEY,Continental GT,Subcompatc,4.0,8.0,AM8,Z,23.0,287.0
+2022.0,BENTLEY,Continental GT Speed,Subcompact,6.0,12.0,AM8,Z,17.0,379.0
+2022.0,BENTLEY,Continental GT Convertible,MINICOMPACT,4.0,8.0,AM8,Z,23.0,294.0
+2022.0,BENTLEY,Continental GT Convertible Speed,MINICOMPACT,6.0,12.0,AM8,Z,17.0,395.0
+2022.0,BENTLEY,Flying Spur,Mid-size,4.0,8.0,AM8,Z,21.0,323.0
+2022.0,BENTLEY,Flying Spur,Mid-size,6.0,12.0,AM8,Z,18.0,373.0
 2022.0,BMW,330i xDrive Sedan,Compact,2.0,4.0,AS8,Z,34.0,195.0
 2022.0,BMW,430i xDrive Cabriolet,Subcompact,2.0,4.0,AS8,Z,32.0,202.0
 2022.0,BMW,430i xDrive Coupe,Subcompact,2.0,4.0,AS8,Z,32.0,202.0
@@ -93,14 +93,14 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2022.0,BMW,M4 Competition Coupe,Subcompact,3.0,6.0,AS8,Z,22.0,292.0
 2022.0,BMW,M4 Competition Coupe M xDrive,Subcompact,3.0,6.0,AS8,Z,22.0,296.0
 2022.0,BMW,M440i xDrive Cabriolet,Subcompact,3.0,6.0,AS8,Z,31.0,211.0
-2022.0,BWM,M440i xDrive Coupe,Subcompact,3.0,6.0,AS8,Z,31.0,214.0
+2022.0,BMW,M440i xDrive Coupe,Subcompact,3.0,6.0,AS8,Z,31.0,214.0
 2022.0,BMW,M440i xDrive Gran Coupe,Compact,3.0,6.0,AS8,Z,29.0,224.0
 2022.0,BMW,M5 Sedan,Mid-size,4.4,8.0,AS8,Z,20.0,322.0
 2022.0,BMW,M5 Competition,Mid-size,4.4,8.0,AS8,Z,20.0,322.0
 2022.0,BMW,M5 CS,Mid-size,4.4,8.0,AS8,Z,20.0,322.0
 2022.0,BMW,M550i xDrive Sedan,Mid-size,4.4,8.0,AS8,Z,24.0,271.0
 2022.0,BMW,M760i xDrive Sedan,Full-size,6.6,12.0,AS8,Z,19.0,354.0
-2022.0,BWM,M8 Cabriolet,Subcompact,4.4,8.0,AS8,Z,20.0,322.0
+2022.0,BMW,M8 Cabriolet,Subcompact,4.4,8.0,AS8,Z,20.0,322.0
 2022.0,BMW,M8 Cabriolet Competition,Subcompact,4.4,8.0,AS8,Z,20.0,322.0
 2022.0,BMW,M8 Coupe,Subcompact,4.4,8.0,AS8,Z,20.0,322.0
 2022.0,BMW,M8 Coupe Competition,Subcompact,4.4,8.0,AS8,Z,20.0,322.0
@@ -130,258 +130,258 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2022.0,BMW,X6 M50i,SUV: Standard,4.4,8.0,AS8,Z,22.0,302.0
 2022.0,BMW,X7 xDrive40i,SUV: Standard,3.0,6.0,AS8,Z,25.0,256.0
 2022.0,BMW,X7 M50i,SUV: Standard,4.4,8.0,AS8,Z,20.0,321.0
-2022.0,BMW,Z4 sDrive30i,Two-seater,2.0,4.0,AS8,Z,33.0,199.0
-2022.0,BMW,Z4 M40i,Two-seater,3.0,6.0,AS8,Z,29.0,223.0
-2022.0,Bugatti,Chiron,Two-seater,8.0,16.0,AM7,Z,13.0,522.0
-2022.0,Bugatti,Chiron Pur Sport,Two-seater,8.0,16.0,AM7,Z,11.0,608.0
-2022.0,Bugatti,Chiron Super Sport,Two-seater,8.0,16.0,AM7,Z,11.0,608.0
-2022.0,Buick,Enclave,SUV: Standard,3.6,6.0,A9,X,25.0,263.0
-2022.0,Buick,Enclave AWD,SUV: Standard,3.6,6.0,A9,X,24.0,277.0
-2022.0,Buikc,Encore,SUV: Small,1.4,4.0,AS6,X,33.0,201.0
-2022.0,Buick,Encore AWD,SUV: Small,1.4,4.0,AS6,X,31.0,214.0
-2022.0,Buick,Encore GX,SUV: Small,1.2,3.0,AV,X,36.0,184.0
-2022.0,Buick,Encore GX,SUV: Small,1.3,3.0,AV,X,36.0,185.0
-2022.0,Buick,Encore GX AWD,SUV: Small,1.3,3.0,A9,X,33.0,202.0
-2022.0,Buick,Envision,SUV: Small,2.0,4.0,AS9,X,32.0,209.0
-2022.0,Buick,Envision AWD,SUV: Small,2.0,4.0,AS9,X,30.0,220.0
-2022.0,Cadillac,CT4,Compact,2.0,4.0,AS8,Z,32.0,206.0
-2022.0,Cadillac,CT4,Compact,2.7,4.0,AS10,Z,30.0,221.0
-2022.0,Cadillac,CT4 AWD,Compact,2.0,4.0,AS8,Z,31.0,216.0
-2022.0,Cadillac,CT4 AWD,Compact,2.7,4.0,AS10,Z,28.0,233.0
-2022.0,Cadillac,CT4-V,Compact,2.7,4.0,AS10,Z,28.0,239.0
-2022.0,Cadillac,CT4-V AWD,Compact,2.7,4.0,AS10,Z,27.0,244.0
-2022.0,Cadillac,CT4-V Blackwing,Compact,3.6,6.0,AS10,Z,22.0,297.0
-2022.0,Cadillac,CT4-V Blackwing,Compact,3.6,6.0,M6,Z,22.0,303.0
-2022.0,Cadillac,CT5,Mid-size,2.0,4.0,AS10,Z,32.0,207.0
-2022.0,Cadillac,CT5,Mid-size,3.0,6.0,AS10,Z,26.0,252.0
-2022.0,Cadillac,CT5 AWD,Mid-size,2.0,4.0,AS10,Z,30.0,222.0
-2022.0,Cadillac,CT5 AWD,Mid-size,3.0,6.0,AS10,Z,25.0,260.0
-2022.0,Cadillac,CT5-V,Mid-size,3.0,6.0,AS10,Z,26.0,258.0
-2022.0,Cadillac,CT5-V AWD,Mid-size,3.0,6.0,AS10,Z,25.0,260.0
-2022.0,Cadillac,CT5-V Blackwing,Mid-size,6.2,8.0,AS10,Z,19.0,346.0
-2022.0,Cadillac,CT5-V Blackwing,Mid-size,6.2,8.0,M6,Z,19.0,356.0
-2022.0,Cadillac,Escalade 4WD,SUV: Standard,3.0,6.0,A10,D,27.0,281.0
-2022.0,Cadillac,Escalade 4WD,SUV: Standard,6.2,8.0,A10,Z,19.0,345.0
-2022.0,Cadill>ac,Escalade 4WD (No Stop-Start),SUV: Standard,6.2,8.0,A10,Z,19.0,353.0
-2022.0,Cadillac,XT4,SUV: Small,2.0,4.0,AS9,Z,31.0,211.0
-2022.0,Cadillac,XT4 AWD,SUV: Small,2.0,4.0,AS9,Z,29.0,225.0
-2022.0,Cadillac,XT5,SUV: Small,2.0,4.0,AS9,Z,29.0,225.0
-2022.0,Cadillac,XT5 AWD,SUV: Small,2.0,4.0,AS9,Z,28.0,237.0
-2022.0,Cadillac,XT5 AWD,SUV: Small,3.6,6.0,AS9,X,25.0,263.0
-2022.0,Cadillac,XT6 AWD,SUV: Small,2.0,4.0,AS9,Z,28.0,239.0
-2022.0,Cadillac,XT6 AWD,SUV: Small,3.6,6.0,AS9,X,25.0,269.0
-2022.0,Chevrolet,Blazer,SUV: Small,2.0,4.0,A9,X,30.0,221.0
-2022.0,Chevrolet,Blazer,SUV: Small,3.6,6.0,A9,X,26.0,252.0
-2022.0,Chevrolet,Blazer AWD,SUV: Small,2.0,4.0,A9,X,29.0,232.0
-2022.0,Chevrolet,Blazer AWD,SUV: Small,3.6,6.0,A9,X,26.0,259.0
-2022.0,Chevrolet,Camaro,Subcompact,2.0,4.0,AS8,Z,30.0,222.0
-2022.0,Chevrolet,Camaro,Subcompact,2.0,4.0,M6,Z,27.0,239.0
-2022.0,Chevrolet,Camaro,Subcompact,3.6,6.0,AS10,X,26.0,251.0
-2022.0,Chevrolet,Camaro,Subcompact,3.6,6.0,M6,X,24.0,281.0
-2022.0,Chevrolet,Camaro SS,Subcompact,6.2,8.0,AS10,Z,24.0,281.0
-2022.0,Chevrolet,Camaro SS,Subcompact,6.2,8.0,M6,Z,22.0,296.0
-2022.0,Chevrolet,Camaro ZL1,Subcompact,6.2,8.0,AS10,Z,19.0,355.0
-2022.0,Chevrolet,Camaro ZL1,Subcompact,6.2,8.0,M6,Z,19.0,349.0
-2022.0,Chevrolet,Colorado,Pickup truck: Small,2.5,4.0,A6,X,26.0,257.0
-2022.0,Che<vrolet,Colorado,Pickup truck: Small,2.8,4.0,A6,D,28.0,270.0
-2022.0,Chevrolte,Colorado,Pickup truck: Small,3.6,6.0,A8,X,25.0,263.0
-2022.0,Chevrolet,Colorado 4WD,Pickup truck: Small,2.5,4.0,A6,X,25.0,267.0
-2022.0,Chevrolet,Colorado 4WD,Pickup truck: Small,2.8,4.0,A6,D,27.0,283.0
-2022.0,Chevrolet,Colorado 4WD,Pickup truck: Small,3.6,6.0,A8,X,23.0,283.0
-2022.0,Chevrolet,Colorado ZR2 4WD,Pickup truck: Small,2.8,4.0,A6,D,23.0,326.0
-2022.0,Chevrolet,Colorado ZR2 4WD,Pickup truck: Small,3.6,6.0,A8,X,20.0,329.0
-2022.0,Chevrolet,Corvette,Two-seatre,6.2,8.0,AS8,Z,22.0,297.0
-2022.0,Chevrolet,Equinox,SUV: Small,1.5,4.0,A6,X,34.0,198.0
-2022.0,Chevrolet,Equinox AWD,SUV: Small,1.5,4.0,A6,X,32.0,208.0
-2022.0,Chevrolet,Malibu,Mid-size,1.5,4.0,AV,X,38.0,175.0
-2022.0,Chevrolet,Malibu,Mid-size,2.0,4.0,A9,Z,31.0,213.0
-2022.0,Chevrolet,Silverado,Pickup truck: Standard,2.7,4.0,A8,X,24.0,274.0
-2022.0,Chevrolet,Silverado,Pickup truck: Standard,3.0,6.0,A10,D,32.0,240.0
-2022.0,Chevrolet,Silverado FFV,Pickup truck: Standadr,5.3,8.0,A6,X,19.0,341.0
-2022.0,Chevrolet,Silverado FFV,Pickup truck: Standard,5.3,8.0,A6,E,15.0,321.0
-2022.0,Chevrolet,Silverado,Pickup truck: Standard,5.3,8.0,A8,X,21.0,314.0
-2022.0,Chevrolet,Silverado,Pickup truck: Standard,5.3,8.0,A10,X,22.0,304.0
-2022.0,Chevrolet,Silverado 4WD,Pickup truck: Standard,2.7,4.0,A8,X,22.0,306.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,2.7,4.0,A8,X,20.0,328.0
-2022.0,Chevrolet,Silverado 4WD,Pickup tr<uck: St!andard,3.0,6.0,A10,D,28.0,272.0
-2022.0,Chevrolet,Silverado 4WD (With Sport Mode),Pickup truck: Standard,3.0,6.0,A10,D,29.0,265.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,3.0,6.0,A10,D,25.0,298.0
-2022.0,Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,5.3,8.0,A6,X,19.0,347.0
-2022.0,Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,5.3,8.0,A6,E,14.0,326.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire FFV,Pickup truck: Standard,5.3,8.0,A6,X,17.0,380.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire FFV,Pickup truck: Standard,5.3,8.0,A6,E,13.0,358.0
-2022.0,Chevrolet,Silverado 4WD,Pickup truck: Standard,5.3,8.0,A8,X,20.0,327.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,5.3,8.0,A8,X,18.0,359.0
-2022.0,Chevrolet,Silverado 4WD,Pickup truck: Standard,5.3,8.0,A10,X,21.0,314.0
-2022.0,Chevrolet,Silverado 4WD (No DFM),Pickup truck: Standard,5.3,8.0,A10,X,19.0,347.0
-2022.0,Chevrolet,Silverado 4WD (With Sport Mode),Pickup truck: Standard,5.3,8.0,A10,X,20.0,327.0
-2022.0,Chevrolet,Silverado 4WD (No Stop-Start),Pickup truck: Standard,5.3,8.0,A10,X,20.0,339.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,5.3,8.0,A10,X,18.0,361.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire (No Stop-Start),Pickup truck: Standard,5.3,8.0,A10,X,18.0,364.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire (No DFM),Pickup truck: Standard,5.3,8.0,A10,X,17.0,381.0
-2022.0,Chevrolet,Silverado 4WD,Pickup truck: Standard,6.2,8.0,A10,Z,20.0,329.0
-2022.0,Chevrolet,Silverado 4WD (No Stop-Start),Pickup truck: Standard,6.2,8.0,A10,Z,19.0,345.0
-2022.0,Chevrolet,Silverado 4WD Cu!sto%m Trail! Boss,Pickup truck: Standard,6.2,8.0,A10,Z,19.0,352.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,6.2,8.0,A10,Z,19.0,352.0
-2022.0,Chevrolet,Silverado 4WD Mud Terrain Tire (No Stop-Start),Pickup truck: Standard,6.2,8.0,A10,Z,17.0,385.0
-2022.0,Chevrolet,Silverado 4WD ZR2,Pickup truck: Standard,6.2,8.0,A10,Z,18.0,366.0
-2022.0,Chevrolet,Spark,Subcompact,1.4,4.0,AV,X,40.0,165.0
-2022.0,Chevrolet,Spark,Subcompact,1.4,4.0,M5,X,39.0,170.0
-2022.0,Chevrolet,Suburban,SUV: Standard,3.0,6.0,A10,D,28.0,272.0
-2022.0,Chevrolet,Suburban,SUV: Standard,5.3,8.0,A10,X,20.0,327.0
-2022.0,Chevrolet,Suburban (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,20.0,332.0
-2022.0,Chevrolet,Suburban 4WD,SUV: Standard,3.0,6.0,A10,D,27.0,281.0
-2022.0,Chevrolet,Suburban 4WD!,SUV: Standard,5.3,8.0,A10,X,20.0,336.0
-2022.0,Chevrolet,Suburban 4WD (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,19.0,354.0
-2022.0,Chevrolet,Suburban 4WD,SUV: Standard,6.2,8.0,A10,Z,19.0,345.0
-2022.0,Chevrolet,Suburban 4WD (No Stop-Start),SUV: Standard,6.2,8.0,A10,Z,19.0,353.0
-2022.0,Chevrolet,Tahoe,SUV: Standard,3.0,6.0,A10,D,29.0,263.0
-2022.0,Chevrolet,Tahoe,SUV: Standard,5.3,8.0,A10,X,20.0,327.0
-2022.0,Chevrolet,Tahoe (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,20.0,332.0
-2022.0,Chevrolet,Tahoe 4WD,SUV: Standard,3.0,6.0,A10,D,27.0,281.0
-2022.0,Chevrolet,Tahoe 4WD,SUV: St>and!ard,5.3,8.0,A10,X,20.0,327.0
-2022.0,Chevrolet,Tahoe 4WD (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,19.0,354.0
-2022.0,Chevrolet,Tahoe 4WD,SUV: Standard,6.2,8.0,A10,Z,19.0,345.0
-2022.0,Chevrolet,Tahoe 4WD (No Stop-Start),SUV: Standard,6.2,8.0,A10,Z,19.0,353.0
-2022.0,Chevrolet,Trailblazer,SUV: Small,1.2,3.0,AV,X,36.0,184.0
-2022.0,Chevrolet,Trailblazer,SUV: Small,1.3,3.0,AV,X,37.0,178.0
-2022.0,Chevrolet,Trailblazer AWD,SUV: Small,1.3,3.0,A9,X,34.0,197.0
-2022.0,Chevrolet,Traverse,SUV: Standard,3.6,6.0,A9,X,25.0,260.0
-2022.0,Chevrolet,Traverse AWD,SUV: Standard,3.6,6.0,A9,X,24.0,277.0
-2022.0,Chevrolet,Trax,SUV: Small,1.4,4.0,AS6,X,33.0,201.0
-2022.0,Chevrolet,Trax AWD,SUV: Small,1.4,4.0,AS6,X,31.0,214.0
-2022.0,Chrysler,300,Full-size,3.6,6.0,A8,X,27.0,242.0
-2022.0,Chrysler,300,Full-size,5.7,8.0,A8,X,23.0,289.0
-2022.0,Chrysler,300 AWD,Full-size,3.6,6.0,A8,X,26.0,258.0
-2022.0,Chrysler,Grand Caravan,Minivan,3.6,6.0,A9,X,27.0,249.0
-2022.0,Chrysler,Pacifica,Minivan,3.6,6.0,A9,X,27.0,249.0
-2022.0,Chrysler,Pacifica AWD,Minivan,3.6,6.0,A9,X,24.0,279.0
-2022.0,Dodge,Challenger,Mid-size,3.6,6.0,A8,X,27.0,242.0
-2022.0,Dodge,Challenger (MDS),Mid-size,5.7,8.0,A8,X,23.0,289.0
-2022.0,Dodge,Challenger,Mid-size,5.7,8.0,M6,Z,22.0,307.0
-2022.0,Dodge,Challenger (MDS),Mid-size,6.4,8.0,A8,Z,22.0,305.0
-2022.0,Dodge,Challenger,Mid-size,6.4,8.0,M6,Z,20.0,325.0
-2022.0,Dodeg,Challenger AWD,Mid-size,3.6,6.0,A8,X,26.0,258.0
-2022.0,Dodge,Challenger Widebody (MDS),Mid-size,6.4,8.0,A8,Z,22.0,305.0
-2022.0,Dodeg,Challenger Widebody,Mid>-siz!e,6.4,8.0,M6,Z,20.0,325.0
-2022.0,Dodeg,Challenger SRT Hellcat,Mid-size,6.2,8.0,A8,Z,19.0,339.0
-2022.0,Dodge,Challenger SRT Hellcat,Mid-size,6.2,8.0,M6,Z,19.0,352.0
-2022.0,Dodge,Challenger SRT Hellcat Widebody,Mid-size,6.2,8.0,A8,Z,18.0,359.0
-2022.0,Dodge,Challenger SRT Hellcat Widebody,Mid-size,6.2,8.0,M6,Z,19.0,352.0
-2022.0,Dodge,Charger,Full-size,3.6,6.0,A8,X,27.0,242.0
-2022.0,Dodeg,Charger (MDS),Full-size,5.7,8.0,A8,X,23.0,289.0
-2022.0,Dodge,Charger (MDS),Full-size,6.4,8.0,A8,Z,22.0,305.0
-2022.0,Dodge,Charger AWD,Full-size,3.6,6.0,A8,X,26.0,258.0
-2022.0,Dodge,Charger Widebody (MDS),Full-size,6.4,8.0,A8,Z,22.0,305.0
-2022.0,Dodge,Charger SRT Hellcat Widebody,Full-size,6.2,8.0,A8,Z,18.0,368.0
-2022.0,Dodge,Durango AWD,SUV: Standard,3.6,6.0,A8,X,25.0,265.0
-2022.0,Dodge,Durango AWD,SUV: Standadr,5.7,8.0,A8,X,20.0,331.0
-2022.0,Dodge,Durango AWD SRT,SUV: Standard,6.4,8.0,A8,Z,18.0,363.0
+2022.0,BMW,Z4 sDrive30i,TWO-SEATER,2.0,4.0,AS8,Z,33.0,199.0
+2022.0,BMW,Z4 M40i,TWO-SEATER,3.0,6.0,AS8,Z,29.0,223.0
+2022.0,BUGATTI,Chiron,TWO-SEATER,8.0,16.0,AM7,Z,13.0,522.0
+2022.0,BUGATTI,Chiron Pur Sport,TWO-SEATER,8.0,16.0,AM7,Z,11.0,608.0
+2022.0,BUGATTI,Chiron Super Sport,TWO-SEATER,8.0,16.0,AM7,Z,11.0,608.0
+2022.0,BUICK,Enclave,SUV: Standard,3.6,6.0,A9,X,25.0,263.0
+2022.0,BUICK,Enclave AWD,SUV: Standard,3.6,6.0,A9,X,24.0,277.0
+2022.0,BUICK,Encore,SUV: Small,1.4,4.0,AS6,X,33.0,201.0
+2022.0,BUICK,Encore AWD,SUV: Small,1.4,4.0,AS6,X,31.0,214.0
+2022.0,BUICK,Encore GX,SUV: Small,1.2,3.0,AV,X,36.0,184.0
+2022.0,BUICK,Encore GX,SUV: Small,1.3,3.0,AV,X,36.0,185.0
+2022.0,BUICK,Encore GX AWD,SUV: Small,1.3,3.0,A9,X,33.0,202.0
+2022.0,BUICK,Envision,SUV: Small,2.0,4.0,AS9,X,32.0,209.0
+2022.0,BUICK,Envision AWD,SUV: Small,2.0,4.0,AS9,X,30.0,220.0
+2022.0,CADILLAC,CT4,Compact,2.0,4.0,AS8,Z,32.0,206.0
+2022.0,CADILLAC,CT4,Compact,2.7,4.0,AS10,Z,30.0,221.0
+2022.0,CADILLAC,CT4 AWD,Compact,2.0,4.0,AS8,Z,31.0,216.0
+2022.0,CADILLAC,CT4 AWD,Compact,2.7,4.0,AS10,Z,28.0,233.0
+2022.0,CADILLAC,CT4-V,Compact,2.7,4.0,AS10,Z,28.0,239.0
+2022.0,CADILLAC,CT4-V AWD,Compact,2.7,4.0,AS10,Z,27.0,244.0
+2022.0,CADILLAC,CT4-V Blackwing,Compact,3.6,6.0,AS10,Z,22.0,297.0
+2022.0,CADILLAC,CT4-V Blackwing,Compact,3.6,6.0,M6,Z,22.0,303.0
+2022.0,CADILLAC,CT5,Mid-size,2.0,4.0,AS10,Z,32.0,207.0
+2022.0,CADILLAC,CT5,Mid-size,3.0,6.0,AS10,Z,26.0,252.0
+2022.0,CADILLAC,CT5 AWD,Mid-size,2.0,4.0,AS10,Z,30.0,222.0
+2022.0,CADILLAC,CT5 AWD,Mid-size,3.0,6.0,AS10,Z,25.0,260.0
+2022.0,CADILLAC,CT5-V,Mid-size,3.0,6.0,AS10,Z,26.0,258.0
+2022.0,CADILLAC,CT5-V AWD,Mid-size,3.0,6.0,AS10,Z,25.0,260.0
+2022.0,CADILLAC,CT5-V Blackwing,Mid-size,6.2,8.0,AS10,Z,19.0,346.0
+2022.0,CADILLAC,CT5-V Blackwing,Mid-size,6.2,8.0,M6,Z,19.0,356.0
+2022.0,CADILLAC,Escalade 4WD,SUV: Standard,3.0,6.0,A10,D,27.0,281.0
+2022.0,CADILLAC,Escalade 4WD,SUV: Standard,6.2,8.0,A10,Z,19.0,345.0
+2022.0,CADILLAC,Escalade 4WD (No Stop-Start),SUV: Standard,6.2,8.0,A10,Z,19.0,353.0
+2022.0,CADILLAC,XT4,SUV: Small,2.0,4.0,AS9,Z,31.0,211.0
+2022.0,CADILLAC,XT4 AWD,SUV: Small,2.0,4.0,AS9,Z,29.0,225.0
+2022.0,CADILLAC,XT5,SUV: Small,2.0,4.0,AS9,Z,29.0,225.0
+2022.0,CADILLAC,XT5 AWD,SUV: Small,2.0,4.0,AS9,Z,28.0,237.0
+2022.0,CADILLAC,XT5 AWD,SUV: Small,3.6,6.0,AS9,X,25.0,263.0
+2022.0,CADILLAC,XT6 AWD,SUV: Small,2.0,4.0,AS9,Z,28.0,239.0
+2022.0,CADILLAC,XT6 AWD,SUV: Small,3.6,6.0,AS9,X,25.0,269.0
+2022.0,CHEVROLET,Blazer,SUV: Small,2.0,4.0,A9,X,30.0,221.0
+2022.0,CHEVROLET,Blazer,SUV: Small,3.6,6.0,A9,X,26.0,252.0
+2022.0,CHEVROLET,Blazer AWD,SUV: Small,2.0,4.0,A9,X,29.0,232.0
+2022.0,CHEVROLET,Blazer AWD,SUV: Small,3.6,6.0,A9,X,26.0,259.0
+2022.0,CHEVROLET,Camaro,Subcompact,2.0,4.0,AS8,Z,30.0,222.0
+2022.0,CHEVROLET,Camaro,Subcompact,2.0,4.0,M6,Z,27.0,239.0
+2022.0,CHEVROLET,Camaro,Subcompact,3.6,6.0,AS10,X,26.0,251.0
+2022.0,CHEVROLET,Camaro,Subcompact,3.6,6.0,M6,X,24.0,281.0
+2022.0,CHEVROLET,Camaro SS,Subcompact,6.2,8.0,AS10,Z,24.0,281.0
+2022.0,CHEVROLET,Camaro SS,Subcompact,6.2,8.0,M6,Z,22.0,296.0
+2022.0,CHEVROLET,Camaro ZL1,Subcompact,6.2,8.0,AS10,Z,19.0,355.0
+2022.0,CHEVROLET,Camaro ZL1,Subcompact,6.2,8.0,M6,Z,19.0,349.0
+2022.0,CHEVROLET,Colorado,Pickup truck: Small,2.5,4.0,A6,X,26.0,257.0
+2022.0,CHEVROLET,Colorado,Pickup truck: Small,2.8,4.0,A6,D,28.0,270.0
+2022.0,CHEVROLET,Colorado,Pickup truck: Small,3.6,6.0,A8,X,25.0,263.0
+2022.0,CHEVROLET,Colorado 4WD,Pickup truck: Small,2.5,4.0,A6,X,25.0,267.0
+2022.0,CHEVROLET,Colorado 4WD,Pickup truck: Small,2.8,4.0,A6,D,27.0,283.0
+2022.0,CHEVROLET,Colorado 4WD,Pickup truck: Small,3.6,6.0,A8,X,23.0,283.0
+2022.0,CHEVROLET,Colorado ZR2 4WD,Pickup truck: Small,2.8,4.0,A6,D,23.0,326.0
+2022.0,CHEVROLET,Colorado ZR2 4WD,Pickup truck: Small,3.6,6.0,A8,X,20.0,329.0
+2022.0,CHEVROLET,Corvette,TWO-SEATER,6.2,8.0,AS8,Z,22.0,297.0
+2022.0,CHEVROLET,Equinox,SUV: Small,1.5,4.0,A6,X,34.0,198.0
+2022.0,CHEVROLET,Equinox AWD,SUV: Small,1.5,4.0,A6,X,32.0,208.0
+2022.0,CHEVROLET,Malibu,Mid-size,1.5,4.0,AV,X,38.0,175.0
+2022.0,CHEVROLET,Malibu,Mid-size,2.0,4.0,A9,Z,31.0,213.0
+2022.0,CHEVROLET,Silverado,Pickup truck: Standard,2.7,4.0,A8,X,24.0,274.0
+2022.0,CHEVROLET,Silverado,Pickup truck: Standard,3.0,6.0,A10,D,32.0,240.0
+2022.0,CHEVROLET,Silverado FFV,Pickup truck: Standadr,5.3,8.0,A6,X,19.0,341.0
+2022.0,CHEVROLET,Silverado FFV,Pickup truck: Standard,5.3,8.0,A6,E,15.0,321.0
+2022.0,CHEVROLET,Silverado,Pickup truck: Standard,5.3,8.0,A8,X,21.0,314.0
+2022.0,CHEVROLET,Silverado,Pickup truck: Standard,5.3,8.0,A10,X,22.0,304.0
+2022.0,CHEVROLET,Silverado 4WD,Pickup truck: Standard,2.7,4.0,A8,X,22.0,306.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,2.7,4.0,A8,X,20.0,328.0
+2022.0,CHEVROLET,Silverado 4WD,Pickup truck: Standard,3.0,6.0,A10,D,28.0,272.0
+2022.0,CHEVROLET,Silverado 4WD (With Sport Mode),Pickup truck: Standard,3.0,6.0,A10,D,29.0,265.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,3.0,6.0,A10,D,25.0,298.0
+2022.0,CHEVROLET,Silverado 4WD FFV,Pickup truck: Standard,5.3,8.0,A6,X,19.0,347.0
+2022.0,CHEVROLET,Silverado 4WD FFV,Pickup truck: Standard,5.3,8.0,A6,E,14.0,326.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire FFV,Pickup truck: Standard,5.3,8.0,A6,X,17.0,380.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire FFV,Pickup truck: Standard,5.3,8.0,A6,E,13.0,358.0
+2022.0,CHEVROLET,Silverado 4WD,Pickup truck: Standard,5.3,8.0,A8,X,20.0,327.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,5.3,8.0,A8,X,18.0,359.0
+2022.0,CHEVROLET,Silverado 4WD,Pickup truck: Standard,5.3,8.0,A10,X,21.0,314.0
+2022.0,CHEVROLET,Silverado 4WD (No DFM),Pickup truck: Standard,5.3,8.0,A10,X,19.0,347.0
+2022.0,CHEVROLET,Silverado 4WD (With Sport Mode),Pickup truck: Standard,5.3,8.0,A10,X,20.0,327.0
+2022.0,CHEVROLET,Silverado 4WD (No Stop-Start),Pickup truck: Standard,5.3,8.0,A10,X,20.0,339.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,5.3,8.0,A10,X,18.0,361.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire (No Stop-Start),Pickup truck: Standard,5.3,8.0,A10,X,18.0,364.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire (No DFM),Pickup truck: Standard,5.3,8.0,A10,X,17.0,381.0
+2022.0,CHEVROLET,Silverado 4WD,Pickup truck: Standard,6.2,8.0,A10,Z,20.0,329.0
+2022.0,CHEVROLET,Silverado 4WD (No Stop-Start),Pickup truck: Standard,6.2,8.0,A10,Z,19.0,345.0
+2022.0,CHEVROLET,Silverado 4WD Custom Trail Boss,Pickup truck: Standard,6.2,8.0,A10,Z,19.0,352.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire,Pickup truck: Standard,6.2,8.0,A10,Z,19.0,352.0
+2022.0,CHEVROLET,Silverado 4WD Mud Terrain Tire (No Stop-Start),Pickup truck: Standard,6.2,8.0,A10,Z,17.0,385.0
+2022.0,CHEVROLET,Silverado 4WD ZR2,Pickup truck: Standard,6.2,8.0,A10,Z,18.0,366.0
+2022.0,CHEVROLET,Spark,Subcompact,1.4,4.0,AV,X,40.0,165.0
+2022.0,CHEVROLET,Spark,Subcompact,1.4,4.0,M5,X,39.0,170.0
+2022.0,CHEVROLET,Suburban,SUV: Standard,3.0,6.0,A10,D,28.0,272.0
+2022.0,CHEVROLET,Suburban,SUV: Standard,5.3,8.0,A10,X,20.0,327.0
+2022.0,CHEVROLET,Suburban (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,20.0,332.0
+2022.0,CHEVROLET,Suburban 4WD,SUV: Standard,3.0,6.0,A10,D,27.0,281.0
+2022.0,CHEVROLET,Suburban 4WD,SUV: Standard,5.3,8.0,A10,X,20.0,336.0
+2022.0,CHEVROLET,Suburban 4WD (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,19.0,354.0
+2022.0,CHEVROLET,Suburban 4WD,SUV: Standard,6.2,8.0,A10,Z,19.0,345.0
+2022.0,CHEVROLET,Suburban 4WD (No Stop-Start),SUV: Standard,6.2,8.0,A10,Z,19.0,353.0
+2022.0,CHEVROLET,Tahoe,SUV: Standard,3.0,6.0,A10,D,29.0,263.0
+2022.0,CHEVROLET,Tahoe,SUV: Standard,5.3,8.0,A10,X,20.0,327.0
+2022.0,CHEVROLET,Tahoe (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,20.0,332.0
+2022.0,CHEVROLET,Tahoe 4WD,SUV: Standard,3.0,6.0,A10,D,27.0,281.0
+2022.0,CHEVROLET,Tahoe 4WD,SUV: Standard,5.3,8.0,A10,X,20.0,327.0
+2022.0,CHEVROLET,Tahoe 4WD (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,19.0,354.0
+2022.0,CHEVROLET,Tahoe 4WD,SUV: Standard,6.2,8.0,A10,Z,19.0,345.0
+2022.0,CHEVROLET,Tahoe 4WD (No Stop-Start),SUV: Standard,6.2,8.0,A10,Z,19.0,353.0
+2022.0,CHEVROLET,Trailblazer,SUV: Small,1.2,3.0,AV,X,36.0,184.0
+2022.0,CHEVROLET,Trailblazer,SUV: Small,1.3,3.0,AV,X,37.0,178.0
+2022.0,CHEVROLET,Trailblazer AWD,SUV: Small,1.3,3.0,A9,X,34.0,197.0
+2022.0,CHEVROLET,Traverse,SUV: Standard,3.6,6.0,A9,X,25.0,260.0
+2022.0,CHEVROLET,Traverse AWD,SUV: Standard,3.6,6.0,A9,X,24.0,277.0
+2022.0,CHEVROLET,Trax,SUV: Small,1.4,4.0,AS6,X,33.0,201.0
+2022.0,CHEVROLET,Trax AWD,SUV: Small,1.4,4.0,AS6,X,31.0,214.0
+2022.0,CHRYSLER,300,Full-size,3.6,6.0,A8,X,27.0,242.0
+2022.0,CHRYSLER,300,Full-size,5.7,8.0,A8,X,23.0,289.0
+2022.0,CHRYSLER,300 AWD,Full-size,3.6,6.0,A8,X,26.0,258.0
+2022.0,CHRYSLER,Grand Caravan,MINIvan,3.6,6.0,A9,X,27.0,249.0
+2022.0,CHRYSLER,Pacifica,MINIvan,3.6,6.0,A9,X,27.0,249.0
+2022.0,CHRYSLER,Pacifica AWD,MINIvan,3.6,6.0,A9,X,24.0,279.0
+2022.0,DODGE,Challenger,Mid-size,3.6,6.0,A8,X,27.0,242.0
+2022.0,DODGE,Challenger (MDS),Mid-size,5.7,8.0,A8,X,23.0,289.0
+2022.0,DODGE,Challenger,Mid-size,5.7,8.0,M6,Z,22.0,307.0
+2022.0,DODGE,Challenger (MDS),Mid-size,6.4,8.0,A8,Z,22.0,305.0
+2022.0,DODGE,Challenger,Mid-size,6.4,8.0,M6,Z,20.0,325.0
+2022.0,DODGE,Challenger AWD,Mid-size,3.6,6.0,A8,X,26.0,258.0
+2022.0,DODGE,Challenger Widebody (MDS),Mid-size,6.4,8.0,A8,Z,22.0,305.0
+2022.0,DODGE,Challenger Widebody,Mid-size,6.4,8.0,M6,Z,20.0,325.0
+2022.0,DODGE,Challenger SRT Hellcat,Mid-size,6.2,8.0,A8,Z,19.0,339.0
+2022.0,DODGE,Challenger SRT Hellcat,Mid-size,6.2,8.0,M6,Z,19.0,352.0
+2022.0,DODGE,Challenger SRT Hellcat Widebody,Mid-size,6.2,8.0,A8,Z,18.0,359.0
+2022.0,DODGE,Challenger SRT Hellcat Widebody,Mid-size,6.2,8.0,M6,Z,19.0,352.0
+2022.0,DODGE,Charger,Full-size,3.6,6.0,A8,X,27.0,242.0
+2022.0,DODGE,Charger (MDS),Full-size,5.7,8.0,A8,X,23.0,289.0
+2022.0,DODGE,Charger (MDS),Full-size,6.4,8.0,A8,Z,22.0,305.0
+2022.0,DODGE,Charger AWD,Full-size,3.6,6.0,A8,X,26.0,258.0
+2022.0,DODGE,Charger Widebody (MDS),Full-size,6.4,8.0,A8,Z,22.0,305.0
+2022.0,DODGE,Charger SRT Hellcat Widebody,Full-size,6.2,8.0,A8,Z,18.0,368.0
+2022.0,DODGE,Durango AWD,SUV: Standard,3.6,6.0,A8,X,25.0,265.0
+2022.0,DODGE,Durango AWD,SUV: Standadr,5.7,8.0,A8,X,20.0,331.0
+2022.0,DODGE,Durango AWD SRT,SUV: Standard,6.4,8.0,A8,Z,18.0,363.0
 2022.0,FIAT,500X AWD,SUV: Small,1.3,4.0,A9,X,31.0,221.0
-2022.0,Ford,Bronco 4WD%,SUV: Small,2.3,4.0,AS10,X,24.0,275.0
-2022.0,Ford,Bronco 4WD,SUV: Small,2.3,4.0,M7,X,24.0,277.0
-2022.0,Ford,Bronco 4WD,SUV: Small,2.7,6.0,AS10,X,23.0,291.0
-2022.0,Ford,Bronco Badlands 4WD,SUV: Small,2.3,4.0,AS10,X,21.0,323.0
-2022.0,Ford,Bronco !Badland!s 4?WD,SUV: Small,2.3,4.0,M7,X,20.0,336.0
-2022.0,Ford,Bronco Badlands 4WD,SUV: Small,2.7,6.0,AS10,X,20.0,331.0
-2022.0,Fodr,Bronco Black Diamond 4WD,SUV: Small,2.3,4.0,AS10,X,22.0,308.0
-2022.0,Ford,Bronco Black Diamond 4WD,SUV: Small,2.3,4.0,M7,X,21.0,310.0
-2022.0,Ford,Bronco Raptor 4WD,SUV: Standard,3.0,6.0,AS10,X,18.0,358.0
-2022.0,Ford,Bronco Sasquatch 4WD,SUV: Small,2.3,4.0,AS10,X,21.0,314.0
-2022.0,Ford,Bronco Sasquatch 4WD,SUV: Small,2.3,4.0,M7,X,21.0,317.0
-2022.0,Ford,Bronco Sasquatch 4WD,SUV: Small,2.7,6.0,AS10,X,20.0,331.0
-2022.0,Ford,Bronco Sport 4WD,SUV: Small,1.5,3.0,A8,X,32.0,209.0
-2022.0,Ford,Bronco Sport 4WD,SUV: Small,2.0,4.0,AS8,X,27.0,240.0
-2022.0,Ford,EcoSport AWD,SUV: Small,2.0,4.0,AS6,X,30.0,219.0
-2022.0,Ford,Edge AWD,SUV: Small,2.0,4.0,A8,X,28.0,238.0
-2022.0,Ford,Edge AWD,SUV: Small,2.0,4.0,AS8,X,28.0,239.0
-2022.0,Ford,Edge AWD,SUV: Small,2.7,6.0,AS8,X,25.0,262.0
-2022.0,Ford,Escape,SUV: Small,1.5,3.0,A8,X,36.0,182.0
-2022.0,Ford,Escape AWD,SUV: Small,1.5,3.0,A8,X,34.0,198.0
-2022.0,Ford,Escape AWD,SUV: Small,2.0,4.0,A8,X,31.0,216.0
-2022.0,Ford,Escape Hybrid,SUV: Small,2.5,4.0,AV,X,49.0,136.0
-2022.0,Ford,Escape Hybrid AWD,SUV: Small,2.5,4.0,AV,X,48.0,139.0
-2022.0,Ford,Expedition 4X4,SUV: Standard,3.5,6.0,AS10,X,22.0,304.0
-2022.0,Ford,Expedition 4X4 (Without Stop-Start),SUV: Standard,3.5,6.0,AS10,X,21.0,317.0
-2022.0,Ford,Expedition Timberline 4X4,SUV: Standard,3.5,6.0,AS10,X,21.0,317.0
-2022.0,Ford,Expedition Timberline 4X4 (Without Stop-Start),SUV: Standard,3.5,6.0,AS10,X,20.0,326.0
-2022.0,Ford,Explorer AWD,SUV: Standard,2.3,4.0,A10,X,27.0,242.0
-2022.0,Ford,Explorer AWD (Without Stop-Start),SUV: Standard,2.3,4.0,A10,X,26.0,252.0
-2022.0,Ford,Explorer Timberline AWD,SUV: Standard,2.3,4.0,AS10,X,25.0,269.0
-2022.0,Ford,Explorer Timberline AWD (Without Stop-Start),SUV: Standard,2.3,4.0,AS10,X,24.0,277.0
-2022.0,Ford,Explorer AWD,SUV: Standard,3.0,6.0,A10,X,24.0,277.0
-2022.0,Ford,Explorer AWD,SUV: Standard,3.0,6.0,AS10,X,24.0,277.0
-2022.0,Ford,Explorer Hybrid AWD,SUV: Standard,3.3,6.0,AS10,X,29.0,225.0
-2022.0,Ford,F-150,Pickup truck: Standadr,2.7,6.0,AS10,X,26.0,256.0
-2022.0,Ford,F-150 (Without Stop-Start),Pickup truck: Standard,2.7,6.0,AS10,X,24.0,282.0
-2022.0,Ford,F-150 FFV,Pickup truck: Standard,3.3,6.0,AS10,X,25.0,260.0
-2022.0,Ford,F-150 FFV,Pickup truck: Standard,3.3,6.0,AS10,E,19.0,249.0
-2022.0,Ford,F-150,Pickup truck: Standard,3.5,6.0,AS10,X,24.0,275.0
-2022.0,Ford,F-150 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,24.0,281.0
-2022.0,Ford,F-150 FFV,Pickup truck: Standard,5.0,8.0,AS10,X,22.0,300.0
-2022.0,Ford,F-150 FFV,Pickup truck<: Standard,5.0,8.0,AS10,E,16.0,298.0
-2022.0,Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,5.0,8.0,AS10,X,22.0,302.0
-2022.0,Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,5.0,8.0,AS10,E,16.0,289.0
-2022.0,Ford,F-150 4X4,Pickup truck: Standard,2.7,6.0,AS10,X,24.0,274.0
-2022.0,Ford,F-150 4X4 FFV,Pickup truck: Standard,3.3,6.0,AS10,X,24.0,277.0
-2022.0,Ford,F-150 4X4 FFV,Pickup truck: Standard,3.3,6.0,AS10,E,18.0,256.0
-2022.0,Ford,F-150 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,23.0,284.0
-2022.0,Ford,F-150 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,22.0,304.0
-2022.0,Ford,F-150 4X4 FFV,Pickup truck: Standard,5.0,8.0,AS10,X,22.0,304.0
-2022.0,Ford,F-150 4X4 FFV,Pickup truck: Standard,5.0,8.0,AS10,E,16.0,301.0
-2022.0,Ford,F-150 4X4 FFV (Without Stop-Start),Pickup truck: Standard,5.0,8.0,AS10,X,22.0,308.0
-2022.0,Ford,F-150 4X4 FFV (Without Stop-Start),Pickup truck: Standard,5.0,8.0,AS10,E,16.0,295.0
-2022.0,Ford,F-150 Raptor 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,19.0,344.0
-2022.0,Ford,F-150 Raptor 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,19.0,357.0
-2022.0,Ford,F-150 Raptor 37 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,18.0,359.0
-2022.0,Ford,F-150 Raptor 37 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,18.0,370.0
-2022.0,Ford,F-150 Tremor 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,21.0,310.0
-2022.0,Ford,F-150 Tremor 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,21.0,313.0
-2022.0,Ford,F-150 Hybrid,Pickup truck: Standard,3.5,6.0,AS10,X,29.0,228.0
-2022.0,Ford,F-150 Hybrid 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,28.0,238.0
-2022.0,Ford,GT,Two-seater,3.5,6.0,AM7,Z,17.0,395.0
-2022.0,Ford,Maverick AWD,Pickup truck: Small,2.0,4.0,A8,X,29.0,226.0
-2022.0,Ford,Maverick Hybrid,P!ick<up truck: Sma%ll,2.5,4.0,AV,X,45.0,147.0
-2022.0,Ford,Mustang,Subcompact,2.3,4.0,A10,X,30.0,220.0
-2022.0,Ford,Mustang,Subcompact,2.3,4.0,AS10,X,29.0,231.0
-2022.0,Ford,Mustang (High Performance),Subcompact,2.3,4.0,AS10,X,27.0,242.0
-2022.0,Ford,Mustang,Subcompact,2.3,4.0,M6,X,28.0,236.0
-2022.0,Ford,Mustang (High Performance),Subcompact,2.3,4.0,M6,X,27.0,246.0
-2022.0,Ford,Mustang,Subcompact,5.0,8.0,AS10,X,22.0,298.0
-2022.0,Ford,Mustang,Subcompact,5.0,8.0,M6,X,21.0,314.0
-2022.0,Ford,Mustang Convertible,Subcompact,2.3,4.0,A10,X,28.0,237.0
-2022.0,Ford,Mustang Convertible,Subcompact,2.3,4.0,AS10,X,27.0,244.0
-2022.0,Ford,Mustang Convertible (High Performance),Subcompact,2.3,4.0,AS10,X,26.0,252.0
-2022.0,Ford,Mustang Convertible,Subcompact,2.3,4.0,M6,X,27.0,244.0
-2022.0,Ford,Mustang Convertible (High Performance),Subcompact,2.3,4.0,M6,X,26.0,256.0
-2022.0,Ford,Mustang Convertible,Subcompact,5.0,8.0,AS10,X,21.0,314.0
-2022.0,Ford,Mustang Mach 1,Subcompact,5.0,8.0,AS10,X,22.0,302.0
-2022.0,Ford,Mustang Mach 1,Subcompact,5.0,8.0,M6,X,19.0,339.0
-2022.0,Ford,Ranger 4WD,Pickup truck: Standard,2.3,4.0,AS10,X,26.0,256.0
-2022.0,Ford,Ranger 4WD (Without Stop-Start),Pickup truck: Standard,2.3,4.0,AS10,X,25.0,262.0
-2022.0,Ford,Ranger 4WD Tremor,Pickup truck: Standard,2.3,4.0,AS10,X,23.0,291.0
-2022.0,Ford,Shelby GT500 Mustang,Subcompact,5.2,8.0,AM7,Z,17.0,392.0
-2022.0,Ford,Transit Connect Van,Special purpose vehicle,2.0,4.0,AS8,X,30.0,221.0
-2022.0,Ford,Transit Connect Van FFV,Special purpose vehicle,2.0,4.0,AS8,X,30.0,221.0
-2022.0,Ford,Transit Connect Van FFV,Special purpose vehicle,2.0,4.0,AS8,E,22.0,211.0
-2022.0,Ford,Transit Connect Van,Special purpose vehicel,2.5,4.0,AS6,X,27.0,249.0
-2022.0,Ford,Transit Connect Wagon LWB,Special purpose vehicle,2.0,4.0,AS8,X,31.0,216.0
-2022.0,Ford,Transit Connect Wagon LWB FFV,Special purpose vehicle,2.0,4.0,AS8,X,31.0,216.0
-2022.0,Ford,Transit Connect Wagon LWB FFV,Special purpose vehicle,2.0,4.0,AS8,E,21.0,219.0
-2022.0,Ford,Transit Connect Wagon LWB,Special p<urpose !vehicle%,2.5,4.0,AS6,X,27.0,249.0
-2022.0,Genesis,G70 AWD,Compact,2.0,4.0,AS8,Z,28.0,236.0
-2022.0,Genesis,G70 AWD,Compact,3.3,6.0,AS8,Z,25.0,273.0
-2022.0,Genesis,G80 AWD,Full-size,2.5,4.0,AS8,Z,30.0,225.0
-2022.0,Genesis,G80 AWD,Full-size,3.5,6.0,AS8,Z,22.0,298.0
-2022.0,Genesis,G90 AWD,Full-size,5.0,8.0,AS8,Z,22.0,303.0
-2022.0,Genessi,GV70 AWD,SUV: Small,2.5,4.0,AS8,Z,29.0,229.0
-2022.0,Genesis,GV70 AWD,SUV: Small,3.5,6.0,AS8,Z,24.0,275.0
-2022.0,Genesis,GV80 AWD,SUV: Standard,2.5,4.0,AS8,Z,27.0,248.0
-2022.0,Genessi,GV80 AWD,SUV: Standard,3.5,6.0,AS8,Z,24.0,279.0
-2022.0,GCM,Acadia,SUV: Standard,2.0,4.0,A9,X,30.0,221.0
+2022.0,FORD,Bronco 4WD,SUV: Small,2.3,4.0,AS10,X,24.0,275.0
+2022.0,FORD,Bronco 4WD,SUV: Small,2.3,4.0,M7,X,24.0,277.0
+2022.0,FORD,Bronco 4WD,SUV: Small,2.7,6.0,AS10,X,23.0,291.0
+2022.0,FORD,Bronco Badlands 4WD,SUV: Small,2.3,4.0,AS10,X,21.0,323.0
+2022.0,FORD,Bronco Badlands 4WD,SUV: Small,2.3,4.0,M7,X,20.0,336.0
+2022.0,FORD,Bronco Badlands 4WD,SUV: Small,2.7,6.0,AS10,X,20.0,331.0
+2022.0,FORD,Bronco Black Diamond 4WD,SUV: Small,2.3,4.0,AS10,X,22.0,308.0
+2022.0,FORD,Bronco Black Diamond 4WD,SUV: Small,2.3,4.0,M7,X,21.0,310.0
+2022.0,FORD,Bronco Raptor 4WD,SUV: Standard,3.0,6.0,AS10,X,18.0,358.0
+2022.0,FORD,Bronco Sasquatch 4WD,SUV: Small,2.3,4.0,AS10,X,21.0,314.0
+2022.0,FORD,Bronco Sasquatch 4WD,SUV: Small,2.3,4.0,M7,X,21.0,317.0
+2022.0,FORD,Bronco Sasquatch 4WD,SUV: Small,2.7,6.0,AS10,X,20.0,331.0
+2022.0,FORD,Bronco Sport 4WD,SUV: Small,1.5,3.0,A8,X,32.0,209.0
+2022.0,FORD,Bronco Sport 4WD,SUV: Small,2.0,4.0,AS8,X,27.0,240.0
+2022.0,FORD,EcoSport AWD,SUV: Small,2.0,4.0,AS6,X,30.0,219.0
+2022.0,FORD,Edge AWD,SUV: Small,2.0,4.0,A8,X,28.0,238.0
+2022.0,FORD,Edge AWD,SUV: Small,2.0,4.0,AS8,X,28.0,239.0
+2022.0,FORD,Edge AWD,SUV: Small,2.7,6.0,AS8,X,25.0,262.0
+2022.0,FORD,Escape,SUV: Small,1.5,3.0,A8,X,36.0,182.0
+2022.0,FORD,Escape AWD,SUV: Small,1.5,3.0,A8,X,34.0,198.0
+2022.0,FORD,Escape AWD,SUV: Small,2.0,4.0,A8,X,31.0,216.0
+2022.0,FORD,Escape Hybrid,SUV: Small,2.5,4.0,AV,X,49.0,136.0
+2022.0,FORD,Escape Hybrid AWD,SUV: Small,2.5,4.0,AV,X,48.0,139.0
+2022.0,FORD,Expedition 4X4,SUV: Standard,3.5,6.0,AS10,X,22.0,304.0
+2022.0,FORD,Expedition 4X4 (Without Stop-Start),SUV: Standard,3.5,6.0,AS10,X,21.0,317.0
+2022.0,FORD,Expedition Timberline 4X4,SUV: Standard,3.5,6.0,AS10,X,21.0,317.0
+2022.0,FORD,Expedition Timberline 4X4 (Without Stop-Start),SUV: Standard,3.5,6.0,AS10,X,20.0,326.0
+2022.0,FORD,Explorer AWD,SUV: Standard,2.3,4.0,A10,X,27.0,242.0
+2022.0,FORD,Explorer AWD (Without Stop-Start),SUV: Standard,2.3,4.0,A10,X,26.0,252.0
+2022.0,FORD,Explorer Timberline AWD,SUV: Standard,2.3,4.0,AS10,X,25.0,269.0
+2022.0,FORD,Explorer Timberline AWD (Without Stop-Start),SUV: Standard,2.3,4.0,AS10,X,24.0,277.0
+2022.0,FORD,Explorer AWD,SUV: Standard,3.0,6.0,A10,X,24.0,277.0
+2022.0,FORD,Explorer AWD,SUV: Standard,3.0,6.0,AS10,X,24.0,277.0
+2022.0,FORD,Explorer Hybrid AWD,SUV: Standard,3.3,6.0,AS10,X,29.0,225.0
+2022.0,FORD,F-150,Pickup truck: Standadr,2.7,6.0,AS10,X,26.0,256.0
+2022.0,FORD,F-150 (Without Stop-Start),Pickup truck: Standard,2.7,6.0,AS10,X,24.0,282.0
+2022.0,FORD,F-150 FFV,Pickup truck: Standard,3.3,6.0,AS10,X,25.0,260.0
+2022.0,FORD,F-150 FFV,Pickup truck: Standard,3.3,6.0,AS10,E,19.0,249.0
+2022.0,FORD,F-150,Pickup truck: Standard,3.5,6.0,AS10,X,24.0,275.0
+2022.0,FORD,F-150 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,24.0,281.0
+2022.0,FORD,F-150 FFV,Pickup truck: Standard,5.0,8.0,AS10,X,22.0,300.0
+2022.0,FORD,F-150 FFV,Pickup truck: Standard,5.0,8.0,AS10,E,16.0,298.0
+2022.0,FORD,F-150 FFV (Without Stop-Start),Pickup truck: Standard,5.0,8.0,AS10,X,22.0,302.0
+2022.0,FORD,F-150 FFV (Without Stop-Start),Pickup truck: Standard,5.0,8.0,AS10,E,16.0,289.0
+2022.0,FORD,F-150 4X4,Pickup truck: Standard,2.7,6.0,AS10,X,24.0,274.0
+2022.0,FORD,F-150 4X4 FFV,Pickup truck: Standard,3.3,6.0,AS10,X,24.0,277.0
+2022.0,FORD,F-150 4X4 FFV,Pickup truck: Standard,3.3,6.0,AS10,E,18.0,256.0
+2022.0,FORD,F-150 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,23.0,284.0
+2022.0,FORD,F-150 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,22.0,304.0
+2022.0,FORD,F-150 4X4 FFV,Pickup truck: Standard,5.0,8.0,AS10,X,22.0,304.0
+2022.0,FORD,F-150 4X4 FFV,Pickup truck: Standard,5.0,8.0,AS10,E,16.0,301.0
+2022.0,FORD,F-150 4X4 FFV (Without Stop-Start),Pickup truck: Standard,5.0,8.0,AS10,X,22.0,308.0
+2022.0,FORD,F-150 4X4 FFV (Without Stop-Start),Pickup truck: Standard,5.0,8.0,AS10,E,16.0,295.0
+2022.0,FORD,F-150 Raptor 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,19.0,344.0
+2022.0,FORD,F-150 Raptor 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,19.0,357.0
+2022.0,FORD,F-150 Raptor 37 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,18.0,359.0
+2022.0,FORD,F-150 Raptor 37 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,18.0,370.0
+2022.0,FORD,F-150 Tremor 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,21.0,310.0
+2022.0,FORD,F-150 Tremor 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6.0,AS10,X,21.0,313.0
+2022.0,FORD,F-150 Hybrid,Pickup truck: Standard,3.5,6.0,AS10,X,29.0,228.0
+2022.0,FORD,F-150 Hybrid 4X4,Pickup truck: Standard,3.5,6.0,AS10,X,28.0,238.0
+2022.0,FORD,GT,TWO-SEATER,3.5,6.0,AM7,Z,17.0,395.0
+2022.0,FORD,Maverick AWD,Pickup truck: Small,2.0,4.0,A8,X,29.0,226.0
+2022.0,FORD,Maverick Hybrid,Pickup truck: Small,2.5,4.0,AV,X,45.0,147.0
+2022.0,FORD,Mustang,Subcompact,2.3,4.0,A10,X,30.0,220.0
+2022.0,FORD,Mustang,Subcompact,2.3,4.0,AS10,X,29.0,231.0
+2022.0,FORD,Mustang (High Performance),Subcompact,2.3,4.0,AS10,X,27.0,242.0
+2022.0,FORD,Mustang,Subcompact,2.3,4.0,M6,X,28.0,236.0
+2022.0,FORD,Mustang (High Performance),Subcompact,2.3,4.0,M6,X,27.0,246.0
+2022.0,FORD,Mustang,Subcompact,5.0,8.0,AS10,X,22.0,298.0
+2022.0,FORD,Mustang,Subcompact,5.0,8.0,M6,X,21.0,314.0
+2022.0,FORD,Mustang Convertible,Subcompact,2.3,4.0,A10,X,28.0,237.0
+2022.0,FORD,Mustang Convertible,Subcompact,2.3,4.0,AS10,X,27.0,244.0
+2022.0,FORD,Mustang Convertible (High Performance),Subcompact,2.3,4.0,AS10,X,26.0,252.0
+2022.0,FORD,Mustang Convertible,Subcompact,2.3,4.0,M6,X,27.0,244.0
+2022.0,FORD,Mustang Convertible (High Performance),Subcompact,2.3,4.0,M6,X,26.0,256.0
+2022.0,FORD,Mustang Convertible,Subcompact,5.0,8.0,AS10,X,21.0,314.0
+2022.0,FORD,Mustang Mach 1,Subcompact,5.0,8.0,AS10,X,22.0,302.0
+2022.0,FORD,Mustang Mach 1,Subcompact,5.0,8.0,M6,X,19.0,339.0
+2022.0,FORD,Ranger 4WD,Pickup truck: Standard,2.3,4.0,AS10,X,26.0,256.0
+2022.0,FORD,Ranger 4WD (Without Stop-Start),Pickup truck: Standard,2.3,4.0,AS10,X,25.0,262.0
+2022.0,FORD,Ranger 4WD Tremor,Pickup truck: Standard,2.3,4.0,AS10,X,23.0,291.0
+2022.0,FORD,Shelby GT500 Mustang,Subcompact,5.2,8.0,AM7,Z,17.0,392.0
+2022.0,FORD,Transit Connect Van,Special purpose vehicle,2.0,4.0,AS8,X,30.0,221.0
+2022.0,FORD,Transit Connect Van FFV,Special purpose vehicle,2.0,4.0,AS8,X,30.0,221.0
+2022.0,FORD,Transit Connect Van FFV,Special purpose vehicle,2.0,4.0,AS8,E,22.0,211.0
+2022.0,FORD,Transit Connect Van,Special purpose vehicel,2.5,4.0,AS6,X,27.0,249.0
+2022.0,FORD,Transit Connect Wagon LWB,Special purpose vehicle,2.0,4.0,AS8,X,31.0,216.0
+2022.0,FORD,Transit Connect Wagon LWB FFV,Special purpose vehicle,2.0,4.0,AS8,X,31.0,216.0
+2022.0,FORD,Transit Connect Wagon LWB FFV,Special purpose vehicle,2.0,4.0,AS8,E,21.0,219.0
+2022.0,FORD,Transit Connect Wagon LWB,Special purpose vehicle,2.5,4.0,AS6,X,27.0,249.0
+2022.0,GENESIS,G70 AWD,Compact,2.0,4.0,AS8,Z,28.0,236.0
+2022.0,GENESIS,G70 AWD,Compact,3.3,6.0,AS8,Z,25.0,273.0
+2022.0,GENESIS,G80 AWD,Full-size,2.5,4.0,AS8,Z,30.0,225.0
+2022.0,GENESIS,G80 AWD,Full-size,3.5,6.0,AS8,Z,22.0,298.0
+2022.0,GENESIS,G90 AWD,Full-size,5.0,8.0,AS8,Z,22.0,303.0
+2022.0,GENESIS,GV70 AWD,SUV: Small,2.5,4.0,AS8,Z,29.0,229.0
+2022.0,GENESIS,GV70 AWD,SUV: Small,3.5,6.0,AS8,Z,24.0,275.0
+2022.0,GENESIS,GV80 AWD,SUV: Standard,2.5,4.0,AS8,Z,27.0,248.0
+2022.0,GENESIS,GV80 AWD,SUV: Standard,3.5,6.0,AS8,Z,24.0,279.0
+2022.0,GMC,Acadia,SUV: Standard,2.0,4.0,A9,X,30.0,221.0
 2022.0,GMC,Acadia,SUV: Standard,3.6,6.0,A9,X,26.0,252.0
 2022.0,GMC,Acadia AWD,SUV: Standard,2.0,4.0,A9,X,29.0,232.0
-2022.0,GMC,A%cadia< AWD,SUV: Standard,3.6,6.0,A9,X,26.0,259.0
+2022.0,GMC,Acadia AWD,SUV: Standard,3.6,6.0,A9,X,26.0,259.0
 2022.0,GMC,Canyon,Pickup truck: Small,2.5,4.0,A6,X,26.0,257.0
 2022.0,GMC,Canyon,Pickup truck: Small,2.8,4.0,A6,D,28.0,270.0
 2022.0,GMC,Canyon,Pickup truck: Small,3.6,6.0,A8,X,25.0,263.0
@@ -392,7 +392,7 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2022.0,GMC,Sierra,Pickup truck: Standard,3.0,6.0,A10,D,31.0,245.0
 2022.0,GMC,Sierra FFV,Pickup truck: Standard,5.3,8.0,A6,X,19.0,341.0
 2022.0,GMC,Sierra FFV,Pickup truck: Standard,5.3,8.0,A6,E,15.0,321.0
-2022.0,GMC,Sierra,Pickup% <truck: Sta>ndar>d,5.3,8.0,A8,X,21.0,314.0
+2022.0,GMC,Sierra,Pickup truck: Standard,5.3,8.0,A8,X,21.0,314.0
 2022.0,GMC,Sierra,Pickup truck: Standard,5.3,8.0,A10,X,22.0,305.0
 2022.0,GMC,Sierra 4WD,Pickup truck: Standard,2.7,4.0,A8,X,22.0,306.0
 2022.0,GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,2.7,4.0,A8,X,20.0,328.0
@@ -414,7 +414,7 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2022.0,GMC,Sierra 4WD (No Stop-Start),Pickup truck: Standard,6.2,8.0,A10,Z,19.0,345.0
 2022.0,GMC,Sierra 4WD Mud Terrain Tire,Pickup truck: Standard,6.2,8.0,A10,Z,19.0,352.0
 2022.0,GMC,Sierra 4WD Mud Terrain Tire (No Stop-Start),Pickup truck: Standard,6.2,8.0,A10,Z,17.0,385.0
-2022.0,GMC,Terrain,SUV>: Small,1.5,4.0,A9,X,33.0,202.0
+2022.0,GMC,Terrain,SUV: Small,1.5,4.0,A9,X,33.0,202.0
 2022.0,GMC,Terrain AWD,SUV: Small,1.5,4.0,A9,X,31.0,212.0
 2022.0,GMC,Yukon,SUV: Standard,3.0,6.0,A10,D,28.0,272.0
 2022.0,GMC,Yukon,SUV: Standard,5.3,8.0,A10,X,20.0,327.0
@@ -429,549 +429,549 @@ Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,F
 2022.0,GMC,Yukon XL (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,20.0,332.0
 2022.0,GMC,Yukon XL 4WD,SUV: Standard,3.0,6.0,A10,D,27.0,281.0
 2022.0,GMC,Yukon XL 4WD,SUV: Standard,5.3,8.0,A10,X,20.0,336.0
-2022.0,GMC,Yukon %XL 4WD (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,19.0,354.0
+2022.0,GMC,Yukon XL 4WD (No Stop-Start),SUV: Standard,5.3,8.0,A10,X,19.0,354.0
 2022.0,GMC,Yukon XL 4WD,SUV: Standard,6.2,8.0,A10,Z,19.0,345.0
 2022.0,GMC,Yukon XL 4WD (No Stop-Start),SUV: Standard,6.2,8.0,A10,Z,19.0,353.0
-2022.0,Honda,Accord,Full-size,1.5,4.0,AV,X,39.0,168.0
-2022.0,Honda,Accord Sport/Touring,Full-size,1.5,4.0,AV7,X,38.0,176.0
-2022.0,Honda,Accord Sport/Touring,Full-size,2.0,4.0,AS10,X,31.0,211.0
-2022.0,Honda,Accord Hybrid,Full-size,2.0,4.0,AV,X,56.0,117.0
-2022.0,Honda,Accord Hybrid Sport/Touring,Full-size,2.0,4.0,AV,X,51.0,129.0
-2022.0,Honda,Civic Hatchback,Full-siez,1.5,4.0,AV7,X,40.0,166.0
-2022.0,Honda,Civic Hatchback,Full-size,1.5,4.0,M6,X,38.0,175.0
-2022.0,Honda,Civic Hatchback,Full-size,2.0,4.0,AV,X,39.0,167.0
-2022.0,Honda,Civic Hatchback,Full-size,2.0,4.0,M6,X,35.0,186.0
-2022.0,Honda,Civic Sedan,Mid-size,1.5,4.0,AV7,X,41.0,162.0
-2022.0,Honda,Civic Sedan,Mid-size,2.0,4.0,AV,X,41.0,162.0
-2022.0,Honda,Civic Sedan,Mid-siez,2.0,4.0,AV7,X,40.0,165.0
-2022.0,Honda,Civic Sedan Si,Mid-size,1.5,4.0,M6,Z,37.0,180.0
-2022.0,Honda,CR-V,SUV: Small,1.5,4.0,AV,X,37.0,180.0
-2022.0,Honda,CR-V AWD,SUV: Small,1.5,4.0,AV,X,35.0,189.0
-2022.0,Ho>nd<a,HR-V,Sta!tion wagon:! Small>,1.8,4.0,AV,X,36.0,181.0
-2022.0,Honda,HR-V AWD,Station wagon: Small,1.8,4.0,AV,X,34.0,193.0
-2022.0,Honda,HR-V AWD,Station wagon: Small,1.8,4.0,AV7,X,33.0,200.0
-2022.0,Honda,Odyssey,Minivan,3.5,6.0,AS10,X,27.0,248.0
-2022.0,Honda,Passpo!rt AWD?,SUV: Small,3.5,6.0,AS9,X,25.0,265.0
-2022.0,Honda,Pilot AWD,SUV: Small,3.5,6.0,AS9,X,26.0,256.0
-2022.0,Honda,Pilot AWD TrailSport,SUV: Small,3.5,6.0,AS9,X,25.0,260.0
-2022.0,Honda,Ridgeline AWD,Pickup truck: Standard,3.5,6.0,AS9,X,25.0,271.0
-2022.0,Hyundai,Elantra,Mid-size,1.6,4.0,AM7,X,37.0,179.0
-2022.0,Hyundai,E!lan%tra,Mid-size,2.0,4.0,AV1,X,42.0,158.0
-2022.0,Hyundai,Elantra (ISG),Mid-size,2.0,4.0,AV1,X,44.0,151.0
-2022.0,Hyundai,Elantra,Mid-size,2.0,4.0,M6,X,36.0,185.0
-2022.0,Hyundai,Elantra N,Mid-size,2.0,4.0,AM8,Z,28.0,241.0
-2022.0,Hyundai,El%an?tra N,Mid-size,2.0,4.0,M6,Z,30.0,223.0
-2022.0,Hyundai,Elantra Hybrid Blue,Mid-size,1.6,4.0,AM6,X,64.0,103.0
-2022.0,Hyundai,IONIQ,Full-size,1.6,4.0,AM6,X,67.0,99.0
-2022.0,Hyundai,IONIQ Blue,Full-size,1.6,4.0,AM6,X,71.0,94.0
-2022.0,Hyundai,Kona,SUV: Small,1.6,4.0,AM7,X,38.0,176.0
-2022.0,Hyundai,Kona,SUV: Small,2.0,4.0,AV,X,38.0,174.0
-2022.0,Hyundai,Kona N,SUV: Small,2.0,4.0,AM8,Z,27.0,246.0
-2022.0,Hyundai,Kona AWD,SUV: Small,1.6,4.0,AM7,X,34.0,193.0
-2022.0,Hyund<ai,Kona AWD,SUV: Small,2.0,4.0,AV,X,36.0,187.0
-2022.0,Hyundai,Palisade AWD,SUV: Standard,3.8,6.0,AS8,X,25.0,265.0
-2022.0,Hyundai,Santa Cruz AWD,Pickup truck: Small,2.5,4.0,AM8,X,27.0,250.0
-2022.0,Hyundai,Santa Fe AWD,SUV: Small,2.5,4.0,AM8,X,29.0,233.0
-2022.0,Hyundai,Santa Fe AWD,SUV: Small,2.5,4.0,AS8,X,28.0,235.0
-2022.0,Hyundai,Santa Fe Hybrid,SUV: Small,1.6,4.0,AM6,X,38.0,176.0
-2022.0,Hyundai,Sonata,Full-size,1.6,4.0,AS8,X,37.0,183.0
-2022.0,Hyundai,Sonata,Full-size,2.5,4.0,AM8,X,32.0,208.0
-2022.0,Hyundai,Sonata,Full-size,2.5,4.0,AS8,X,37.0,182.0
-2022.0,Hyundai,Sonata Hybrid,Full-siez,2.0,4.0,AM6,X,56.0,117.0
-2022.0,Hyundai,Tucson,SUV: Small,2.5,4.0,AS8,X,34.0,194.0
-2022.0,Hyundai,Tucson AWD,SUV: Small,2.5,4.0,AS8,X,31.0,214.0
-2022.0,Hyundai,Tucson Hybrid,SUV: Small,1.6,4.0,AM6,X,44.0,152.0
-2022.0,Hyundai,Veloster N,Compact,2.0,4.0,AM8,Z,27.0,248.0
-2022.0,Hyundai,Veloster N,Compact,2.0,4.0,M6,Z,30.0,226.0
-2022.0,Hyundai,Venue,Mid-size,1.6,4.0,AV1,X,38.0,176.0
-2022.0,Hyundai,Venue,Mid-size,1.6,4.0,M6,X,36.0,184.0
-2022.0,Infiniti,Q50 AWD,Mid-size,3.0,6.0,AS7,Z,26.0,254.0
-2022.0,Infiniti,Q50 AWD Red Sport,Mid-size,3.0,6.0,AS7,Z,25.0,261.0
-2022.0,Infiniti,Q60 AWD,Subcompact,3.0,6.0,AS7,Z,26.0,252.0
-2022.0,Infiniti,Q60 AWD Red Sport,Subcompact,3.0,6.0,AS7,Z,26.0,259.0
-2022.0,Infiniti,QX50 AWD,SUV: Small,2.0,4.0,AV8,Z,29.0,228.0
-2022.0,Infiniti,QX55 AWD,SUV: Small,2.0,4.0,AV8,Z,30.0,223.0
-2022.0,Infiniti,QX60 AWD,S?U<V: Standard,3.5,6.0,AS9,Z,26.0,253.0
-2022.0,Infiniti,QX80 4WD,SUV: Standard,5.6,8.0,AS7,Z,19.0,355.0
-2022.0,Jaguar,E-PACE P250,SUV: Small,2.0,4.0,AS9,Z,27.0,247.0
-2022.0,Jaguar,E-PACE P300,SUV: Small,2.0,4.0,AS9,Z,27.0,245.0
-2022.0,Jaguar,F-PACE P250,SUV: Small,2.0,4.0,AS8,Z,29.0,227.0
-2022.0,Jaguar,F-PACE P340,SUV: Small,3.0,6.0,AS8,Z,27.0,250.0
-2022.0,Jaguar,F-PACE P400,SUV: Small,3.0,6.0,AS8,Z,26.0,253.0
-2022.0,Jaguar,F-PACE SVR,SUV: Small,5.0,8.0,AS8,Z,21.0,316.0
-2022.0,Jagura,F-TYPE P450 Convertible,Two-seater,5.0,8.0,AS8,Z,23.0,286.0
-2022.0,Jaguar,F-TYPE P450 Convertible AWD,Two-seater,5.0,8.0,AS8,Z,22.0,299.0
-2022.0,Jaguar,F-TYPE P450 Coupe,Two-seater,5.0,8.0,AS8,Z,23.0,286.0
-2022.0,Jaguar,F-TYPE P450 Coupe AWD,Two-seater,5.0,8.0,AS8,Z,22.0,299.0
-2022.0,Jaguar,F-TYPE R Convertible AWD,Two-seater,5.0,8.0,AS8,Z,22.0,299.0
-2022.0,Jaguar,F-TYPE R Coupe AWD,Two-seater,5.0,8.0,AS8,Z,22.0,299.0
-2022.0,Jaguar,XF P300 AWD,Mid-size,2.0,4.0,AS8,Z,30.0,219.0
-2022.0,Jeep,Cherokee,SUV: Small,2.0,4.0,A9,X,31.0,214.0
-2022.0,Jeep,Cherokee,SUV: Small,2.4,4.0,A9,X,30.0,219.0
-2022.0,Jeep,Cherokee,SUV: Small,3.2,6.0,A9,X,28.0,240.0
-2022.0,Jeep,Cherok<e!e 4X4 Active Drive %I,SUV: Small,2.0,4.0,A9,X,29.0,229.0
-2022.0,Jeep,Cherokee 4X4 Active Drive I,SUV: Small,2.4,4.0,A9,X,29.0,230.0
-2022.0,Jeep,Cherokee 4X4 Acti%ve Driv%e I%,SUV: Small,3.2,6.0,A9,X,27.0,249.0
-2022.0,Jeep,Cherokee 4X4 Active Drive Lock,SUV: Small,3.2,6.0,A9,X,25.0,268.0
-2022.0,Jeep,Compass,SUV: Small,2.4,4.0,A6,X,30.0,218.0
-2022.0,Jeep,Compass 4X4,SUV: Small,2.4,4.0,A9,X,30.0,222.0
-2022.0,Jeep,Gladiator 4X4 EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,29.0,263.0
-2022.0,Jeep,Gladiator 4X4 Rubicon EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,28.0,271.0
-2022.0,Jeep,Gladiator 4X4,Pickup truck: Standard,3.6,6.0,A8,X,23.0,290.0
-2022.0,Jeep,Gladiator 4X4,Pickup truck: Standard,3.6,6.0,M6,X,22.0,296.0
-2022.0,Jeep,Grand Cherokee 4X4,SUV: Standard,3.6,6.0,A8,X,26.0,256.0
-2022.0,Jeep,Grand Cherokee 4X4,SUV: Standadr,5.7,8.0,A8,X,20.0,331.0
-2022.0,Jeep,Grand Cherokee L 4X4,SUV: Standard,3.6,6.0,A8,X,25.0,266.0
-2022.0,Jeep,Grand Cherokee L 4X4,SUV: Standard,5.7,8.0,A8,X,20.0,331.0
-2022.0,Jeep,Grand Cherokee WK 4X4,SUV: Standard,3.6,6.0,A8,X,25.0,265.0
-2022.0,Jeep,Grand Wagoneer 4X4,SUV: Standard,3.0,6.0,A8,Z,20.0,334.0
-2022.0,Jeep,Grand Wagoneer 4X4,SUV: Standard,6.4,8.0,A8,Z,18.0,374.0
-2022.0,Jeep,Renegade,SUV: Small,1.3,4.0,A9,X,32.0,204.0
-2022.0,Jepe,Renegade 4X4,SUV: Small,1.3,4.0,A9,X,31.0,222.0
-2022.0,Jeep,Renegade 4X4 Trailhawk,SUV: Small>,1.3,4.0,A9,X,29.0,231.0
-2022.0,Jeep,Wagoneer 4X4,SUV: Standard,5.7,8.0,A8,X,20.0,323.0
-2022.0,Jeep,Wrangler JL 4X4,SUV: Small,2.0,4.0,A8,X,27.0,241.0
-2022.0,Jeep,Wrangler JL 4X4,SUV: Small,3.6,6.0,A8,X,24.0,274.0
-2022.0,Jeep,Wrangler JL 4X4 eTorque,SUV: Small,3.6,6.0,A8,X,26.0,258.0
-2022.0,Jeep,Wrangler JL 4X4,SUV: Small,3.6,6.0,M6,X,24.0,277.0
-2022.0,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,2.0,4.0,A8,X,26.0,251.0
-2022.0,Jeep,Wrangler JL Unlimited 4X4 EcoDiesel,SUV: Small,3.0,6.0,A8,D,30.0,255.0
-2022.0,Jeep,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,SUV: Small,3.0,6.0,A8,D,28.0,275.0
-2022.0,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,3.6,6.0,A8,X,24.0,275.0
-2022.0,Jeep,Wrangler JL Unlimited 4X4 eTorque,SUV: Small,3.6,6.0,A8,X,25.0,262.0
-2022.0,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,3.6,6.0,M6,X,23.0,285.0
-2022.0,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,6.4,8.0,A8,Z,17.0,387.0
-2022.0,Kia,Carnival,Minivna,3.5,6.0,AS8,X,27.0,252.0
-2022.0,Kia,Forte,Mid-size,1.6,4.0,AM7,X,36.0,184.0
-2022.0,Kia,Forte,Mid-size,2.0,4.0,AV,X,40.0,165.0
-2022.0,Kia,Forte,Mid-size,2.0,4.0,M6,X,37.0,178.0
-2022.0,Kia,Forte 5,Full-size,1.6,4.0,AM7,X,35.0,190.0
-2022.0,Kia,Forte 5,Full-size,2.0,4.0,AV,X,40.0,169.0
-2022.0,Kia,K5,Full-size,2.5,4.0,AM8,X,32.0,207.0
-2022.0,Kia,K5 AWD,Full-size,1.6,4.0,AS8,X,34.0,195.0
-2022.0,Kia,Niro,Station wagon: Small,1.6,4.0,AM6,X,61.0,110.0
-2022.0,Kia<,Niro FE,Station wagon: Small,1.6,4.0,AM6,X,61.0,110.0
-2022.0,Kia,Niro Touring,Station wagon: Small,1.6,4.0,AM6,X,53.0,124.0
-2022.0,Kia,Rio,Compact,1.6,4.0,AV1,X,42.0,159.0
-2022.0,Kia,Rio,Compact,1.6,4.0,M6,X,40.0,166.0
-2022.0,Kia,Seltos,SU!V: Smal?l,2.0,4.0,AV8,X,37.0,182.0
-2022.0,Kia,Seltos AWD,SUV: Small,1.6,4.0,AM7,X,32.0,205.0
-2022.0,Kia,Seltos AWD,SUV: Small,2.0,4.0,AV8,X,34.0,195.0
-2022.0,Kia,Sorento AWD,SUV: Small,2.5,4.0,AM8,X,29.0,234.0
-2022.0,Kia,Sorento AWD,SUV: Small,2.5,4.0,AS8,X,29.0,227.0
-2022.0,Kia,Sorento Hybrid AWD,SUV:! Small,1.6,4.0,AM6,X,43.0,157.0
-2022.0,Kia,Soul,Station wagon: Small,2.0,4.0,AV,X,36.0,187.0
-2022.0,Kia,Sportage,SUV: Small,2.4,4.0,AS6,X,31.0,214.0
-2022.0,Kia,Sportage AWD,SUV: Small,2.0,4.0,AS6,X,26.0,261.0
-2022.0,Kia,Sportage AWD,SUV: Small,2.4,4.0,AS6,X,28.0,238.0
-2022.0,Kia,Stinger AWD,Mid-size,3.3,6.0,AS8,Z,24.0,280.0
-2022.0,Kia,Telluride AWD,SUV: Small,3.8,6.0,AS8,X,25.0,266.0
-2022.0,Lamborghini,Aventador Countach,Two-seater,6.5,12.0,AM7,Z,13.0,489.0
-2022.0,Lamborghini,Aventador Ultimae Coupe,Two-seater,6.5,12.0,AM7,Z,13.0,498.0
-2022.0,Lamborghini,Aventador Ultimae Roadster,Two-seater,6.5,12.0,AM7,Z,13.0,498.0
-2022.0,Lamborghini,Huracan evo Coupe,Two-seater,5.2,10.0,AM7,Z,18.0,371.0
-2022.0,Lamborghini,Huracan evo Coupe AWD,Two-seater,5.2,10.0,AM7,Z,18.0,370.0
-2022.0,Lamborghini,Huracan evo Spyder,Two-seater,5.2,10.0,AM7,Z,18.0,371.0
-2022.0,Lamborghini,Hurac?an e?vo Spyder AWD,Two-seater,5.2,10.0,AM7,Z,18.0,370.0
-2022.0,Lamborghini,Urus,SUV: Standard,4.0,8.0,AS8,Z,17.0,384.0
-2022.0,Land Rover,Defender 90 P300,SUV: Standard,2.0,4.0,AS8,Z,23.0,289.0
-2022.0,Land Rover,Defender 90 P400,SUV: Standard,3.0,6.0,AS8,Z,23.0,287.0
-2022.0,Land Rover,Defender 90 5.0L V8,SUV: Standard,5.0,8.0,AS8,Z,20.0,339.0
-2022.0,Land Rover,Defender 110 P300,SUV: Standard,2.0,4.0,AS8,Z,22.0,306.0
-2022.0,Land Rover,Defender 110 P400,SUV: Standard,3.0,6.0,AS8,Z,23.0,287.0
-2022.0,Land Rover,Defender 110 5.0L V8,SUV: Standard,5.0,8.0,AS8,Z,19.0,350.0
-2022.0,Land Rover,Discovery P300,SUV: Standard,2.0,4.0,AS8,Z,25.0,271.0
-2022.0,Land Rover,Discovery P360,SUV: Standard,3.0,6.0,AS8,Z,25.0,270.0
-2022.0,Land Rover,Discovery Sport P250,SUV: Small,2.0,4.0,AS9,Z,25.0,271.0
-2022.0,Land Rover,New Range Rover P400,SUV: Standard,3.0,6.0,AS8,Z,25.0,265.0
-2022.0,Land Rover,New Range Rover P400 LWB,SUV: Standard,3.0,6.0,AS8,Z,25.0,265.0
-2022.0,Land Rover,New Range Rover P530,SUV: Standard,4.4,8.0,AS8,Z,21.0,316.0
-2022.0,Land Rover,New Range Rover P530 LWB,SUV: Standard,4.4,8.0,AS8,Z,21.0,314.0
-2022.0,Land Rover,Range Rover P360,SUV: Standard,3.0,6.0,AS8,Z,24.0,279.0
-2022.0,Land Rover,Range Rover P400,SUV: Standard,3.0,6.0,AS8,Z,24.0,279.0
-2022.0,Land Rover,Range Rover P525,SUV: Standard,5.0,8.0,AS8,Z,22.0,305.0
-2022.0,Land Rover,Range Rover P525 LWB,SUV: Standard,5.0,8.0,AS8,Z,22.0,305.0
-2022.0,Land Rover,Range Rover SVAutobiography,SUV: Standard,5.0,8.0,AS8,Z,19.0,354.0
-2022.0,Land Rover,Range Rover SVAutobiography LWB,SUV: Standard,5.0,8.0,AS8,Z,18.0,365.0
-2022.0,Land Rover,Range Rover Sport P360,SUV:> Standa!rd,3.0,6.0,AS8,Z,25.0,269.0
-2022.0,Land Rover,Range Rover Sport HST P400,SUV: Standard,3.0,6.0,AS8,Z,25.0,269.0
-2022.0,Land Rover,Range Rover Sport P525,SUV: Standard,5.0,8.0,AS8,Z,22.0,294.0
-2022.0,Land Rover,Range Rover Sport P575 SVR,SUV: Standard,5.0,8.0,AS8,Z,20.0,336.0
-2022.0,Land Rover,Range Rover Evoque P250,SUV: Small,2.0,4.0,AS9,Z,27.0,247.0
-2022.0,Land Rover,Range Rover Evoque P300,SUV: Small,2.0,4.0,AS9,Z,27.0,244.0
-2022.0,Land Rover,Range Rover Velar P250,SUV: Small,2.0,4.0,AS8,Z,27.0,244.0
-2022.0,Land Rover,Range Rover Velar P340,SUV: Small,3.0,6.0,AS8,Z,27.0,248.0
-2022.0,Land Rover,Range Rover Velar P400,SUV: Small,3.0,6.0,AS8,Z,25.0,265.0
-2022.0,Lexsu,ES 250 AWD,Mid-size,2.5,4.0,AS8,X,34.0,195.0
-2022.0,Lexsu,ES 300h,Mid-size,2.5,4.0,AV6,X,53.0,124.0
-2022.0,Lexus,ES 350,Mid-size,3.5,6.0,AS8,X,31.0,214.0
-2022.0,Lexus,ES 350 F SPORT,Mid-size,3.5,6.0,AS8,X,30.0,219.0
-2022.0,Lexus,GX 460,SUV: Standard,4.6,8.0,AS6,Z,19.0,337.0
-2022.0,Lexus,IS 300,Compatc,2.0,4.0,AS6,Z,30.0,221.0
-2022.0,Lexus,IS 300 AWD,Compatc,3.5,6.0,AS6,Z,26.0,253.0
-2022.0,Lexus,IS 350 AWD,Compact,3.5,6.0,AS6,Z,26.0,253.0
-2022.0,Lexus,IS 500,Compact,5.0,8.0,AS8,Z,24.0,280.0
-2022.0,Lexus,LC 500,Subcompact,5.0,8.0,AS10,Z,22.0,294.0
-2022.0,Lexus,LC 500 Convertible,Minicompact,5.0,8.0,AS10,Z,22.0,304.0
-2022.0,Lexus,LC 500h,Subcompact,3.5,6.0,AV10,Z,35.0,189.0
-2022.0,Lexus,LS 500 AWD,Mid-size,3.4,6.0,AS10,Z,25.0,270.0
-2022.0,Lexus,LS 500h AWD,Mid-size,3.5,6.0,AV10,Z,31.0,216.0
-2022.0,Lexus,L!X 600,SUV: Standard,3.4,6.0,AS10,Z,22.0,298.0
-2022.0,Lexus,NX 250 AWD,SUV: Small,2.5,4.0,AS8,X,34.0,198.0
-2022.0,Lexus,NX 350 AWD,SUV: Small,2.4,4.0,AS8,Z,30.0,221.0
-2022.0,Lexus,NX 350 AWD F SPORT,SUV: Small,2.4,4.0,AS8,Z,30.0,222.0
-2022.0,Lexus,NX 350h AWD,SUV: Small,2.5,4.0,AV6,Z,47.0,140.0
-2022.0,Lexus,RC 300 AWD,Subcompact,3.5,6.0,AS6,Z,26.0,253.0
-2022.0,Lexus,RC 350 AWD,Subcompact,3.5,6.0,AS6,Z,26.0,253.0
-2022.0,Lexus,RC F,Subcompact,5.0,8.0,AS8,Z,23.0,285.0
-2022.0,Lexus,RX 350 AWD,SUV: Small,3.5,6.0,AS8,X,26.0,252.0
-2022.0,Lexus,RX 350 L AWD,SUV!: Smal?l,3.5,6.0,AS8,X,25.0,268.0
-2022.0,Lexus,RX 450h AWD,SUV: Standard,3.5,6.0,AV6,Z,36.0,185.0
-2022.0,Lexus,RX 450h L AWD,SUV: Standard,3.5,6.0,AV6,Z,35.0,190.0
-2022.0,Lexus,UX 200,Mid-size,2.0,4.0,AS10,X,39.0,168.0
-2022.0,Lexus,UX 250h AWD,Compact,2.0,4.0,AV6,X,47.0,140.0
-2022.0,Lincoln,Aviator AWD,SUV: Standard,3.0,6.0,AS10,X,24.0,280.0
-2022.0,Lincoln,Corsair AWD,SUV: Small,2.0,4.0,AS8,X,29.0,229.0
-2022.0,Lincoln,Corsair AWD,SUV: Small,2.3,4.0,AS8,X,29.0,232.0
-2022.0,Lincoln,Nautilus AWD,SUV: Small,2.0,4.0,A8,X,26.0,252.0
-2022.0,Lincoln,Nautilus AWD,SUV: Small,2.0,4.0,AS8,X,26.0,251.0
-2022.0,Lincoln,Nautilus AWD,SUV: Small,2.7,6.0,AS8,X,25.0,262.0
-2022.0,Lincoln,Navigator 4X4,SUV: Standard,3.5,6.0,AS10,X,21.0,311.0
-2022.0,Maserati,Ghibli GT,Mid-size,3.0,6.0,A8,Z,24.0,271.0
-2022.0,Maserati,Ghibli Modena,Mid-size,3.0,6.0,A8,Z,24.0,271.0
-2022.0,Maserati,Ghibli Modena AWD,Mid-size,3.0,6.0,A8,Z,22.0,293.0
-2022.0,Maserati,Ghibli Trofeo,Mid-size,3.8,8.0,A8,Z,19.0,348.0
-2022.0,Maserati,Levante GT,SUV: Standard,3.0,6.0,A8,Z,21.0,308.0
-2022.0,Maserati,Levante Modena,SUV: Standard,3.0,6.0,A8,Z,21.0,308.0
-2022.0,Maserati,Levante Modena V8,SUV: Standard,3.8,8.0,A8,Z,19.0,349.0
-2022.0,Maserati,Levante Trofeo,SUV: Standard,3.8,8.0,A8,Z,19.0,349.0
-2022.0,Maserati,MC20,Two-seater,3.0,6.0,AS8,Z,22.0,295.0
-2022.0,Maserati,Quattroporte GT,Full-size,3.0,6.0,A8,Z,23.0,281.0
-2022.0,Maserati,Quattroporte Modena,Full-size,3.0,6.0,A8,Z,23.0,281.0
-2022.0,Maserati,Quattroporte Modena AWD,Full-size,3.0,6.0,A8,Z,22.0,293.0
-2022.0,Maserati,Quattroporte Trofeo,Full-size,3.8,8.0,A8,Z,19.0,348.0
-2022.0,Mazda,CX-3,Compact,2.0,4.0,AS6,X,37.0,179.0
-2022.0,Mazda,CX-3 (SIL),Compact,2.0,4.0,M6,X,35.0,186.0
-2022.0,Mazda,CX-3 4WD,Compact,2.0,4.0,AS6,X,35.0,189.0
-2022.0,Mazda,CX-30 4WD,SUV: Small,2.0,4.0,AS6,X,33.0,202.0
-2022.0,Mazda,CX-30 4WD,SUV: Small,2.5,4.0,AS6,X,32.0,208.0
-2022.0,Mazda,CX-30 Turbo 4WD,SUV: Small,2.5,4.0,AS6,X,30.0,220.0
-2022.0,Mazda,CX-5 4WD,SUV: Small,2.5,4.0,AS6,X,30.0,216.0
-2022.0,Mazda,C>X-5 4<WD% (Cylinder Deact>ivation),SUV: Small,2.5,4.0,AS6,X,31.0,209.0
-2022.0,Mazda,CX-5 Turbo 4WD,SUV: Small,2.5,4.0,AS6,X,29.0,230.0
-2022.0,Mazda,CX-9 4WD,SUV: Small,2.5,4.0,AS6,X,27.0,243.0
-2022.0,Mazda,Mazda3 4-Door,Compact,2.0,4.0,AS6,X,37.0,178.0
-2022.0,Mazda,Mazda3 4-Door (SIL),Compact,2.0,4.0,M6,X,37.0,180.0
-2022.0,Mazda,Mazda3 4-Door,Compact,2.5,4.0,AS6,X,36.0,183.0
-2022.0,Mazda,Mazda3 4-Door 4WD,Compact,2.5,4.0,AS6,X,33.0,199.0
-2022.0,Mazda,Mazda3 4-Door Turbo 4WD,Compact,2.5,4.0,AS6,X,32.0,207.0
-2022.0,Mazda,Mazda3 5-Door,Mid-size,2.0,4.0,AS6,X,37.0,181.0
-2022.0,Mazda,Mazda3 5-Door (SIL),Mid-siez,2.0,4.0,M6,X,36.0,181.0
-2022.0,Mazda,Mazda3 5-Door,Mid-size,2.5,4.0,AS6,X,35.0,190.0
-2022.0,Mazda,Mazda3 5-Door (SIL),Mid-size,2.5,4.0,M6,X,34.0,198.0
-2022.0,Mazda,Mazda3 5-Door 4WD,Mid-size,2.5,4.0,AS6,X,33.0,200.0
-2022.0,Mazda%,Mazda3 5-Door Turbo 4WD,Mid-size,2.5,4.0,AS6,X,32.0,209.0
-2022.0,Mazda,MX-5,Two-seater,2.0,4.0,AS6,Z,36.0,186.0
-2022.0,Mazda,MX-5 (SIL),Two-seater,2.0,4.0,M6,Z,35.0,189.0
-2022.0,Mercedes-Benz,A 220 4MATIC Sedan,Subcompact,2.0,4.0,AM7,Z,34.0,194.0
-2022.0,Mercedes-Benz,A 250 4MATIC Hatch,Station wagon: Small,2.0,4.0,AM7,Z,32.0,202.0
-2022.0,Mercedes-Benz,AMG A 35 4MATIC Sedan,Subcompact,2.0,4.0,AM7,Z,30.0,221.0
-2022.0,Mercedes-Benz,AMG A 35 4MATIC Hatch,Station wagon: Small,2.0,4.0,AM7,Z,30.0,221.0
-2022.0,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,3.0,6.0,A9,Z,26.0,256.0
-2022.0,Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,3.0,6.0,A9,Z,26.0,252.0
-2022.0,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2.0,4.0,AM7,Z,29.0,227.0
-2022.0,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Compact,2.0,4.0,AM8,Z,27.0,243.0
-2022.0,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,3.0,6.0,A9,Z,27.0,241.0
-2022.0,Mercedes-Bezn,AMG E 53 4MATIC+ Sedan,Mid-size,3.0,6.0,A9,Z,29.0,232.0
-2022.0,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,3.0,6.0,A9,Z,27.0,247.0
-2022.0,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,3.0,6.0,A9,Z,28.0,239.0
-2022.0,Mercedes-Benz,AMG G 63 SUV,SUV: Standard,4.0,8.0,A9,Z,16.0,412.0
-2022.0,Mercedes-Benz,AMG G 63 4x4 Squared,SUV: Standard,4.0,8.0,A9,Z,14.0,470.0
-2022.0,Mercedes-Benz,AMG GLA 35 4MATIC SUV,Station wagon: Small,2.0,4.0,AM8,Z,29.0,230.0
-2022.0,Mercedes-Benz,AMG GLA 45 4MATIC SUV,Station wagon: Small,2.0,4.0,AM8,Z,25.0,260.0
-2022.0,Mercedes-Benz,AMG GLB 35 4MATIC SUV,Station wagon: Mid-size,2.0,4.0,AM8,Z,25.0,262.0
-2022.0,Mercedes-Benz,AMG GLC 43 4MATIC SUV,SUV: Small,3.0,6.0,A9,Z,25.0,264.0
-2022.0,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV: Small,3.0,6.0,A9,Z,23.0,287.0
-2022.0,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV: Standard,3.0,6.0,A9,Z,23.0,283.0
-2022.0,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV: Standard,3.0,6.0,A9,Z,23.0,292.0
-2022.0,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV: Standard,4.0,8.0,A9,Z,19.0,341.0
-2022.0,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV: Sta?ndard,4.0,8.0,A9,Z,19.0,346.0
-2022.0,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV: Standard,4.0,8.0,A9,Z,18.0,360.0
-2022.0,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,3.0,6.0,A9,Z,26.0,258.0
-2022.0,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Minicompact,4.0,8.0,A9,Z,19.0,339.0
-2022.0,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2.0,4.0,A9,Z,33.0,202.0
-2022.0,Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,2.0,4.0,A9,Z,29.0,224.0
-2022.0,Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,2.0,4.0,A9,Z,30.0,217.0
-2022.0,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2.0,4.0,AM7,Z,33.0,200.0
-2022.0,Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,3.0,6.0,A9,Z,29.0,229.0
-2022.0,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2.0,4.0,A9,Z,29.0,229.0
-2022.0,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3.0,6.0,A9,Z,30.0,218.0
-2022.0,Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,3.0,6.0,A9,Z,29.0,233.0
-2022.0,Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,3.0,6.0,A9,Z,29.0,225.0
-2022.0,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3.0,6.0,A9,Z,29.0,229.0
-2022.0,Mercedes-Benz,G 550 SUV,SUV: Standard,4.0,8.0,A9,Z,19.0,354.0
-2022.0,Mercedes-Benz,GLA 250 4MATIC SUV,SUV: Small,2.0,4.0,AM8,Z,31.0,210.0
-2022.0,Mercedes-Benz,GLB 250 4MATIC SUV,SUV: Small,2.0,4.0,AM8,Z,30.0,224.0
-2022.0,Mercedes-Benz,GLC 300 4MATIC SUV,SUV: Small,2.0,4.0,A9,Z,27.0,242.0
-2022.0,Mercedes-Benz,GLC 300 4MATIC Coupe,SUV: Small,2.0,4.0,A9,Z,28.0,237.0
-2022.0,Mercedes-Benz,GLE 350 4MATIC SUV,SUV: Standadr,2.0,4.0,A9,Z,26.0,250.0
-2022.0,Mercedes-Benz,GLE 450 4MATIC SUV,SUV: Standard,3.0,6.0,A9,Z,27.0,244.0
-2022.0,Mercedes-Benz,GLE 450 4MATIC Coupe,SUV: Standard,3.0,6.0,A9,Z,27.0,247.0
-2022.0,Mercedes-Benz,GLS 450 4MATIC SUV,SUV: Standard,3.0,6.0,A9,Z,25.0,269.0
-2022.0,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,SUV: Standadr,4.0,8.0,A9,Z,20.0,338.0
-2022.0,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4.0,8.0,A9,Z,22.0,301.0
-2022.0,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Full-size,6.0,12.0,A9,Z,18.0,369.0
-2022.0,Mercedes-Benz,Metris Cargo Van,Special purpose vehicle,2.0,4.0,A9,Z,25.0,267.0
-2022.0,Mercedes-Benz,Metris Cargo Van LWB,Special purpose vehicle,2.0,4.0,A9,Z,25.0,267.0
-2022.0,Mercedes-Benz,Metris Passenger Van,Special purpose vehicle,2.0,4.0,A9,Z,23.0,282.0
-2022.0,Mercedes-Bezn,S 500 4MATIC SWB Sedan,Full-size,3.0,6.0,A9,Z,29.0,231.0
-2022.0,Mercedes-Benz,S 580 4MATIC LWB Sedan,Full-size,4.0,8.0,A9,Z,23.0,285.0
+2022.0,HONDA,Accord,Full-size,1.5,4.0,AV,X,39.0,168.0
+2022.0,HONDA,Accord Sport/Touring,Full-size,1.5,4.0,AV7,X,38.0,176.0
+2022.0,HONDA,Accord Sport/Touring,Full-size,2.0,4.0,AS10,X,31.0,211.0
+2022.0,HONDA,Accord Hybrid,Full-size,2.0,4.0,AV,X,56.0,117.0
+2022.0,HONDA,Accord Hybrid Sport/Touring,Full-size,2.0,4.0,AV,X,51.0,129.0
+2022.0,HONDA,Civic Hatchback,Full-siez,1.5,4.0,AV7,X,40.0,166.0
+2022.0,HONDA,Civic Hatchback,Full-size,1.5,4.0,M6,X,38.0,175.0
+2022.0,HONDA,Civic Hatchback,Full-size,2.0,4.0,AV,X,39.0,167.0
+2022.0,HONDA,Civic Hatchback,Full-size,2.0,4.0,M6,X,35.0,186.0
+2022.0,HONDA,Civic Sedan,Mid-size,1.5,4.0,AV7,X,41.0,162.0
+2022.0,HONDA,Civic Sedan,Mid-size,2.0,4.0,AV,X,41.0,162.0
+2022.0,HONDA,Civic Sedan,Mid-siez,2.0,4.0,AV7,X,40.0,165.0
+2022.0,HONDA,Civic Sedan Si,Mid-size,1.5,4.0,M6,Z,37.0,180.0
+2022.0,HONDA,CR-V,SUV: Small,1.5,4.0,AV,X,37.0,180.0
+2022.0,HONDA,CR-V AWD,SUV: Small,1.5,4.0,AV,X,35.0,189.0
+2022.0,HONDA,HR-V,Station wagon: Small,1.8,4.0,AV,X,36.0,181.0
+2022.0,HONDA,HR-V AWD,Station wagon: Small,1.8,4.0,AV,X,34.0,193.0
+2022.0,HONDA,HR-V AWD,Station wagon: Small,1.8,4.0,AV7,X,33.0,200.0
+2022.0,HONDA,Odyssey,MINIvan,3.5,6.0,AS10,X,27.0,248.0
+2022.0,HONDA,Passport AWD,SUV: Small,3.5,6.0,AS9,X,25.0,265.0
+2022.0,HONDA,Pilot AWD,SUV: Small,3.5,6.0,AS9,X,26.0,256.0
+2022.0,HONDA,Pilot AWD TrailSport,SUV: Small,3.5,6.0,AS9,X,25.0,260.0
+2022.0,HONDA,Ridgeline AWD,Pickup truck: Standard,3.5,6.0,AS9,X,25.0,271.0
+2022.0,HYUNDAI,Elantra,Mid-size,1.6,4.0,AM7,X,37.0,179.0
+2022.0,HYUNDAI,Elantra,Mid-size,2.0,4.0,AV1,X,42.0,158.0
+2022.0,HYUNDAI,Elantra (ISG),Mid-size,2.0,4.0,AV1,X,44.0,151.0
+2022.0,HYUNDAI,Elantra,Mid-size,2.0,4.0,M6,X,36.0,185.0
+2022.0,HYUNDAI,Elantra N,Mid-size,2.0,4.0,AM8,Z,28.0,241.0
+2022.0,HYUNDAI,Elantra N,Mid-size,2.0,4.0,M6,Z,30.0,223.0
+2022.0,HYUNDAI,Elantra Hybrid Blue,Mid-size,1.6,4.0,AM6,X,64.0,103.0
+2022.0,HYUNDAI,IONIQ,Full-size,1.6,4.0,AM6,X,67.0,99.0
+2022.0,HYUNDAI,IONIQ Blue,Full-size,1.6,4.0,AM6,X,71.0,94.0
+2022.0,HYUNDAI,Kona,SUV: Small,1.6,4.0,AM7,X,38.0,176.0
+2022.0,HYUNDAI,Kona,SUV: Small,2.0,4.0,AV,X,38.0,174.0
+2022.0,HYUNDAI,Kona N,SUV: Small,2.0,4.0,AM8,Z,27.0,246.0
+2022.0,HYUNDAI,Kona AWD,SUV: Small,1.6,4.0,AM7,X,34.0,193.0
+2022.0,HYUNDAI,Kona AWD,SUV: Small,2.0,4.0,AV,X,36.0,187.0
+2022.0,HYUNDAI,Palisade AWD,SUV: Standard,3.8,6.0,AS8,X,25.0,265.0
+2022.0,HYUNDAI,Santa Cruz AWD,Pickup truck: Small,2.5,4.0,AM8,X,27.0,250.0
+2022.0,HYUNDAI,Santa Fe AWD,SUV: Small,2.5,4.0,AM8,X,29.0,233.0
+2022.0,HYUNDAI,Santa Fe AWD,SUV: Small,2.5,4.0,AS8,X,28.0,235.0
+2022.0,HYUNDAI,Santa Fe Hybrid,SUV: Small,1.6,4.0,AM6,X,38.0,176.0
+2022.0,HYUNDAI,Sonata,Full-size,1.6,4.0,AS8,X,37.0,183.0
+2022.0,HYUNDAI,Sonata,Full-size,2.5,4.0,AM8,X,32.0,208.0
+2022.0,HYUNDAI,Sonata,Full-size,2.5,4.0,AS8,X,37.0,182.0
+2022.0,HYUNDAI,Sonata Hybrid,Full-siez,2.0,4.0,AM6,X,56.0,117.0
+2022.0,HYUNDAI,Tucson,SUV: Small,2.5,4.0,AS8,X,34.0,194.0
+2022.0,HYUNDAI,Tucson AWD,SUV: Small,2.5,4.0,AS8,X,31.0,214.0
+2022.0,HYUNDAI,Tucson Hybrid,SUV: Small,1.6,4.0,AM6,X,44.0,152.0
+2022.0,HYUNDAI,Veloster N,Compact,2.0,4.0,AM8,Z,27.0,248.0
+2022.0,HYUNDAI,Veloster N,Compact,2.0,4.0,M6,Z,30.0,226.0
+2022.0,HYUNDAI,Venue,Mid-size,1.6,4.0,AV1,X,38.0,176.0
+2022.0,HYUNDAI,Venue,Mid-size,1.6,4.0,M6,X,36.0,184.0
+2022.0,INFINITI,Q50 AWD,Mid-size,3.0,6.0,AS7,Z,26.0,254.0
+2022.0,INFINITI,Q50 AWD Red Sport,Mid-size,3.0,6.0,AS7,Z,25.0,261.0
+2022.0,INFINITI,Q60 AWD,Subcompact,3.0,6.0,AS7,Z,26.0,252.0
+2022.0,INFINITI,Q60 AWD Red Sport,Subcompact,3.0,6.0,AS7,Z,26.0,259.0
+2022.0,INFINITI,QX50 AWD,SUV: Small,2.0,4.0,AV8,Z,29.0,228.0
+2022.0,INFINITI,QX55 AWD,SUV: Small,2.0,4.0,AV8,Z,30.0,223.0
+2022.0,INFINITI,QX60 AWD,SUV: Standard,3.5,6.0,AS9,Z,26.0,253.0
+2022.0,INFINITI,QX80 4WD,SUV: Standard,5.6,8.0,AS7,Z,19.0,355.0
+2022.0,JAGUAR,E-PACE P250,SUV: Small,2.0,4.0,AS9,Z,27.0,247.0
+2022.0,JAGUAR,E-PACE P300,SUV: Small,2.0,4.0,AS9,Z,27.0,245.0
+2022.0,JAGUAR,F-PACE P250,SUV: Small,2.0,4.0,AS8,Z,29.0,227.0
+2022.0,JAGUAR,F-PACE P340,SUV: Small,3.0,6.0,AS8,Z,27.0,250.0
+2022.0,JAGUAR,F-PACE P400,SUV: Small,3.0,6.0,AS8,Z,26.0,253.0
+2022.0,JAGUAR,F-PACE SVR,SUV: Small,5.0,8.0,AS8,Z,21.0,316.0
+2022.0,JAGUAR,F-TYPE P450 Convertible,TWO-SEATER,5.0,8.0,AS8,Z,23.0,286.0
+2022.0,JAGUAR,F-TYPE P450 Convertible AWD,TWO-SEATER,5.0,8.0,AS8,Z,22.0,299.0
+2022.0,JAGUAR,F-TYPE P450 Coupe,TWO-SEATER,5.0,8.0,AS8,Z,23.0,286.0
+2022.0,JAGUAR,F-TYPE P450 Coupe AWD,TWO-SEATER,5.0,8.0,AS8,Z,22.0,299.0
+2022.0,JAGUAR,F-TYPE R Convertible AWD,TWO-SEATER,5.0,8.0,AS8,Z,22.0,299.0
+2022.0,JAGUAR,F-TYPE R Coupe AWD,TWO-SEATER,5.0,8.0,AS8,Z,22.0,299.0
+2022.0,JAGUAR,XF P300 AWD,Mid-size,2.0,4.0,AS8,Z,30.0,219.0
+2022.0,JEEP,Cherokee,SUV: Small,2.0,4.0,A9,X,31.0,214.0
+2022.0,JEEP,Cherokee,SUV: Small,2.4,4.0,A9,X,30.0,219.0
+2022.0,JEEP,Cherokee,SUV: Small,3.2,6.0,A9,X,28.0,240.0
+2022.0,JEEP,Cherokee 4X4 Active Drive I,SUV: Small,2.0,4.0,A9,X,29.0,229.0
+2022.0,JEEP,Cherokee 4X4 Active Drive I,SUV: Small,2.4,4.0,A9,X,29.0,230.0
+2022.0,JEEP,Cherokee 4X4 Active Drive I,SUV: Small,3.2,6.0,A9,X,27.0,249.0
+2022.0,JEEP,Cherokee 4X4 Active Drive Lock,SUV: Small,3.2,6.0,A9,X,25.0,268.0
+2022.0,JEEP,Compass,SUV: Small,2.4,4.0,A6,X,30.0,218.0
+2022.0,JEEP,Compass 4X4,SUV: Small,2.4,4.0,A9,X,30.0,222.0
+2022.0,JEEP,Gladiator 4X4 EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,29.0,263.0
+2022.0,JEEP,Gladiator 4X4 Rubicon EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,28.0,271.0
+2022.0,JEEP,Gladiator 4X4,Pickup truck: Standard,3.6,6.0,A8,X,23.0,290.0
+2022.0,JEEP,Gladiator 4X4,Pickup truck: Standard,3.6,6.0,M6,X,22.0,296.0
+2022.0,JEEP,Grand Cherokee 4X4,SUV: Standard,3.6,6.0,A8,X,26.0,256.0
+2022.0,JEEP,Grand Cherokee 4X4,SUV: Standadr,5.7,8.0,A8,X,20.0,331.0
+2022.0,JEEP,Grand Cherokee L 4X4,SUV: Standard,3.6,6.0,A8,X,25.0,266.0
+2022.0,JEEP,Grand Cherokee L 4X4,SUV: Standard,5.7,8.0,A8,X,20.0,331.0
+2022.0,JEEP,Grand Cherokee WK 4X4,SUV: Standard,3.6,6.0,A8,X,25.0,265.0
+2022.0,JEEP,Grand Wagoneer 4X4,SUV: Standard,3.0,6.0,A8,Z,20.0,334.0
+2022.0,JEEP,Grand Wagoneer 4X4,SUV: Standard,6.4,8.0,A8,Z,18.0,374.0
+2022.0,JEEP,Renegade,SUV: Small,1.3,4.0,A9,X,32.0,204.0
+2022.0,JEEP,Renegade 4X4,SUV: Small,1.3,4.0,A9,X,31.0,222.0
+2022.0,JEEP,Renegade 4X4 Trailhawk,SUV: Small,1.3,4.0,A9,X,29.0,231.0
+2022.0,JEEP,Wagoneer 4X4,SUV: Standard,5.7,8.0,A8,X,20.0,323.0
+2022.0,JEEP,Wrangler JL 4X4,SUV: Small,2.0,4.0,A8,X,27.0,241.0
+2022.0,JEEP,Wrangler JL 4X4,SUV: Small,3.6,6.0,A8,X,24.0,274.0
+2022.0,JEEP,Wrangler JL 4X4 eTorque,SUV: Small,3.6,6.0,A8,X,26.0,258.0
+2022.0,JEEP,Wrangler JL 4X4,SUV: Small,3.6,6.0,M6,X,24.0,277.0
+2022.0,JEEP,Wrangler JL Unlimited 4X4,SUV: Small,2.0,4.0,A8,X,26.0,251.0
+2022.0,JEEP,Wrangler JL Unlimited 4X4 EcoDiesel,SUV: Small,3.0,6.0,A8,D,30.0,255.0
+2022.0,JEEP,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,SUV: Small,3.0,6.0,A8,D,28.0,275.0
+2022.0,JEEP,Wrangler JL Unlimited 4X4,SUV: Small,3.6,6.0,A8,X,24.0,275.0
+2022.0,JEEP,Wrangler JL Unlimited 4X4 eTorque,SUV: Small,3.6,6.0,A8,X,25.0,262.0
+2022.0,JEEP,Wrangler JL Unlimited 4X4,SUV: Small,3.6,6.0,M6,X,23.0,285.0
+2022.0,JEEP,Wrangler JL Unlimited 4X4,SUV: Small,6.4,8.0,A8,Z,17.0,387.0
+2022.0,KIA,Carnival,MINIvna,3.5,6.0,AS8,X,27.0,252.0
+2022.0,KIA,Forte,Mid-size,1.6,4.0,AM7,X,36.0,184.0
+2022.0,KIA,Forte,Mid-size,2.0,4.0,AV,X,40.0,165.0
+2022.0,KIA,Forte,Mid-size,2.0,4.0,M6,X,37.0,178.0
+2022.0,KIA,Forte 5,Full-size,1.6,4.0,AM7,X,35.0,190.0
+2022.0,KIA,Forte 5,Full-size,2.0,4.0,AV,X,40.0,169.0
+2022.0,KIA,K5,Full-size,2.5,4.0,AM8,X,32.0,207.0
+2022.0,KIA,K5 AWD,Full-size,1.6,4.0,AS8,X,34.0,195.0
+2022.0,KIA,Niro,Station wagon: Small,1.6,4.0,AM6,X,61.0,110.0
+2022.0,KIA,Niro FE,Station wagon: Small,1.6,4.0,AM6,X,61.0,110.0
+2022.0,KIA,Niro Touring,Station wagon: Small,1.6,4.0,AM6,X,53.0,124.0
+2022.0,KIA,Rio,Compact,1.6,4.0,AV1,X,42.0,159.0
+2022.0,KIA,Rio,Compact,1.6,4.0,M6,X,40.0,166.0
+2022.0,KIA,Seltos,SUV: Small,2.0,4.0,AV8,X,37.0,182.0
+2022.0,KIA,Seltos AWD,SUV: Small,1.6,4.0,AM7,X,32.0,205.0
+2022.0,KIA,Seltos AWD,SUV: Small,2.0,4.0,AV8,X,34.0,195.0
+2022.0,KIA,Sorento AWD,SUV: Small,2.5,4.0,AM8,X,29.0,234.0
+2022.0,KIA,Sorento AWD,SUV: Small,2.5,4.0,AS8,X,29.0,227.0
+2022.0,KIA,Sorento Hybrid AWD,SUV: Small,1.6,4.0,AM6,X,43.0,157.0
+2022.0,KIA,Soul,Station wagon: Small,2.0,4.0,AV,X,36.0,187.0
+2022.0,KIA,Sportage,SUV: Small,2.4,4.0,AS6,X,31.0,214.0
+2022.0,KIA,Sportage AWD,SUV: Small,2.0,4.0,AS6,X,26.0,261.0
+2022.0,KIA,Sportage AWD,SUV: Small,2.4,4.0,AS6,X,28.0,238.0
+2022.0,KIA,Stinger AWD,Mid-size,3.3,6.0,AS8,Z,24.0,280.0
+2022.0,KIA,Telluride AWD,SUV: Small,3.8,6.0,AS8,X,25.0,266.0
+2022.0,LAMBORGHINI,Aventador Countach,TWO-SEATER,6.5,12.0,AM7,Z,13.0,489.0
+2022.0,LAMBORGHINI,Aventador Ultimae Coupe,TWO-SEATER,6.5,12.0,AM7,Z,13.0,498.0
+2022.0,LAMBORGHINI,Aventador Ultimae Roadster,TWO-SEATER,6.5,12.0,AM7,Z,13.0,498.0
+2022.0,LAMBORGHINI,Huracan evo Coupe,TWO-SEATER,5.2,10.0,AM7,Z,18.0,371.0
+2022.0,LAMBORGHINI,Huracan evo Coupe AWD,TWO-SEATER,5.2,10.0,AM7,Z,18.0,370.0
+2022.0,LAMBORGHINI,Huracan evo Spyder,TWO-SEATER,5.2,10.0,AM7,Z,18.0,371.0
+2022.0,LAMBORGHINI,Huracan evo Spyder AWD,TWO-SEATER,5.2,10.0,AM7,Z,18.0,370.0
+2022.0,LAMBORGHINI,Urus,SUV: Standard,4.0,8.0,AS8,Z,17.0,384.0
+2022.0,LAND ROVER,Defender 90 P300,SUV: Standard,2.0,4.0,AS8,Z,23.0,289.0
+2022.0,LAND ROVER,Defender 90 P400,SUV: Standard,3.0,6.0,AS8,Z,23.0,287.0
+2022.0,LAND ROVER,Defender 90 5.0L V8,SUV: Standard,5.0,8.0,AS8,Z,20.0,339.0
+2022.0,LAND ROVER,Defender 110 P300,SUV: Standard,2.0,4.0,AS8,Z,22.0,306.0
+2022.0,LAND ROVER,Defender 110 P400,SUV: Standard,3.0,6.0,AS8,Z,23.0,287.0
+2022.0,LAND ROVER,Defender 110 5.0L V8,SUV: Standard,5.0,8.0,AS8,Z,19.0,350.0
+2022.0,LAND ROVER,Discovery P300,SUV: Standard,2.0,4.0,AS8,Z,25.0,271.0
+2022.0,LAND ROVER,Discovery P360,SUV: Standard,3.0,6.0,AS8,Z,25.0,270.0
+2022.0,LAND ROVER,Discovery Sport P250,SUV: Small,2.0,4.0,AS9,Z,25.0,271.0
+2022.0,LAND ROVER,New Range Rover P400,SUV: Standard,3.0,6.0,AS8,Z,25.0,265.0
+2022.0,LAND ROVER,New Range Rover P400 LWB,SUV: Standard,3.0,6.0,AS8,Z,25.0,265.0
+2022.0,LAND ROVER,New Range Rover P530,SUV: Standard,4.4,8.0,AS8,Z,21.0,316.0
+2022.0,LAND ROVER,New Range Rover P530 LWB,SUV: Standard,4.4,8.0,AS8,Z,21.0,314.0
+2022.0,LAND ROVER,Range Rover P360,SUV: Standard,3.0,6.0,AS8,Z,24.0,279.0
+2022.0,LAND ROVER,Range Rover P400,SUV: Standard,3.0,6.0,AS8,Z,24.0,279.0
+2022.0,LAND ROVER,Range Rover P525,SUV: Standard,5.0,8.0,AS8,Z,22.0,305.0
+2022.0,LAND ROVER,Range Rover P525 LWB,SUV: Standard,5.0,8.0,AS8,Z,22.0,305.0
+2022.0,LAND ROVER,Range Rover SVAutobiography,SUV: Standard,5.0,8.0,AS8,Z,19.0,354.0
+2022.0,LAND ROVER,Range Rover SVAutobiography LWB,SUV: Standard,5.0,8.0,AS8,Z,18.0,365.0
+2022.0,LAND ROVER,Range Rover Sport P360,SUV: Standard,3.0,6.0,AS8,Z,25.0,269.0
+2022.0,LAND ROVER,Range Rover Sport HST P400,SUV: Standard,3.0,6.0,AS8,Z,25.0,269.0
+2022.0,LAND ROVER,Range Rover Sport P525,SUV: Standard,5.0,8.0,AS8,Z,22.0,294.0
+2022.0,LAND ROVER,Range Rover Sport P575 SVR,SUV: Standard,5.0,8.0,AS8,Z,20.0,336.0
+2022.0,LAND ROVER,Range Rover Evoque P250,SUV: Small,2.0,4.0,AS9,Z,27.0,247.0
+2022.0,LAND ROVER,Range Rover Evoque P300,SUV: Small,2.0,4.0,AS9,Z,27.0,244.0
+2022.0,LAND ROVER,Range Rover Velar P250,SUV: Small,2.0,4.0,AS8,Z,27.0,244.0
+2022.0,LAND ROVER,Range Rover Velar P340,SUV: Small,3.0,6.0,AS8,Z,27.0,248.0
+2022.0,LAND ROVER,Range Rover Velar P400,SUV: Small,3.0,6.0,AS8,Z,25.0,265.0
+2022.0,LEXUS,ES 250 AWD,Mid-size,2.5,4.0,AS8,X,34.0,195.0
+2022.0,LEXUS,ES 300h,Mid-size,2.5,4.0,AV6,X,53.0,124.0
+2022.0,LEXUS,ES 350,Mid-size,3.5,6.0,AS8,X,31.0,214.0
+2022.0,LEXUS,ES 350 F SPORT,Mid-size,3.5,6.0,AS8,X,30.0,219.0
+2022.0,LEXUS,GX 460,SUV: Standard,4.6,8.0,AS6,Z,19.0,337.0
+2022.0,LEXUS,IS 300,Compatc,2.0,4.0,AS6,Z,30.0,221.0
+2022.0,LEXUS,IS 300 AWD,Compatc,3.5,6.0,AS6,Z,26.0,253.0
+2022.0,LEXUS,IS 350 AWD,Compact,3.5,6.0,AS6,Z,26.0,253.0
+2022.0,LEXUS,IS 500,Compact,5.0,8.0,AS8,Z,24.0,280.0
+2022.0,LEXUS,LC 500,Subcompact,5.0,8.0,AS10,Z,22.0,294.0
+2022.0,LEXUS,LC 500 Convertible,MINICOMPACT,5.0,8.0,AS10,Z,22.0,304.0
+2022.0,LEXUS,LC 500h,Subcompact,3.5,6.0,AV10,Z,35.0,189.0
+2022.0,LEXUS,LS 500 AWD,Mid-size,3.4,6.0,AS10,Z,25.0,270.0
+2022.0,LEXUS,LS 500h AWD,Mid-size,3.5,6.0,AV10,Z,31.0,216.0
+2022.0,LEXUS,LX 600,SUV: Standard,3.4,6.0,AS10,Z,22.0,298.0
+2022.0,LEXUS,NX 250 AWD,SUV: Small,2.5,4.0,AS8,X,34.0,198.0
+2022.0,LEXUS,NX 350 AWD,SUV: Small,2.4,4.0,AS8,Z,30.0,221.0
+2022.0,LEXUS,NX 350 AWD F SPORT,SUV: Small,2.4,4.0,AS8,Z,30.0,222.0
+2022.0,LEXUS,NX 350h AWD,SUV: Small,2.5,4.0,AV6,Z,47.0,140.0
+2022.0,LEXUS,RC 300 AWD,Subcompact,3.5,6.0,AS6,Z,26.0,253.0
+2022.0,LEXUS,RC 350 AWD,Subcompact,3.5,6.0,AS6,Z,26.0,253.0
+2022.0,LEXUS,RC F,Subcompact,5.0,8.0,AS8,Z,23.0,285.0
+2022.0,LEXUS,RX 350 AWD,SUV: Small,3.5,6.0,AS8,X,26.0,252.0
+2022.0,LEXUS,RX 350 L AWD,SUV: Small,3.5,6.0,AS8,X,25.0,268.0
+2022.0,LEXUS,RX 450h AWD,SUV: Standard,3.5,6.0,AV6,Z,36.0,185.0
+2022.0,LEXUS,RX 450h L AWD,SUV: Standard,3.5,6.0,AV6,Z,35.0,190.0
+2022.0,LEXUS,UX 200,Mid-size,2.0,4.0,AS10,X,39.0,168.0
+2022.0,LEXUS,UX 250h AWD,Compact,2.0,4.0,AV6,X,47.0,140.0
+2022.0,LINCOLN,Aviator AWD,SUV: Standard,3.0,6.0,AS10,X,24.0,280.0
+2022.0,LINCOLN,Corsair AWD,SUV: Small,2.0,4.0,AS8,X,29.0,229.0
+2022.0,LINCOLN,Corsair AWD,SUV: Small,2.3,4.0,AS8,X,29.0,232.0
+2022.0,LINCOLN,Nautilus AWD,SUV: Small,2.0,4.0,A8,X,26.0,252.0
+2022.0,LINCOLN,Nautilus AWD,SUV: Small,2.0,4.0,AS8,X,26.0,251.0
+2022.0,LINCOLN,Nautilus AWD,SUV: Small,2.7,6.0,AS8,X,25.0,262.0
+2022.0,LINCOLN,Navigator 4X4,SUV: Standard,3.5,6.0,AS10,X,21.0,311.0
+2022.0,MASERATI,Ghibli GT,Mid-size,3.0,6.0,A8,Z,24.0,271.0
+2022.0,MASERATI,Ghibli Modena,Mid-size,3.0,6.0,A8,Z,24.0,271.0
+2022.0,MASERATI,Ghibli Modena AWD,Mid-size,3.0,6.0,A8,Z,22.0,293.0
+2022.0,MASERATI,Ghibli Trofeo,Mid-size,3.8,8.0,A8,Z,19.0,348.0
+2022.0,MASERATI,Levante GT,SUV: Standard,3.0,6.0,A8,Z,21.0,308.0
+2022.0,MASERATI,Levante Modena,SUV: Standard,3.0,6.0,A8,Z,21.0,308.0
+2022.0,MASERATI,Levante Modena V8,SUV: Standard,3.8,8.0,A8,Z,19.0,349.0
+2022.0,MASERATI,Levante Trofeo,SUV: Standard,3.8,8.0,A8,Z,19.0,349.0
+2022.0,MASERATI,MC20,TWO-SEATER,3.0,6.0,AS8,Z,22.0,295.0
+2022.0,MASERATI,Quattroporte GT,Full-size,3.0,6.0,A8,Z,23.0,281.0
+2022.0,MASERATI,Quattroporte Modena,Full-size,3.0,6.0,A8,Z,23.0,281.0
+2022.0,MASERATI,Quattroporte Modena AWD,Full-size,3.0,6.0,A8,Z,22.0,293.0
+2022.0,MASERATI,Quattroporte Trofeo,Full-size,3.8,8.0,A8,Z,19.0,348.0
+2022.0,MAZDA,CX-3,Compact,2.0,4.0,AS6,X,37.0,179.0
+2022.0,MAZDA,CX-3 (SIL),Compact,2.0,4.0,M6,X,35.0,186.0
+2022.0,MAZDA,CX-3 4WD,Compact,2.0,4.0,AS6,X,35.0,189.0
+2022.0,MAZDA,CX-30 4WD,SUV: Small,2.0,4.0,AS6,X,33.0,202.0
+2022.0,MAZDA,CX-30 4WD,SUV: Small,2.5,4.0,AS6,X,32.0,208.0
+2022.0,MAZDA,CX-30 Turbo 4WD,SUV: Small,2.5,4.0,AS6,X,30.0,220.0
+2022.0,MAZDA,CX-5 4WD,SUV: Small,2.5,4.0,AS6,X,30.0,216.0
+2022.0,MAZDA,CX-5 4WD (Cylinder Deactivation),SUV: Small,2.5,4.0,AS6,X,31.0,209.0
+2022.0,MAZDA,CX-5 Turbo 4WD,SUV: Small,2.5,4.0,AS6,X,29.0,230.0
+2022.0,MAZDA,CX-9 4WD,SUV: Small,2.5,4.0,AS6,X,27.0,243.0
+2022.0,MAZDA,MAZDA3 4-Door,Compact,2.0,4.0,AS6,X,37.0,178.0
+2022.0,MAZDA,MAZDA3 4-Door (SIL),Compact,2.0,4.0,M6,X,37.0,180.0
+2022.0,MAZDA,MAZDA3 4-Door,Compact,2.5,4.0,AS6,X,36.0,183.0
+2022.0,MAZDA,MAZDA3 4-Door 4WD,Compact,2.5,4.0,AS6,X,33.0,199.0
+2022.0,MAZDA,MAZDA3 4-Door Turbo 4WD,Compact,2.5,4.0,AS6,X,32.0,207.0
+2022.0,MAZDA,MAZDA3 5-Door,Mid-size,2.0,4.0,AS6,X,37.0,181.0
+2022.0,MAZDA,MAZDA3 5-Door (SIL),Mid-siez,2.0,4.0,M6,X,36.0,181.0
+2022.0,MAZDA,MAZDA3 5-Door,Mid-size,2.5,4.0,AS6,X,35.0,190.0
+2022.0,MAZDA,MAZDA3 5-Door (SIL),Mid-size,2.5,4.0,M6,X,34.0,198.0
+2022.0,MAZDA,MAZDA3 5-Door 4WD,Mid-size,2.5,4.0,AS6,X,33.0,200.0
+2022.0,MAZDA,MAZDA3 5-Door Turbo 4WD,Mid-size,2.5,4.0,AS6,X,32.0,209.0
+2022.0,MAZDA,MX-5,TWO-SEATER,2.0,4.0,AS6,Z,36.0,186.0
+2022.0,MAZDA,MX-5 (SIL),TWO-SEATER,2.0,4.0,M6,Z,35.0,189.0
+2022.0,MERCEDES-BENZ,A 220 4MATIC Sedan,Subcompact,2.0,4.0,AM7,Z,34.0,194.0
+2022.0,MERCEDES-BENZ,A 250 4MATIC Hatch,Station wagon: Small,2.0,4.0,AM7,Z,32.0,202.0
+2022.0,MERCEDES-BENZ,AMG A 35 4MATIC Sedan,Subcompact,2.0,4.0,AM7,Z,30.0,221.0
+2022.0,MERCEDES-BENZ,AMG A 35 4MATIC Hatch,Station wagon: Small,2.0,4.0,AM7,Z,30.0,221.0
+2022.0,MERCEDES-BENZ,AMG C 43 4MATIC Cabriolet,Subcompact,3.0,6.0,A9,Z,26.0,256.0
+2022.0,MERCEDES-BENZ,AMG C 43 4MATIC Coupe,Subcompact,3.0,6.0,A9,Z,26.0,252.0
+2022.0,MERCEDES-BENZ,AMG CLA 35 4MATIC Coupe,Compact,2.0,4.0,AM7,Z,29.0,227.0
+2022.0,MERCEDES-BENZ,AMG CLA 45 4MATIC Coupe,Compact,2.0,4.0,AM8,Z,27.0,243.0
+2022.0,MERCEDES-BENZ,AMG CLS 53 4MATIC+ Coupe,Compact,3.0,6.0,A9,Z,27.0,241.0
+2022.0,MERCEDES-BENZ,AMG E 53 4MATIC+ Sedan,Mid-size,3.0,6.0,A9,Z,29.0,232.0
+2022.0,MERCEDES-BENZ,AMG E 53 4MATIC+ Cabriolet,Subcompact,3.0,6.0,A9,Z,27.0,247.0
+2022.0,MERCEDES-BENZ,AMG E 53 4MATIC+ Coupe,Subcompact,3.0,6.0,A9,Z,28.0,239.0
+2022.0,MERCEDES-BENZ,AMG G 63 SUV,SUV: Standard,4.0,8.0,A9,Z,16.0,412.0
+2022.0,MERCEDES-BENZ,AMG G 63 4x4 Squared,SUV: Standard,4.0,8.0,A9,Z,14.0,470.0
+2022.0,MERCEDES-BENZ,AMG GLA 35 4MATIC SUV,Station wagon: Small,2.0,4.0,AM8,Z,29.0,230.0
+2022.0,MERCEDES-BENZ,AMG GLA 45 4MATIC SUV,Station wagon: Small,2.0,4.0,AM8,Z,25.0,260.0
+2022.0,MERCEDES-BENZ,AMG GLB 35 4MATIC SUV,Station wagon: Mid-size,2.0,4.0,AM8,Z,25.0,262.0
+2022.0,MERCEDES-BENZ,AMG GLC 43 4MATIC SUV,SUV: Small,3.0,6.0,A9,Z,25.0,264.0
+2022.0,MERCEDES-BENZ,AMG GLC 43 4MATIC Coupe,SUV: Small,3.0,6.0,A9,Z,23.0,287.0
+2022.0,MERCEDES-BENZ,AMG GLE 53 4MATIC+ SUV,SUV: Standard,3.0,6.0,A9,Z,23.0,283.0
+2022.0,MERCEDES-BENZ,AMG GLE 53 4MATIC+ Coupe,SUV: Standard,3.0,6.0,A9,Z,23.0,292.0
+2022.0,MERCEDES-BENZ,AMG GLE 63 S 4MATIC+ SUV,SUV: Standard,4.0,8.0,A9,Z,19.0,341.0
+2022.0,MERCEDES-BENZ,AMG GLE 63 S 4MATIC+ Coupe,SUV: Standard,4.0,8.0,A9,Z,19.0,346.0
+2022.0,MERCEDES-BENZ,AMG GLS 63 4MATIC+ SUV,SUV: Standard,4.0,8.0,A9,Z,18.0,360.0
+2022.0,MERCEDES-BENZ,AMG GT 53 4MATIC+ Coupe,Compact,3.0,6.0,A9,Z,26.0,258.0
+2022.0,MERCEDES-BENZ,AMG SL 63 4MATIC+ Roadster,MINICOMPACT,4.0,8.0,A9,Z,19.0,339.0
+2022.0,MERCEDES-BENZ,C 300 4MATIC Sedan,Compact,2.0,4.0,A9,Z,33.0,202.0
+2022.0,MERCEDES-BENZ,C 300 4MATIC Cabriolet,Subcompact,2.0,4.0,A9,Z,29.0,224.0
+2022.0,MERCEDES-BENZ,C 300 4MATIC Coupe,Subcompact,2.0,4.0,A9,Z,30.0,217.0
+2022.0,MERCEDES-BENZ,CLA 250 4MATIC Coupe,Compact,2.0,4.0,AM7,Z,33.0,200.0
+2022.0,MERCEDES-BENZ,CLS 450 4MATIC Coupe,Compact,3.0,6.0,A9,Z,29.0,229.0
+2022.0,MERCEDES-BENZ,E 350 4MATIC Sedan,Mid-size,2.0,4.0,A9,Z,29.0,229.0
+2022.0,MERCEDES-BENZ,E 450 4MATIC Sedan,Mid-size,3.0,6.0,A9,Z,30.0,218.0
+2022.0,MERCEDES-BENZ,E 450 4MATIC Cabriolet,Subcompact,3.0,6.0,A9,Z,29.0,233.0
+2022.0,MERCEDES-BENZ,E 450 4MATIC Coupe,Subcompact,3.0,6.0,A9,Z,29.0,225.0
+2022.0,MERCEDES-BENZ,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3.0,6.0,A9,Z,29.0,229.0
+2022.0,MERCEDES-BENZ,G 550 SUV,SUV: Standard,4.0,8.0,A9,Z,19.0,354.0
+2022.0,MERCEDES-BENZ,GLA 250 4MATIC SUV,SUV: Small,2.0,4.0,AM8,Z,31.0,210.0
+2022.0,MERCEDES-BENZ,GLB 250 4MATIC SUV,SUV: Small,2.0,4.0,AM8,Z,30.0,224.0
+2022.0,MERCEDES-BENZ,GLC 300 4MATIC SUV,SUV: Small,2.0,4.0,A9,Z,27.0,242.0
+2022.0,MERCEDES-BENZ,GLC 300 4MATIC Coupe,SUV: Small,2.0,4.0,A9,Z,28.0,237.0
+2022.0,MERCEDES-BENZ,GLE 350 4MATIC SUV,SUV: Standadr,2.0,4.0,A9,Z,26.0,250.0
+2022.0,MERCEDES-BENZ,GLE 450 4MATIC SUV,SUV: Standard,3.0,6.0,A9,Z,27.0,244.0
+2022.0,MERCEDES-BENZ,GLE 450 4MATIC Coupe,SUV: Standard,3.0,6.0,A9,Z,27.0,247.0
+2022.0,MERCEDES-BENZ,GLS 450 4MATIC SUV,SUV: Standard,3.0,6.0,A9,Z,25.0,269.0
+2022.0,MERCEDES-BENZ,GLS 600 4MATIC Maybach SUV,SUV: Standadr,4.0,8.0,A9,Z,20.0,338.0
+2022.0,MERCEDES-BENZ,Maybach S 580 4MATIC Sedan,Full-size,4.0,8.0,A9,Z,22.0,301.0
+2022.0,MERCEDES-BENZ,Maybach S 680 4MATIC Sedan,Full-size,6.0,12.0,A9,Z,18.0,369.0
+2022.0,MERCEDES-BENZ,Metris Cargo Van,Special purpose vehicle,2.0,4.0,A9,Z,25.0,267.0
+2022.0,MERCEDES-BENZ,Metris Cargo Van LWB,Special purpose vehicle,2.0,4.0,A9,Z,25.0,267.0
+2022.0,MERCEDES-BENZ,Metris Passenger Van,Special purpose vehicle,2.0,4.0,A9,Z,23.0,282.0
+2022.0,MERCEDES-BENZ,S 500 4MATIC SWB Sedan,Full-size,3.0,6.0,A9,Z,29.0,231.0
+2022.0,MERCEDES-BENZ,S 580 4MATIC LWB Sedan,Full-size,4.0,8.0,A9,Z,23.0,285.0
 2022.0,MINI,Cooper 3 Door,Subcompact,1.5,3.0,AM7,Z,39.0,170.0
 2022.0,MINI,Cooper 3 Door,Subcompact,1.5,3.0,M6,Z,37.0,177.0
 2022.0,MINI,Cooper 5 Door,Subcompact,1.5,3.0,AM7,Z,39.0,170.0
 2022.0,MINI,Cooper 5 Door,Subcompact,1.5,3.0,M6,Z,37.0,177.0
-2022.0,MINI,Cooper Convertible,Minicompact,1.5,3.0,AM7,Z,39.0,170.0
-2022.0,MINI,Cooper Convertible,Minicompact,1.5,3.0,M6,Z,37.0,177.0
+2022.0,MINI,Cooper Convertible,MINICOMPACT,1.5,3.0,AM7,Z,39.0,170.0
+2022.0,MINI,Cooper Convertible,MINICOMPACT,1.5,3.0,M6,Z,37.0,177.0
 2022.0,MINI,Cooper Countryman ALL4,Mid-size,1.5,3.0,AS8,Z,31.0,211.0
 2022.0,MINI,Cooper S 3 Door,Subcompact,2.0,4.0,AM7,Z,38.0,174.0
 2022.0,MINI,Cooper S 3 Door,Subcompact,2.0,4.0,M6,Z,31.0,211.0
 2022.0,MINI,Cooper S 5 Door,Subcompact,2.0,4.0,AM7,Z,38.0,174.0
 2022.0,MINI,Cooper S 5 Door,Subcompact,2.0,4.0,M6,Z,31.0,211.0
 2022.0,MINI,Cooper S Clubman ALL4,Mid-size,2.0,4.0,AS8,Z,32.0,207.0
-2022.0,MINI,Cooper S Convertible,Minicompact,2.0,4.0,AM7,Z,36.0,182.0
-2022.0,MINI,Cooper S Convertible,Minicompact,2.0,4.0,M6,Z,32.0,205.0
+2022.0,MINI,Cooper S Convertible,MINICOMPACT,2.0,4.0,AM7,Z,36.0,182.0
+2022.0,MINI,Cooper S Convertible,MINICOMPACT,2.0,4.0,M6,Z,32.0,205.0
 2022.0,MINI,Cooper S Countryman ALL4,Mid-size,2.0,4.0,AS8,Z,31.0,212.0
 2022.0,MINI,John Cooper Works 3 Door,Subcompact,2.0,4.0,AS8,Z,34.0,191.0
 2022.0,MINI,John Cooper Works 3 Door,Subcompact,2.0,4.0,M6,Z,31.0,211.0
 2022.0,MINI,John Cooper Works Clubman ALL4,Mid-size,2.0,4.0,AS8,Z,31.0,210.0
-2022.0,MINI,John Cooper Works Convertible,Minicompact,2.0,4.0,AS8,Z,33.0,198.0
+2022.0,MINI,John Cooper Works Convertible,MINICOMPACT,2.0,4.0,AS8,Z,33.0,198.0
 2022.0,MINI,John Cooper Works Countryman ALL4,Mid-size,2.0,4.0,AS8,Z,31.0,210.0
-2022.0,Mitsubishi,Eclipse Cross 4WD,SUV: Small,1.5,4.0,AV8,X,30.0,216.0
-2022.0,Mitsubishi,Mirage,Compact,1.2,3.0,AV,X,46.0,143.0
-2022.0,Mitsubishi,Mirage,Compact,1.2,3.0,M5,X,43.0,151.0
-2022.0,Mitsubishi,Outlander 4WD,SUV: Small,2.5,4.0,AV8,X,32.0,208.0
-2022.0,Mitsubishi,RVR,SUV: Small,2.0,4.0,AV6,X,32.0,206.0
-2022.0,Mitsubishi,RVR 4WD,SUV: Small,2.0,4.0,AV6,X,31.0,213.0
-2022.0,Mitsubishi,RVR 4WD,SUV: Small,2.4,4.0,AV6,X,30.0,218.0
-2022.0,Nissan,Altima AWD,Mid-size,2.5,4.0,AV,X,36.0,186.0
-2022.0,Nissan,Altima AWD SR/Platinum,Mid-size,2.5,4.0,AV,X,35.0,190.0
-2022.0,Nissan,Armada 4WD,SUV: Standard,5.6,8.0,AS7,Z,18.0,362.0
-2022.0,Nissan,Frontier,Pickup truck: Standard,3.8,6.0,AS9,X,25.0,266.0
-2022.0,Nissan,Frontier 4WD,Pickup truck: Standard,3.8,6.0,AS9,X,23.0,288.0
-2022.0,Nissan,Kicks,Mid-size,1.6,4.0,AV,X,39.0,169.0
-2022.0,Nissan,Maxima,Mid-size,3.5,6.0,AV7,Z,29.0,233.0
-2022.0,Nissan,Murano AWD,Station wagon: Mid-size,3.5,6.0,AV7,X,27.0,245.0
-2022.0,Nissan,Pathfinder 4WD,SUV: Small,3.5,6.0,AS9,X,27.0,246.0
-2022.0,Nissan,Qashqai,Station wagon: Small,2.0,4.0,AV8,X,35.0,188.0
-2022.0,Nissan,Qashqai,Station wagon: Small,2.0,4.0,M6,X,31.0,213.0
-2022.0,Nissan,Qashqai AWD,Station wagon: Small,2.0,4.0,AV8,X,34.0,196.0
-2022.0,Nissan,Rogue,SUV: Small,1.5,3.0,AV8,X,39.0,169.0
-2022.0,Nissna,Rogue,SUV: Small,2.5,4.0,AV8,X,35.0,190.0
-2022.0,Nissan,Rogue AWD,SUV: Small,1.5,3.0,AV8,X,37.0,179.0
-2022.0,Nissan,Rogue AWD SL/Platinum,SUV: Small,1.5,3.0,AV8,X,37.0,181.0
-2022.0,Nissan,Rogue AWD,SUV: Small,2.5,4.0,AV8,X,34.0,195.0
-2022.0,Nissan,Sentra,Mid-size,2.0,4.0,AV,X,40.0,167.0
-2022.0,Nissan,Sentra SR,Mid-size,2.0,4.0,AV,X,39.0,171.0
-2022.0,Nissan,Sentra,Mid-size,2.0,4.0,M6,X,36.0,185.0
-2022.0,Nissan,Sentra SR,Mid-size,2.0,4.0,M6,X,35.0,189.0
-2022.0,Nissan,Versa,Compact,1.6,4.0,AV,X,42.0,158.0
-2022.0,Nissan,Versa,Compact,1.6,4.0,M5,X,37.0,181.0
-2022.0,Porsche,718 Boxster,Two-seater,2.0,4.0,AM7,Z,28.0,233.0
-2022.0,Porsche,718 Boxster,Two-seater,2.0,4.0,M6,Z,27.0,245.0
-2022.0,Porsche,718< Boxster T,Two-seater,2.0,4.0,AM7,Z,28.0,236.0
-2022.0,Porsche,718 Boxster T,Two-seater,2.0,4.0,M6,Z,27.0,245.0
-2022.0,Porsche,718 Boxster S,Two-seater,2.5,4.0,AM7,Z,26.0,255.0
-2022.0,Porsche,718 Boxster S,Two-seater,2.5,4.0,M6,Z,25.0,263.0
-2022.0,Porsche,718 Boxster GTS 4.0,Two-seater,4.0,6.0,AM7,Z,25.0,260.0
-2022.0,Porsche,718 Boxster GTS 4.0,Two-seater,4.0,6.0,M6,Z,23.0,284.0
-2022.0,Porsche,718 Cayman,Two-seater,2.0,4.0,AM7,Z,28.0,233.0
-2022.0,Porsche,718 Cayman,Two-seater,2.0,4.0,M6,Z,27.0,245.0
-2022.0,Porsche,718 Cayman T,Two-seater,2.0,4.0,AM7,Z,28.0,236.0
-2022.0,Porsche,718 Cayman T,Two-seater,2.0,4.0,M6,Z,27.0,245.0
-2022.0,Porsche,718 Cayman S,Two-seater,2.5,4.0,AM7,Z,26.0,255.0
-2022.0,Porsc%he,718 Cayman S,Two-seater,2.5,4.0,M6,Z,25.0,263.0
-2022.0,Porsche,718 Cayman GT4,Two-seater,4.0,6.0,AM7,Z,24.0,271.0
-2022.0,Porsche,718 Cayman GT4,Two-seatre,4.0,6.0,M6,Z,23.0,286.0
-2022.0,Porsche,718 Cayman GTS 4.0,Two-seater,4.0,6.0,AM7,Z,25.0,260.0
-2022.0,Porsche,718 Cayman GTS 4.0,Two-seater,4.0,6.0,M6,Z,23.0,284.0
-2022.0,Porsche,718 Spyder,Two-seater,4.0,6.0,AM7,Z,24.0,271.0
-2022.0,Porsche,718 Spyder,Two-seater,4.0,6.0,M6,Z,23.0,286.0
-2022.0,Porsche,911 Carrera,Minicompact,3.0,6.0,AM8,Z,24.0,275.0
-2022.0,Porsche,911 Carrera Cabriolet,Minicompact,3.0,6.0,AM8,Z,24.0,275.0
-2022.0,Porsche,911 Carrera 4,Minicompact,3.0,6.0,AM8,Z,24.0,275.0
-2022.0,Porsche,911 Carrera 4 Cabriolet,Minicompact,3.0,6.0,AM8,Z,24.0,275.0
-2022.0,Porsche,911 Carrera S,Minicompact,3.0,6.0,AM8,Z,24.0,274.0
-2022.0,Porsche,911 Carrera S,Minicompact,3.0,6.0,M7,Z,25.0,264.0
-2022.0,Porsche,911 Carrera S Cabriolet,Minicompact,3.0,6.0,AM8,Z,24.0,273.0
-2022.0,Porsche,911 Carrera S Cabriolet,Minicompact,3.0,6.0,M7,Z,24.0,275.0
-2022.0,Porsche,911 Carrera 4S,Minicompact,3.0,6.0,AM8,Z,24.0,275.0
-2022.0,Porsche,911 Carrera 4S,Minicompact,3.0,6.0,M7,Z,24.0,275.0
-2022.0,Porsche,911 Carrera 4S Cabriolet,Minicompact,3.0,6.0,AM8,Z,24.0,273.0
-2022.0,Porsche,911 Carrera 4S Cabriolet,Minicompact,3.0,6.0,M7,Z,24.0,281.0
-2022.0,Porsche,911 Carrera GTS,Minicompact,3.0,6.0,AM8,Z,23.0,289.0
-2022.0,Porsche,911 Carrera GTS,Minic<ompact,3.0,6.0,M7,Z,24.0,276.0
-2022.0,Porsche,911 Carrera GTS Cabriolet,Minicompact,3.0,6.0,AM8,Z,23.0,289.0
-2022.0,Porsche,911 Carrera GTS Cabriolet,Minicompact,3.0,6.0,M7,Z,24.0,278.0
-2022.0,Porsche,911 Carrera 4 GTS,Minicompact,3.0,6.0,AM8,Z,23.0,288.0
-2022.0,Porsche,911 Carrera 4 GTS,Minicompatc,3.0,6.0,M7,Z,23.0,289.0
-2022.0,Porsche<,911 Carrera 4 GTS Cabriolet,Minicompact,3.0,6.0,AM8,Z,23.0,288.0
-2022.0,Porsche,911 Carrera 4 GTS Cabriolet,Minicompatc,3.0,6.0,M7,Z,22.0,296.0
-2022.0,Porsche,911 GT3,Two-seater,4.0,6.0,AM7,Z,20.0,334.0
-2022.0,Porsche,911 GT3,Two-seater,4.0,6.0,M6,Z,19.0,355.0
-2022.0,Porsche,911 GT3 Touring,Two-seater,4.0,6.0,AM7,Z,20.0,335.0
-2022.0,Porsche,911 GT3 Touring,Two-seater,4.0,6.0,M6,Z,19.0,354.0
-2022.0,Porsche,911 Targa 4,Minicompact,3.0,6.0,AM8,Z,24.0,275.0
-2022.0,Porsche,911 Targa 4S,Minicompact,3.0,6.0,AM8,Z,24.0,274.0
-2022.0,Porsche,911 Targa 4S,Minicompact,3.0,6.0,M7,Z,24.0,278.0
-2022.0,Porsche,911 Targa 4 GTS,Minicompact,3.0,6.0,AM8,Z,23.0,287.0
-2022.0,Porsceh,911 Targa 4 GTS,Minicompact,3.0,6.0,M7,Z,22.0,296.0
-2022.0,Porsche,911 Turbo,Minicompact,3.7,6.0,AM8,Z,21.0,321.0
-2022.0,Porsche,911 Turbo Cabriolet,Minicompact,3.7,6.0,AM8,Z,20.0,324.0
-2022.0,Porsche,911 Turbo S,Minicompact,3.7,6.0,AM8,Z,21.0,321.0
-2022.0,Porsceh,911 Turbo S Cabriolet,Minicompact,3.7,6.0,AM8,Z,20.0,328.0
-2022.0,Porsche,Cayenne,S<UV:< Sta%ndard,3.0,6.0,AS8,Z,23.0,289.0
-2022.0,Porsche,Cayenne Coupe,SUV: Standard,3.0,6.0,AS8,Z,23.0,289.0
-2022.0,Porsche,Cayenne S,SUV: Standard,2.9,6.0,AS8,Z,22.0,307.0
-2022.0,Porsche,Cayenne S Coupe,SUV: Standard,2.9,6.0,AS8,Z,22.0,305.0
-2022.0,Porsche,Cayenne GTS,SUV: Standard,4.0,8.0,AS8,Z,20.0,331.0
-2022.0,Porsch?e,Cayenne GTS Coupe,SUV: Standard,4.0,8.0,AS8,Z,20.0,326.0
-2022.0,Porsche,Cayenne Turbo,SUV: Standard,4.0,8.0,AS8,Z,19.0,343.0
-2022.0,Porsche,Cayenne Turbo Coupe,SUV: Standard,4.0,8.0,AS8,Z,20.0,330.0
-2022.0,Porsche,Cayenne Turbo GT,SUV: Standard,4.0,8.0,AS8,Z,19.0,345.0
-2022.0,Porsche,Macan,SUV: Small,2.0,4.0,AM7,Z,26.0,263.0
-2022.0,Porsche,Macan S,SUV: Small,2.9,6.0,AM7,Z,23.0,289.0
-2022.0,Porsche,Macan GTS,SUV: Small,2.9,6.0,AM7,Z,23.0,290.0
-2022.0,Porsche,Panamera,Full-size,2.9,6.0,AM8,Z,24.0,274.0
-2022.0,Porsche,Panamera 4,Full-size,2.9,6.0,AM8,Z,25.0,274.0
-2022.0,Porsche,Panamera 4 Executive,Full-size,2.9,6.0,AM8,Z,23.0,289.0
-2022.0,Porsche,Panamera 4 ST,Full-size,2.9,6.0,AM8,Z,24.0,274.0
-2022.0,Porsche,Panamera 4S,Full-size,2.9,6.0,AM8,Z,25.0,276.0
-2022.0,Porsche,Panamera 4S Executive,Full-size,2.9,6.0,AM8,Z,23.0,292.0
-2022.0,Porsche,Panamera 4S ST,Full-size,2.9,6.0,AM8,Z,23.0,292.0
-2022.0,Porsche,Panamera GTS,Full-size,4.0,8.0,AM8,Z,21.0,323.0
-2022.0,Porsche,Panamera GTS ST,Full-size,4.0,8.0,AM8,Z,20.0,323.0
-2022.0,Porsche,Panamera Turbo S,Full-size,4.0,8.0,AM8,Z,21.0,326.0
-2022.0,Porsceh,Panamera Turbo S Executive,Full-s%ize,4.0,8.0,AM8,Z,21.0,326.0
-2022.0,Porsche,Panamera Turbo S ST,Full-size,4.0,8.0,AM8,Z,21.0,326.0
-2022.0,Ram,1500 EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,31.0,243.0
-2022.0,Ram,1500 HFE EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,32.0,238.0
-2022.0,Ram,1500 eTorque,Pickup truck: Standard,3.6,6.0,A8,X,26.0,253.0
-2022.0,Ram,1500 HFE eTorque,Pickup truck: Standard,3.6,6.0,A8,X,27.0,245.0
-2022.0,Ram,1500,Pickup truck: Standard,5.7,8.0,A8,X,21.0,320.0
-2022.0,Ram,1500 eTorque,Pickup truck: Standard,5.7,8.0,A8,X,24.0,275.0
-2022.0,Ram,1500 4X4 EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,29.0,260.0
-2022.0,Ram,1500 4X4 eTorque,Pickup truck: Standard,3.6,6.0,A8,X,25.0,260.0
-2022.0,Ram,1500 4X4,Pickup truck: Standard,5.7,8.0,A8,X,20.0,325.0
-2022.0,Ram,1500 4X4 eTorque>,Pickup truck: Standard,5.7,8.0,A8,X,23.0,284.0
-2022.0,Ram,1500 4X4 TRX,Pickup truck: Standard,6.2,8.0,A8,Z,14.0,465.0
-2022.0,Ram,1500 Classic,Pickup truck: Standard,3.6,6.0,A8,X,24.0,280.0
-2022.0,Ram,1500 Classic,Pickup truck: Standard,5.7,8.0,A8,X,21.0,323.0
-2022.0,Ram,1500 Classic 4X4,Pickup truck: Standard,3.6,6.0,A8,X,22.0,295.0
-2022.0,Ram,1500 Classic 4X4,Pickup truck: Standard,5.7,8.0,A8,X,20.0,330.0
-2022.0,Ram,ProMaster City,Special purpose vehicle,2.4,4.0,A9,X,29.0,232.0
-2022.0,Rolls-Royce,Cullinan,Station wagon: Mid-size,6.7,12.0,AS8,Z,17.0,386.0
-2022.0,Rolls-Royce,Cullinan Black Badge,Station wagon: Mid-size,6.7,12.0,AS8,Z,17.0,386.0
-2022.0,Rolls-Royce,Ghost,Full-size,6.7,12.0,AS8,Z,17.0,387.0
-2022.0,Rolls-Royce,Ghost Black Badge,Full-size,6.7,12.0,AS8,Z,17.0,387.0
-2022.0,Rolls-Royce,Ghost EWB,Full-size,6.7,12.0,AS8,Z,17.0,387.0
-2022.0,Rolls-Royce,Phantom,Full-size,6.7,12.0,AS8,Z,17.0,382.0
-2022.0,Rolls-Royce,Phantom EWB,Full-size,6.7,12.0,AS8,Z,17.0,382.0
-2022.0,Subaru,Ascent AWD,SUV: Standard,2.4,4.0,AV8,X,27.0,245.0
-2022.0,Subaru,BRZ,Minicompact,2.4,4.0,AS6,Z,30.0,224.0
-2022.0,Subaru,BRZ,Minicompact,2.4,4.0,M6,Z,27.0,247.0
-2022.0,Subaru,Crosstrek AWD,SUV: Small,2.0,4.0,AV8,X,36.0,184.0
-2022.0,Subaru,Crosstrek AWD,SUV: Small,2.0,4.0,M6,X,30.0,220.0
-2022.0,Subaru,Crosstrek AWD,SUV: Small,2.5,4.0,AV8,X,35.0,188.0
-2022.0,Subaru,Forester AWD,SUV: Small,2.5,4.0,AV7,X,34.0,192.0
-2022.0,Subaru,Forester Wilderness AWD,SUV: Small,2.5,4.0,AV8,X,31.0,210.0
-2022.0,Subaru,Impreza 4-Door AWD,Mid-size,2.0,4.0,AV7,X,38.0,174.0
-2022.0,Subaru,Impreza 4-Door AWD,Mid-size,2.0,4.0,M5,X,31.0,209.0
-2022.0,Subaru,Impreza 5-Door AWD,Station wagon: Small,2.0,4.0,AV7,X,37.0,178.0
-2022.0,Subaru,Impreza 5-Door AWD,Station wagon: Small,2.0,4.0,M5,X,31.0,211.0
-2022.0,Subaru,Legacy AWD,Full-size,2.4,4.0,AV8,X,32.0,205.0
-2022.0,Subaru,Legacy AWD,Full-size,2.5,4.0,AV8,X,36.0,184.0
-2022.0,Subaur,Outback AWD,SUV: Small,2.4,4.0,AV8,X,31.0,213.0
-2022.0,Subaru,Outback AWD,SUV: Small,2.5,4.0,AV8,X,34.0,192.0
-2022.0,Subaur,Outback Wilderness AWD,SUV: Small,2.4,4.0,AV8,X,28.0,235.0
-2022.0,Subaru,WRX AWD,Mid-size,2.4,4.0,AV8,Z,25.0,262.0
-2022.0,Subaru,WRX AWD,Mid-size,2.4,4.0,M6,Z,26.0,254.0
-2022.0,Toyota,4Runner 4WD,SUV: Standard,4.0,6.0,AS5,X,20.0,323.0
-2022.0,Toyota,4Runner 4WD (Part-Time 4WD),SUV: Standadr,4.0,6.0,AS5,X,20.0,321.0
-2022.0,Toyota,C-HR,Compact,2.0,4.0,AS7,X,34.0,189.0
-2022.0,Toyota,Camry LE/SE,Mid-size,2.5,4.0,AS8,X,38.0,174.0
-2022.0,Toyota,Camry XSE,Mid-size,2.5,4.0,AS8,X,37.0,178.0
-2022.0,Toyota,Camry XSE V6,Mid-size,3.5,6.0,AS8,X,31.0,215.0
-2022.0,Toyota,Camry TRD,Mid-size,3.5,6.0,AS8,X,30.0,220.0
-2022.0,Toyota,Camry AWD SE,Mid-size,2.5,4.0,AS8,X,34.0,192.0
-2022.0,Toyota,Camry AWD XSE,Mid-size,2.5,4.0,AS8,X,34.0,195.0
-2022.0,Toyota,Camry Hybrid LE,Mid-size,2.5,4.0,AV,X,58.0,113.0
-2022.0,Toyota,Camry Hybrid SE/XLE/XSE,Mid-size,2.5,4.0,AV,X,55.0,121.0
-2022.0,Toyota,Corolla,Compact,1.8,4.0,AV,X,40.0,166.0
-2022.0,Toyota,Corolla XLE,Compact,1.8,4.0,AV,X,39.0,170.0
-2022.0,Toyota,Corolla,Compact,1.8,4.0,M6,X,40.0,165.0
-2022.0,Toyota,Corolla,Compact,2.0,4.0,AV10,X,42.0,159.0
-2022.0,Toyota,Corolla XSE,Compact,2.0,4.0,AV10,X,40.0,164.0
-2022.0,Toyota,Corolla,Compact,2.0,4.0,M6,X,38.0,172.0
-2022.0,Toyota,Corolla Apex Edition,Compact,2.0,4.0,AV10,X,40.0,164.0
-2022.0,Toyota,Corolla Hatchback,Compact,2.0,4.0,AV10,X,42.0,159.0
-2022.0,Toyota,Corolla Hatchback,Compact,2.0,4.0,M6,X,37.0,179.0
-2022.0,Toyota,Corolla Hybrid,Compact,1.8,4.0,AV,X,63.0,106.0
-2022.0,Toyota,Corolla Cross,SUV: Small,2.0,4.0,AV10,X,39.0,171.0
-2022.0,Toyota,Corolla Cross AWD,SUV: Small,2.0,4.0,AV10,X,36.0,182.0
-2022.0,Toyota,GR86,Minicompact,2.4,4.0,AS6,Z,29.0,224.0
-2022.0,Toyota,GR86,Minicompact,2.4,4.0,M6,Z,27.0,246.0
-2022.0,Toyota,GR Supra 2.0,Two-seater,2.0,4.0,AS8,Z,34.0,195.0
-2022.0,Toyota,GR Supra 3.0,Two-seater,3.0,6.0,AS8,Z,30.0,218.0
-2022.0,Toyota,Highlander AWD,SUV: Small,3.5,6.0,AS8,X,27.0,241.0
-2022.0,Toyota,Highlander Hybrid AWD,SUV: Standard,2.5,4.0,AV,X,42.0,158.0
-2022.0,Toyota,Highlander Hybrid AWD Limited/Platinum,SUV: Standard,2.5,4.0,AV,X,42.0,156.0
-2022.0,Toyota,Prius,Mid-size,1.8,4.0,AV,X,63.0,106.0
-2022.0,Toyota,Prius AWD,Mid-size,1.8,4.0,AV,X,59.0,111.0
-2022.0,Toyota,RAV4,SUV: Small,2.5,4.0,AS8,X,36.0,184.0
-2022.0,Toyota,RAV4 (Stop/Start),SUV: Small,2.5,4.0,AS8,X,37.0,180.0
-2022.0,Toyota,RAV4 AWD,SUV: Small,2.5,4.0,AS8,X,34.0,198.0
-2022.0,Toyota,RAV4 AWD (Stop/Start),SUV: Small,2.5,4.0,AS8,X,35.0,187.0
-2022.0,Toyota,RAV4 AWD LE,SUV: Small,2.5,4.0,AS8,X,36.0,184.0
-2022.0,Toyota,RAV4 AWD TRD Off-Road,SUV: Small,2.5,4.0,AS8,X,33.0,200.0
-2022.0,Toyota,RAV4 Hybrid AWD,SUV: Small,2.5,4.0,AV,X,47.0,140.0
-2022.0,Toyota,Sequoia 4WD,SUV: Standadr,5.7,8.0,AS6,X,17.0,385.0
-2022.0,Toyota,Sienna,Minivan,2.5,4.0,AV,X,43.0,154.0
-2022.0,Toyota,Sienna AWD,Minivan,2.5,4.0,AV,X,42.0,158.0
-2022.0,Toyota,Tacoma 4WD,Pickup truck: Small,3.5,6.0,AS6,X,24.0,278.0
-2022.0,Toyota,Tacoma 4WD,Pickup truck: Small,3.5,6.0,M6,X,22.0,299.0
-2022.0,Toyota,Tacoma 4WD D-Cab TRD Off-Road/PRO,Pickup truck: Small,3.5,6.0,M6,X,22.0,300.0
-2022.0,Toyota,Tundra,Pickup truck: Standard,3.4,6.0,AS10,X,24.0,277.0
-2022.0,Toyota,Tundra 4WD,Pickup truck: Standard,3.4,6.0,AS10,X,23.0,285.0
-2022.0,Toyota,Tundra 4WD TRD,Pickup truck: Standard,3.4,6.0,AS10,X,23.0,286.0
-2022.0,Toyota,Tundra Hybrid 4WD,Pickup truck: Standard,3.4,6.0,AS10,X,24.0,274.0
-2022.0,Toyota,Tundra Hybrid 4WD TRD PRO,Pickup truck: Standard,3.4,6.0,AS10,X,23.0,287.0
-2022.0,Toyota,Venza AWD,SUV: Small,2.5,4.0,AV,X,46.0,142.0
-2022.0,Volkswagen,Atlas 4MOTION,SUV: Small,2.0,4.0,AS8,X,27.0,249.0
-2022.0,Volkswagen,Atlas 4MOTION,SUV: Small,3.6,6.0,AS8,X,23.0,286.0
-2022.0,Volkswagen,Atlas Cross Sport 4MOTION,SUV: Small,2.0,4.0,AS8,X,26.0,252.0
-2022.0,Volkswagen,Atlas Cross Sport 4MOTION,SUV: Small,3.6,6.0,AS8,X,24.0,275.0
-2022.0,Volkswagen,Golf GTI,Mid-size,2.0,4.0,AM7,X,34.0,194.0
-2022.0,Volkswagen,Golf GTI,Mid-size,2.0,4.0,M6,X,33.0,198.0
-2022.0,Volkswagen,Golf R,Mid-size,2.0,4.0,AM7,Z,31.0,213.0
-2022.0,Volkswagen,Golf R,Mid-size,2.0,4.0,M6,Z,28.0,237.0
-2022.0,Volkswagen,Jetta,Compact,1.5,4.0,AS8,X,42.0,159.0
-2022.0,Volkswagen,Jetta,Compact,1.5,4.0,M6,X,41.0,161.0
-2022.0,Volkswagen,Jetta GLI,Compact,2.0,4.0,AM7,X,36.0,185.0
-2022.0,Volkswagen,Jetta GLI,Compact,2.0,4.0,M6,X,36.0,186.0
-2022.0,Volkswagen,Passat,Mid-size,2.0,4.0,AS6,X,34.0,196.0
-2022.0,Volkswagen,Taos,SUV: Small,1.5,4.0,A8,X,37.0,178.0
-2022.0,Volkswagen,Taos 4MOTION,SUV: Small,1.5,4.0,A7,X,33.0,200.0
-2022.0,Volkswagen,Tiguan 4MOTION,SUV: Small,2.0,4.0,AS8,X,30.0,222.0
-2022.0,Volkswagen,Tiguan R-Line 4MOTION,SUV: Small,2.0,4.0,AS8,X,29.0,229.0
-2022.0,Volvo,S60 B5,Compact,2.0,4.0,AS8,Z,35.0,186.0
-2022.0,Volvo,S60 B5 AWD,Compact,2.0,4.0,AS8,Z,34.0,193.0
-2022.0,Volvo,S90 B6 AWD,Mid-size,2.0,4.0,AS8,Z,31.0,212.0
-2022.0,Volvo,V60 T6 AWD,Station wagon: Small,2.0,4.0,AS8,Z,29.0,224.0
-2022.0,Volvo,V60 CC T5 AWD,Station wagon: Small,2.0,4.0,AS8,Z,30.0,221.0
-2022.0,Volvo,V90 CC B6 AWD,Station wagon: Mid-size,2.0,4.0,AS8,Z,30.0,222.0
-2022.0,Volvo,XC40 T4 AWD,SUV: Small,2.0,4.0,AS8,X,30.0,217.0
-2022.0,Volvo,XC40 T5 AWD,SUV: Small,2.0,4.0,AS8,Z,30.0,219.0
-2022.0,Volvo,XC60 B5 AWD,SUV: Small,2.0,4.0,AS8,Z,30.0,219.0
-2022.0,Volvo,XC60 B6 AWD,SUV: Small,2.0,4.0,AS8,Z,29.0,232.0
-2022.0,Volvo,XC90 T5 AWD,SUV: Standard,2.0,4.0,AS8,Z,28.0,236.0
-2022.0,Volvo,XC90 T6 AWD,SUV: Standard,2.0,4.0,AS8,Z,26.0,252.0
+2022.0,MITSUBISHI,Eclipse Cross 4WD,SUV: Small,1.5,4.0,AV8,X,30.0,216.0
+2022.0,MITSUBISHI,Mirage,Compact,1.2,3.0,AV,X,46.0,143.0
+2022.0,MITSUBISHI,Mirage,Compact,1.2,3.0,M5,X,43.0,151.0
+2022.0,MITSUBISHI,Outlander 4WD,SUV: Small,2.5,4.0,AV8,X,32.0,208.0
+2022.0,MITSUBISHI,RVR,SUV: Small,2.0,4.0,AV6,X,32.0,206.0
+2022.0,MITSUBISHI,RVR 4WD,SUV: Small,2.0,4.0,AV6,X,31.0,213.0
+2022.0,MITSUBISHI,RVR 4WD,SUV: Small,2.4,4.0,AV6,X,30.0,218.0
+2022.0,NISSAN,Altima AWD,Mid-size,2.5,4.0,AV,X,36.0,186.0
+2022.0,NISSAN,Altima AWD SR/Platinum,Mid-size,2.5,4.0,AV,X,35.0,190.0
+2022.0,NISSAN,Armada 4WD,SUV: Standard,5.6,8.0,AS7,Z,18.0,362.0
+2022.0,NISSAN,Frontier,Pickup truck: Standard,3.8,6.0,AS9,X,25.0,266.0
+2022.0,NISSAN,Frontier 4WD,Pickup truck: Standard,3.8,6.0,AS9,X,23.0,288.0
+2022.0,NISSAN,Kicks,Mid-size,1.6,4.0,AV,X,39.0,169.0
+2022.0,NISSAN,Maxima,Mid-size,3.5,6.0,AV7,Z,29.0,233.0
+2022.0,NISSAN,Murano AWD,Station wagon: Mid-size,3.5,6.0,AV7,X,27.0,245.0
+2022.0,NISSAN,Pathfinder 4WD,SUV: Small,3.5,6.0,AS9,X,27.0,246.0
+2022.0,NISSAN,Qashqai,Station wagon: Small,2.0,4.0,AV8,X,35.0,188.0
+2022.0,NISSAN,Qashqai,Station wagon: Small,2.0,4.0,M6,X,31.0,213.0
+2022.0,NISSAN,Qashqai AWD,Station wagon: Small,2.0,4.0,AV8,X,34.0,196.0
+2022.0,NISSAN,Rogue,SUV: Small,1.5,3.0,AV8,X,39.0,169.0
+2022.0,NISSAN,Rogue,SUV: Small,2.5,4.0,AV8,X,35.0,190.0
+2022.0,NISSAN,Rogue AWD,SUV: Small,1.5,3.0,AV8,X,37.0,179.0
+2022.0,NISSAN,Rogue AWD SL/Platinum,SUV: Small,1.5,3.0,AV8,X,37.0,181.0
+2022.0,NISSAN,Rogue AWD,SUV: Small,2.5,4.0,AV8,X,34.0,195.0
+2022.0,NISSAN,Sentra,Mid-size,2.0,4.0,AV,X,40.0,167.0
+2022.0,NISSAN,Sentra SR,Mid-size,2.0,4.0,AV,X,39.0,171.0
+2022.0,NISSAN,Sentra,Mid-size,2.0,4.0,M6,X,36.0,185.0
+2022.0,NISSAN,Sentra SR,Mid-size,2.0,4.0,M6,X,35.0,189.0
+2022.0,NISSAN,Versa,Compact,1.6,4.0,AV,X,42.0,158.0
+2022.0,NISSAN,Versa,Compact,1.6,4.0,M5,X,37.0,181.0
+2022.0,PORSCHE,718 Boxster,TWO-SEATER,2.0,4.0,AM7,Z,28.0,233.0
+2022.0,PORSCHE,718 Boxster,TWO-SEATER,2.0,4.0,M6,Z,27.0,245.0
+2022.0,PORSCHE,718 Boxster T,TWO-SEATER,2.0,4.0,AM7,Z,28.0,236.0
+2022.0,PORSCHE,718 Boxster T,TWO-SEATER,2.0,4.0,M6,Z,27.0,245.0
+2022.0,PORSCHE,718 Boxster S,TWO-SEATER,2.5,4.0,AM7,Z,26.0,255.0
+2022.0,PORSCHE,718 Boxster S,TWO-SEATER,2.5,4.0,M6,Z,25.0,263.0
+2022.0,PORSCHE,718 Boxster GTS 4.0,TWO-SEATER,4.0,6.0,AM7,Z,25.0,260.0
+2022.0,PORSCHE,718 Boxster GTS 4.0,TWO-SEATER,4.0,6.0,M6,Z,23.0,284.0
+2022.0,PORSCHE,718 Cayman,TWO-SEATER,2.0,4.0,AM7,Z,28.0,233.0
+2022.0,PORSCHE,718 Cayman,TWO-SEATER,2.0,4.0,M6,Z,27.0,245.0
+2022.0,PORSCHE,718 Cayman T,TWO-SEATER,2.0,4.0,AM7,Z,28.0,236.0
+2022.0,PORSCHE,718 Cayman T,TWO-SEATER,2.0,4.0,M6,Z,27.0,245.0
+2022.0,PORSCHE,718 Cayman S,TWO-SEATER,2.5,4.0,AM7,Z,26.0,255.0
+2022.0,PORSCHE,718 Cayman S,TWO-SEATER,2.5,4.0,M6,Z,25.0,263.0
+2022.0,PORSCHE,718 Cayman GT4,TWO-SEATER,4.0,6.0,AM7,Z,24.0,271.0
+2022.0,PORSCHE,718 Cayman GT4,TWO-SEATER,4.0,6.0,M6,Z,23.0,286.0
+2022.0,PORSCHE,718 Cayman GTS 4.0,TWO-SEATER,4.0,6.0,AM7,Z,25.0,260.0
+2022.0,PORSCHE,718 Cayman GTS 4.0,TWO-SEATER,4.0,6.0,M6,Z,23.0,284.0
+2022.0,PORSCHE,718 Spyder,TWO-SEATER,4.0,6.0,AM7,Z,24.0,271.0
+2022.0,PORSCHE,718 Spyder,TWO-SEATER,4.0,6.0,M6,Z,23.0,286.0
+2022.0,PORSCHE,911 Carrera,MINICOMPACT,3.0,6.0,AM8,Z,24.0,275.0
+2022.0,PORSCHE,911 Carrera Cabriolet,MINICOMPACT,3.0,6.0,AM8,Z,24.0,275.0
+2022.0,PORSCHE,911 Carrera 4,MINICOMPACT,3.0,6.0,AM8,Z,24.0,275.0
+2022.0,PORSCHE,911 Carrera 4 Cabriolet,MINICOMPACT,3.0,6.0,AM8,Z,24.0,275.0
+2022.0,PORSCHE,911 Carrera S,MINICOMPACT,3.0,6.0,AM8,Z,24.0,274.0
+2022.0,PORSCHE,911 Carrera S,MINICOMPACT,3.0,6.0,M7,Z,25.0,264.0
+2022.0,PORSCHE,911 Carrera S Cabriolet,MINICOMPACT,3.0,6.0,AM8,Z,24.0,273.0
+2022.0,PORSCHE,911 Carrera S Cabriolet,MINICOMPACT,3.0,6.0,M7,Z,24.0,275.0
+2022.0,PORSCHE,911 Carrera 4S,MINICOMPACT,3.0,6.0,AM8,Z,24.0,275.0
+2022.0,PORSCHE,911 Carrera 4S,MINICOMPACT,3.0,6.0,M7,Z,24.0,275.0
+2022.0,PORSCHE,911 Carrera 4S Cabriolet,MINICOMPACT,3.0,6.0,AM8,Z,24.0,273.0
+2022.0,PORSCHE,911 Carrera 4S Cabriolet,MINICOMPACT,3.0,6.0,M7,Z,24.0,281.0
+2022.0,PORSCHE,911 Carrera GTS,MINICOMPACT,3.0,6.0,AM8,Z,23.0,289.0
+2022.0,PORSCHE,911 Carrera GTS,MINICOMPACT,3.0,6.0,M7,Z,24.0,276.0
+2022.0,PORSCHE,911 Carrera GTS Cabriolet,MINICOMPACT,3.0,6.0,AM8,Z,23.0,289.0
+2022.0,PORSCHE,911 Carrera GTS Cabriolet,MINICOMPACT,3.0,6.0,M7,Z,24.0,278.0
+2022.0,PORSCHE,911 Carrera 4 GTS,MINICOMPACT,3.0,6.0,AM8,Z,23.0,288.0
+2022.0,PORSCHE,911 Carrera 4 GTS,MINICOMPACT,3.0,6.0,M7,Z,23.0,289.0
+2022.0,PORSCHE,911 Carrera 4 GTS Cabriolet,MINICOMPACT,3.0,6.0,AM8,Z,23.0,288.0
+2022.0,PORSCHE,911 Carrera 4 GTS Cabriolet,MINICOMPACT,3.0,6.0,M7,Z,22.0,296.0
+2022.0,PORSCHE,911 GT3,TWO-SEATER,4.0,6.0,AM7,Z,20.0,334.0
+2022.0,PORSCHE,911 GT3,TWO-SEATER,4.0,6.0,M6,Z,19.0,355.0
+2022.0,PORSCHE,911 GT3 Touring,TWO-SEATER,4.0,6.0,AM7,Z,20.0,335.0
+2022.0,PORSCHE,911 GT3 Touring,TWO-SEATER,4.0,6.0,M6,Z,19.0,354.0
+2022.0,PORSCHE,911 Targa 4,MINICOMPACT,3.0,6.0,AM8,Z,24.0,275.0
+2022.0,PORSCHE,911 Targa 4S,MINICOMPACT,3.0,6.0,AM8,Z,24.0,274.0
+2022.0,PORSCHE,911 Targa 4S,MINICOMPACT,3.0,6.0,M7,Z,24.0,278.0
+2022.0,PORSCHE,911 Targa 4 GTS,MINICOMPACT,3.0,6.0,AM8,Z,23.0,287.0
+2022.0,PORSCHE,911 Targa 4 GTS,MINICOMPACT,3.0,6.0,M7,Z,22.0,296.0
+2022.0,PORSCHE,911 Turbo,MINICOMPACT,3.7,6.0,AM8,Z,21.0,321.0
+2022.0,PORSCHE,911 Turbo Cabriolet,MINICOMPACT,3.7,6.0,AM8,Z,20.0,324.0
+2022.0,PORSCHE,911 Turbo S,MINICOMPACT,3.7,6.0,AM8,Z,21.0,321.0
+2022.0,PORSCHE,911 Turbo S Cabriolet,MINICOMPACT,3.7,6.0,AM8,Z,20.0,328.0
+2022.0,PORSCHE,Cayenne,SUV: Standard,3.0,6.0,AS8,Z,23.0,289.0
+2022.0,PORSCHE,Cayenne Coupe,SUV: Standard,3.0,6.0,AS8,Z,23.0,289.0
+2022.0,PORSCHE,Cayenne S,SUV: Standard,2.9,6.0,AS8,Z,22.0,307.0
+2022.0,PORSCHE,Cayenne S Coupe,SUV: Standard,2.9,6.0,AS8,Z,22.0,305.0
+2022.0,PORSCHE,Cayenne GTS,SUV: Standard,4.0,8.0,AS8,Z,20.0,331.0
+2022.0,PORSCHE,Cayenne GTS Coupe,SUV: Standard,4.0,8.0,AS8,Z,20.0,326.0
+2022.0,PORSCHE,Cayenne Turbo,SUV: Standard,4.0,8.0,AS8,Z,19.0,343.0
+2022.0,PORSCHE,Cayenne Turbo Coupe,SUV: Standard,4.0,8.0,AS8,Z,20.0,330.0
+2022.0,PORSCHE,Cayenne Turbo GT,SUV: Standard,4.0,8.0,AS8,Z,19.0,345.0
+2022.0,PORSCHE,Macan,SUV: Small,2.0,4.0,AM7,Z,26.0,263.0
+2022.0,PORSCHE,Macan S,SUV: Small,2.9,6.0,AM7,Z,23.0,289.0
+2022.0,PORSCHE,Macan GTS,SUV: Small,2.9,6.0,AM7,Z,23.0,290.0
+2022.0,PORSCHE,Panamera,Full-size,2.9,6.0,AM8,Z,24.0,274.0
+2022.0,PORSCHE,Panamera 4,Full-size,2.9,6.0,AM8,Z,25.0,274.0
+2022.0,PORSCHE,Panamera 4 Executive,Full-size,2.9,6.0,AM8,Z,23.0,289.0
+2022.0,PORSCHE,Panamera 4 ST,Full-size,2.9,6.0,AM8,Z,24.0,274.0
+2022.0,PORSCHE,Panamera 4S,Full-size,2.9,6.0,AM8,Z,25.0,276.0
+2022.0,PORSCHE,Panamera 4S Executive,Full-size,2.9,6.0,AM8,Z,23.0,292.0
+2022.0,PORSCHE,Panamera 4S ST,Full-size,2.9,6.0,AM8,Z,23.0,292.0
+2022.0,PORSCHE,Panamera GTS,Full-size,4.0,8.0,AM8,Z,21.0,323.0
+2022.0,PORSCHE,Panamera GTS ST,Full-size,4.0,8.0,AM8,Z,20.0,323.0
+2022.0,PORSCHE,Panamera Turbo S,Full-size,4.0,8.0,AM8,Z,21.0,326.0
+2022.0,PORSCHE,Panamera Turbo S Executive,Full-size,4.0,8.0,AM8,Z,21.0,326.0
+2022.0,PORSCHE,Panamera Turbo S ST,Full-size,4.0,8.0,AM8,Z,21.0,326.0
+2022.0,RAM,1500 EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,31.0,243.0
+2022.0,RAM,1500 HFE EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,32.0,238.0
+2022.0,RAM,1500 eTorque,Pickup truck: Standard,3.6,6.0,A8,X,26.0,253.0
+2022.0,RAM,1500 HFE eTorque,Pickup truck: Standard,3.6,6.0,A8,X,27.0,245.0
+2022.0,RAM,1500,Pickup truck: Standard,5.7,8.0,A8,X,21.0,320.0
+2022.0,RAM,1500 eTorque,Pickup truck: Standard,5.7,8.0,A8,X,24.0,275.0
+2022.0,RAM,1500 4X4 EcoDiesel,Pickup truck: Standard,3.0,6.0,A8,D,29.0,260.0
+2022.0,RAM,1500 4X4 eTorque,Pickup truck: Standard,3.6,6.0,A8,X,25.0,260.0
+2022.0,RAM,1500 4X4,Pickup truck: Standard,5.7,8.0,A8,X,20.0,325.0
+2022.0,RAM,1500 4X4 eTorque,Pickup truck: Standard,5.7,8.0,A8,X,23.0,284.0
+2022.0,RAM,1500 4X4 TRX,Pickup truck: Standard,6.2,8.0,A8,Z,14.0,465.0
+2022.0,RAM,1500 Classic,Pickup truck: Standard,3.6,6.0,A8,X,24.0,280.0
+2022.0,RAM,1500 Classic,Pickup truck: Standard,5.7,8.0,A8,X,21.0,323.0
+2022.0,RAM,1500 Classic 4X4,Pickup truck: Standard,3.6,6.0,A8,X,22.0,295.0
+2022.0,RAM,1500 Classic 4X4,Pickup truck: Standard,5.7,8.0,A8,X,20.0,330.0
+2022.0,RAM,ProMaster City,Special purpose vehicle,2.4,4.0,A9,X,29.0,232.0
+2022.0,ROLLS-ROYCE,Cullinan,Station wagon: Mid-size,6.7,12.0,AS8,Z,17.0,386.0
+2022.0,ROLLS-ROYCE,Cullinan Black Badge,Station wagon: Mid-size,6.7,12.0,AS8,Z,17.0,386.0
+2022.0,ROLLS-ROYCE,Ghost,Full-size,6.7,12.0,AS8,Z,17.0,387.0
+2022.0,ROLLS-ROYCE,Ghost Black Badge,Full-size,6.7,12.0,AS8,Z,17.0,387.0
+2022.0,ROLLS-ROYCE,Ghost EWB,Full-size,6.7,12.0,AS8,Z,17.0,387.0
+2022.0,ROLLS-ROYCE,Phantom,Full-size,6.7,12.0,AS8,Z,17.0,382.0
+2022.0,ROLLS-ROYCE,Phantom EWB,Full-size,6.7,12.0,AS8,Z,17.0,382.0
+2022.0,SUBARU,Ascent AWD,SUV: Standard,2.4,4.0,AV8,X,27.0,245.0
+2022.0,SUBARU,BRZ,MINICOMPACT,2.4,4.0,AS6,Z,30.0,224.0
+2022.0,SUBARU,BRZ,MINICOMPACT,2.4,4.0,M6,Z,27.0,247.0
+2022.0,SUBARU,Crosstrek AWD,SUV: Small,2.0,4.0,AV8,X,36.0,184.0
+2022.0,SUBARU,Crosstrek AWD,SUV: Small,2.0,4.0,M6,X,30.0,220.0
+2022.0,SUBARU,Crosstrek AWD,SUV: Small,2.5,4.0,AV8,X,35.0,188.0
+2022.0,SUBARU,Forester AWD,SUV: Small,2.5,4.0,AV7,X,34.0,192.0
+2022.0,SUBARU,Forester Wilderness AWD,SUV: Small,2.5,4.0,AV8,X,31.0,210.0
+2022.0,SUBARU,Impreza 4-Door AWD,Mid-size,2.0,4.0,AV7,X,38.0,174.0
+2022.0,SUBARU,Impreza 4-Door AWD,Mid-size,2.0,4.0,M5,X,31.0,209.0
+2022.0,SUBARU,Impreza 5-Door AWD,Station wagon: Small,2.0,4.0,AV7,X,37.0,178.0
+2022.0,SUBARU,Impreza 5-Door AWD,Station wagon: Small,2.0,4.0,M5,X,31.0,211.0
+2022.0,SUBARU,Legacy AWD,Full-size,2.4,4.0,AV8,X,32.0,205.0
+2022.0,SUBARU,Legacy AWD,Full-size,2.5,4.0,AV8,X,36.0,184.0
+2022.0,SUBARU,Outback AWD,SUV: Small,2.4,4.0,AV8,X,31.0,213.0
+2022.0,SUBARU,Outback AWD,SUV: Small,2.5,4.0,AV8,X,34.0,192.0
+2022.0,SUBARU,Outback Wilderness AWD,SUV: Small,2.4,4.0,AV8,X,28.0,235.0
+2022.0,SUBARU,WRX AWD,Mid-size,2.4,4.0,AV8,Z,25.0,262.0
+2022.0,SUBARU,WRX AWD,Mid-size,2.4,4.0,M6,Z,26.0,254.0
+2022.0,TOYOTA,4Runner 4WD,SUV: Standard,4.0,6.0,AS5,X,20.0,323.0
+2022.0,TOYOTA,4Runner 4WD (Part-Time 4WD),SUV: Standadr,4.0,6.0,AS5,X,20.0,321.0
+2022.0,TOYOTA,C-HR,Compact,2.0,4.0,AS7,X,34.0,189.0
+2022.0,TOYOTA,Camry LE/SE,Mid-size,2.5,4.0,AS8,X,38.0,174.0
+2022.0,TOYOTA,Camry XSE,Mid-size,2.5,4.0,AS8,X,37.0,178.0
+2022.0,TOYOTA,Camry XSE V6,Mid-size,3.5,6.0,AS8,X,31.0,215.0
+2022.0,TOYOTA,Camry TRD,Mid-size,3.5,6.0,AS8,X,30.0,220.0
+2022.0,TOYOTA,Camry AWD SE,Mid-size,2.5,4.0,AS8,X,34.0,192.0
+2022.0,TOYOTA,Camry AWD XSE,Mid-size,2.5,4.0,AS8,X,34.0,195.0
+2022.0,TOYOTA,Camry Hybrid LE,Mid-size,2.5,4.0,AV,X,58.0,113.0
+2022.0,TOYOTA,Camry Hybrid SE/XLE/XSE,Mid-size,2.5,4.0,AV,X,55.0,121.0
+2022.0,TOYOTA,Corolla,Compact,1.8,4.0,AV,X,40.0,166.0
+2022.0,TOYOTA,Corolla XLE,Compact,1.8,4.0,AV,X,39.0,170.0
+2022.0,TOYOTA,Corolla,Compact,1.8,4.0,M6,X,40.0,165.0
+2022.0,TOYOTA,Corolla,Compact,2.0,4.0,AV10,X,42.0,159.0
+2022.0,TOYOTA,Corolla XSE,Compact,2.0,4.0,AV10,X,40.0,164.0
+2022.0,TOYOTA,Corolla,Compact,2.0,4.0,M6,X,38.0,172.0
+2022.0,TOYOTA,Corolla Apex Edition,Compact,2.0,4.0,AV10,X,40.0,164.0
+2022.0,TOYOTA,Corolla Hatchback,Compact,2.0,4.0,AV10,X,42.0,159.0
+2022.0,TOYOTA,Corolla Hatchback,Compact,2.0,4.0,M6,X,37.0,179.0
+2022.0,TOYOTA,Corolla Hybrid,Compact,1.8,4.0,AV,X,63.0,106.0
+2022.0,TOYOTA,Corolla Cross,SUV: Small,2.0,4.0,AV10,X,39.0,171.0
+2022.0,TOYOTA,Corolla Cross AWD,SUV: Small,2.0,4.0,AV10,X,36.0,182.0
+2022.0,TOYOTA,GR86,MINICOMPACT,2.4,4.0,AS6,Z,29.0,224.0
+2022.0,TOYOTA,GR86,MINICOMPACT,2.4,4.0,M6,Z,27.0,246.0
+2022.0,TOYOTA,GR Supra 2.0,TWO-SEATER,2.0,4.0,AS8,Z,34.0,195.0
+2022.0,TOYOTA,GR Supra 3.0,TWO-SEATER,3.0,6.0,AS8,Z,30.0,218.0
+2022.0,TOYOTA,Highlander AWD,SUV: Small,3.5,6.0,AS8,X,27.0,241.0
+2022.0,TOYOTA,Highlander Hybrid AWD,SUV: Standard,2.5,4.0,AV,X,42.0,158.0
+2022.0,TOYOTA,Highlander Hybrid AWD Limited/Platinum,SUV: Standard,2.5,4.0,AV,X,42.0,156.0
+2022.0,TOYOTA,Prius,Mid-size,1.8,4.0,AV,X,63.0,106.0
+2022.0,TOYOTA,Prius AWD,Mid-size,1.8,4.0,AV,X,59.0,111.0
+2022.0,TOYOTA,RAV4,SUV: Small,2.5,4.0,AS8,X,36.0,184.0
+2022.0,TOYOTA,RAV4 (Stop/Start),SUV: Small,2.5,4.0,AS8,X,37.0,180.0
+2022.0,TOYOTA,RAV4 AWD,SUV: Small,2.5,4.0,AS8,X,34.0,198.0
+2022.0,TOYOTA,RAV4 AWD (Stop/Start),SUV: Small,2.5,4.0,AS8,X,35.0,187.0
+2022.0,TOYOTA,RAV4 AWD LE,SUV: Small,2.5,4.0,AS8,X,36.0,184.0
+2022.0,TOYOTA,RAV4 AWD TRD Off-Road,SUV: Small,2.5,4.0,AS8,X,33.0,200.0
+2022.0,TOYOTA,RAV4 Hybrid AWD,SUV: Small,2.5,4.0,AV,X,47.0,140.0
+2022.0,TOYOTA,Sequoia 4WD,SUV: Standadr,5.7,8.0,AS6,X,17.0,385.0
+2022.0,TOYOTA,Sienna,MINIvan,2.5,4.0,AV,X,43.0,154.0
+2022.0,TOYOTA,Sienna AWD,MINIvan,2.5,4.0,AV,X,42.0,158.0
+2022.0,TOYOTA,Tacoma 4WD,Pickup truck: Small,3.5,6.0,AS6,X,24.0,278.0
+2022.0,TOYOTA,Tacoma 4WD,Pickup truck: Small,3.5,6.0,M6,X,22.0,299.0
+2022.0,TOYOTA,Tacoma 4WD D-Cab TRD Off-Road/PRO,Pickup truck: Small,3.5,6.0,M6,X,22.0,300.0
+2022.0,TOYOTA,Tundra,Pickup truck: Standard,3.4,6.0,AS10,X,24.0,277.0
+2022.0,TOYOTA,Tundra 4WD,Pickup truck: Standard,3.4,6.0,AS10,X,23.0,285.0
+2022.0,TOYOTA,Tundra 4WD TRD,Pickup truck: Standard,3.4,6.0,AS10,X,23.0,286.0
+2022.0,TOYOTA,Tundra Hybrid 4WD,Pickup truck: Standard,3.4,6.0,AS10,X,24.0,274.0
+2022.0,TOYOTA,Tundra Hybrid 4WD TRD PRO,Pickup truck: Standard,3.4,6.0,AS10,X,23.0,287.0
+2022.0,TOYOTA,Venza AWD,SUV: Small,2.5,4.0,AV,X,46.0,142.0
+2022.0,VOLKSWAGEN,Atlas 4MOTION,SUV: Small,2.0,4.0,AS8,X,27.0,249.0
+2022.0,VOLKSWAGEN,Atlas 4MOTION,SUV: Small,3.6,6.0,AS8,X,23.0,286.0
+2022.0,VOLKSWAGEN,Atlas Cross Sport 4MOTION,SUV: Small,2.0,4.0,AS8,X,26.0,252.0
+2022.0,VOLKSWAGEN,Atlas Cross Sport 4MOTION,SUV: Small,3.6,6.0,AS8,X,24.0,275.0
+2022.0,VOLKSWAGEN,Golf GTI,Mid-size,2.0,4.0,AM7,X,34.0,194.0
+2022.0,VOLKSWAGEN,Golf GTI,Mid-size,2.0,4.0,M6,X,33.0,198.0
+2022.0,VOLKSWAGEN,Golf R,Mid-size,2.0,4.0,AM7,Z,31.0,213.0
+2022.0,VOLKSWAGEN,Golf R,Mid-size,2.0,4.0,M6,Z,28.0,237.0
+2022.0,VOLKSWAGEN,Jetta,Compact,1.5,4.0,AS8,X,42.0,159.0
+2022.0,VOLKSWAGEN,Jetta,Compact,1.5,4.0,M6,X,41.0,161.0
+2022.0,VOLKSWAGEN,Jetta GLI,Compact,2.0,4.0,AM7,X,36.0,185.0
+2022.0,VOLKSWAGEN,Jetta GLI,Compact,2.0,4.0,M6,X,36.0,186.0
+2022.0,VOLKSWAGEN,Passat,Mid-size,2.0,4.0,AS6,X,34.0,196.0
+2022.0,VOLKSWAGEN,Taos,SUV: Small,1.5,4.0,A8,X,37.0,178.0
+2022.0,VOLKSWAGEN,Taos 4MOTION,SUV: Small,1.5,4.0,A7,X,33.0,200.0
+2022.0,VOLKSWAGEN,Tiguan 4MOTION,SUV: Small,2.0,4.0,AS8,X,30.0,222.0
+2022.0,VOLKSWAGEN,Tiguan R-Line 4MOTION,SUV: Small,2.0,4.0,AS8,X,29.0,229.0
+2022.0,VOLVO,S60 B5,Compact,2.0,4.0,AS8,Z,35.0,186.0
+2022.0,VOLVO,S60 B5 AWD,Compact,2.0,4.0,AS8,Z,34.0,193.0
+2022.0,VOLVO,S90 B6 AWD,Mid-size,2.0,4.0,AS8,Z,31.0,212.0
+2022.0,VOLVO,V60 T6 AWD,Station wagon: Small,2.0,4.0,AS8,Z,29.0,224.0
+2022.0,VOLVO,V60 CC T5 AWD,Station wagon: Small,2.0,4.0,AS8,Z,30.0,221.0
+2022.0,VOLVO,V90 CC B6 AWD,Station wagon: Mid-size,2.0,4.0,AS8,Z,30.0,222.0
+2022.0,VOLVO,XC40 T4 AWD,SUV: Small,2.0,4.0,AS8,X,30.0,217.0
+2022.0,VOLVO,XC40 T5 AWD,SUV: Small,2.0,4.0,AS8,Z,30.0,219.0
+2022.0,VOLVO,XC60 B5 AWD,SUV: Small,2.0,4.0,AS8,Z,30.0,219.0
+2022.0,VOLVO,XC60 B6 AWD,SUV: Small,2.0,4.0,AS8,Z,29.0,232.0
+2022.0,VOLVO,XC90 T5 AWD,SUV: Standard,2.0,4.0,AS8,Z,28.0,236.0
+2022.0,VOLVO,XC90 T6 AWD,SUV: Standard,2.0,4.0,AS8,Z,26.0,252.0
